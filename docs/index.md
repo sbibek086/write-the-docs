@@ -12,7 +12,6 @@ So, lets see purple color case. Here, one seller supplies  30L  /Q now. Since tr
 So, if wants to really trade at THIS TIME condition, he has to lower his price (hence ball in bowl case) OR he has to wait some time (maybe weeks, months after) ie. t+ t' . 
  Vice Versa with red color case. (hence ball in down bowl case)
 So quoted, "Free unbiased market acts like invisible hand to promote social goods"
-
       Obviously this graph is ever changing at other significant t+t', just like graph of how much distance from destination will remain changes based on how much distance already travelled. 
       This graph cuts 100% TRUE, REAL and graph is RAPIDLY CHANGING in milliseconds (where equilibrium point is rapidly shifting) in perfect example of FREE MARKET like stock share crypto exchange. and NOT rapidly changing in commodity market, obvious example of rice market.
 -----
