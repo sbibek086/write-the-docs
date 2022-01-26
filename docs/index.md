@@ -20,6 +20,6 @@ PS about buyers.. non sellers dim color: lets assume this of SLOW market like th
 ----
 ![p153](https://user-images.githubusercontent.com/11883023/151040620-9df7782a-f78f-4659-9c1c-f4c0c04dc111.jpg)
 
-now we can see that p153 graph was infact explaining how when equilibrium point changes at t+t' when Supply |Supplied Asked Price is changed by supplier.
+now we can see that p153 graph was infact explaining how when equilibrium point changes at t+t' when Supply aka Supplied aka Asked Price is changed by supplier.
 
 
