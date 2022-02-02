@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog-Post
+title: Blog-Post-4
 ---
 
 So, why is tokenomics important? https://cvj.ch/en/education/basics/the-importance-of-tokenomics/
