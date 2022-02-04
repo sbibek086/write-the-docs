@@ -36,6 +36,7 @@ In this context, charging and billing are two separate things. Your charges are 
 ---
 **Here’s how Google AdWords billing thresholds work: **
 
+See below img enlarged in next tab here: https://user-images.githubusercontent.com/11883023/152568738-0db0a17f-8e8c-4505-b937-3dce2b5bff39.png
 ![image](https://user-images.githubusercontent.com/11883023/152568738-0db0a17f-8e8c-4505-b937-3dce2b5bff39.png)
 
 Where I went wrong not understanding this??
