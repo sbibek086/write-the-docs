@@ -2,7 +2,7 @@
 layout: default
 title: Google-Account-Mgmt
 ---
-<sub>
+
 Here, I will explore explored-by-few territories of google account: google adwords, google play, security and settings, and account syncing across multiple devices.
 
 Google is master at keeping and making things simple. But why it has to be complicated in managing all these features like syncing , making multiple profiles within same features like we can do multiple profiles in one google adwords account?
@@ -62,5 +62,3 @@ If Prospect Genius ((888) 488-9011) is managing your account, we are happy to do
 ![image](https://user-images.githubusercontent.com/11883023/152506156-d8aca02b-c3fc-4717-a820-c05fc91b8135.png)
 and 47.89$ details is shown below: 
 ![image](https://user-images.githubusercontent.com/11883023/152321693-36455500-b7d8-4d8a-8711-cdc2eeae9824.png)
-
-</sub>
