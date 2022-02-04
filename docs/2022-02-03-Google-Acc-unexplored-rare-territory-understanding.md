@@ -14,9 +14,13 @@ Below, I will break down and try to make sense of overall integration and right 
 
 ---
 Google Adwords ads.google.com Billing Cycle, THreshold etc explained:
+
 [Excerpt and credits Source but dont look at it, below is its simplified form](https://www.prospectgenius.com/blog/google-adwords-billing/)
+
 For that its summarized as below:
+
 **“Daily” Budget Is Not What It Seems**
+
   When you first set up AdWords, Google allows you to set a daily budget.This is NOT the amount AdWords will spend on their ads each day. 
 
 Instead, Google takes the amount you set for your daily budget and multiplies that number by 30.4. The result is what Google allows itself to spend on your ads for the whole month. So, in effect, when you set a daily budget, you’re really setting a *monthly* budget.
