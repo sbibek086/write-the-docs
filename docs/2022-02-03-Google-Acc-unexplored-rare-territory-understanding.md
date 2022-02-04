@@ -28,7 +28,7 @@ That brings me to - what exactly is Billing Cycle?
 [Excerpt and credits](https://www.prospectgenius.com/blog/google-adwords-billing/)
 For that its summarized as below:
 **“Daily” Budget Is Not What It Seems**
-  When you first set up AdWords, Google allows you to set a daily budget. When most people hear this, they assume this is the amount AdWords will spend on their ads each day. This is the logical assumption. However, this is not what actually happens. Instead, Google takes the amount you set for your daily budget and multiplies that number by 30.4. The result is what Google allows itself to spend on your ads for the whole month. So, in effect, when you set a daily budget, you’re really setting a *monthly* budget.
+  When you first set up AdWords, Google allows you to set a daily budget. When most people hear this, they assume this is the amount AdWords will spend on their ads each day. Instead, Google takes the amount you set for your daily budget and multiplies that number by 30.4. The result is what Google allows itself to spend on your ads for the whole month. So, in effect, when you set a daily budget, you’re really setting a *monthly* budget.
 
 ---
 **Why does Google use your budget this way?**
@@ -36,7 +36,8 @@ For that its summarized as below:
 
 ---
 **Thresholds and Billing Cycles**
-Above, we cover how Google AdWords charges your account—in other words, how it spends your budget. Now, we’re going to talk about billing. This is where people really start scratching their heads. In this context, charging and billing are two separate things. Your charges are what your account has spent on clicks and bids. Your bill, on the other hand, is what Google debits from your credit card. Contrary to most other services you pay for in your normal life, Google doesn’t bill you for your total charges at the end of the calendar month. Instead, it goes by a 30-day billing cycle and bills you every time you hit a certain charge “threshold.” So, you may rack up $670 in charges in the month of January; however, that won’t be reflected in your bill.
+Above, we cover how Google AdWords charges your account—in other words, how it spends your budget. 
+Now, we’re going to talk about billing. In this context, charging and billing are two separate things. Your charges are what your account has spent on clicks and bids. Your bill, on the other hand, is what Google debits from your credit card. Contrary to most other services you pay for in your normal life, Google doesn’t bill you for your total charges at the end of the calendar month. Instead, it goes by a 30-day billing cycle and bills you every time you hit a certain charge “threshold.” So, you may rack up $670 in charges in the month of January; however, that won’t be reflected in your bill.
 
 ---
 **Here’s how Google AdWords billing thresholds work: **
@@ -60,3 +61,5 @@ One obstacle many businesses face is the fact that they have their own monthly b
 
 If Prospect Genius ((888) 488-9011) is managing your account, we are happy to do this on your behalf. We closely monitor all of the accounts we run, so we will watch your spending and pause your campaign as soon as it gets too close to your personal limit. Then, we’ll resume your campaign once the billing cycle resets. Google AdWords billing is extremely difficult to understand, and that’s probably not an accident. 
 
+**Where I messed up in my last promoted youtube ads of Edmark Consultancy**
+![image](https://user-images.githubusercontent.com/11883023/152506156-d8aca02b-c3fc-4717-a820-c05fc91b8135.png)
