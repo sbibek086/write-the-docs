@@ -40,11 +40,17 @@ Now, we’re going to talk about billing. In this context, charging and billing 
 **Here’s how Google AdWords billing thresholds work: **
 
 a)  Your starting threshold is $50. Google does this to make sure you can actually pay before you go any further in your campaign.
+
 b)  If you spend $50 within your first 30 days, Google bills you immediately and resets your billing cycle. Now, your threshold is bumped up to $200.
+
 c)  If you spend less than $50 within your first 30 days, you’ll be billed your exact spend amount at the end of the cycle. Your threshold will remain at $50 for the next 30 days, or until you surpass $50.
+
 d)  Next, if you reach your $200 threshold within 30 days, Google bills you, resets your cycle, and raises your threshold to $350. If you spend less than $200, Google bills you for the exact spend amount at the end of 30 days and keeps your threshold at $200 until you surpass it.
+
 e)  The process repeats itself for the $350 threshold.
+
 f)  The final threshold is $500. Once you reach $500, Google will bill you and reset the cycle, keeping your threshold at $500.
+
 So, instead of just paying what you owe at the end of every calendar month, you’re billed every 30 days OR every time you reach your threshold. 
 
 ---
