@@ -1,3 +1,7 @@
+---
+layout: default
+title: Google-Account-Mgmt
+---
 ![image](https://user-images.githubusercontent.com/11883023/152321693-36455500-b7d8-4d8a-8711-cdc2eeae9824.png)
 
 This post is currently not perfectly cooked and I will prepare it.
