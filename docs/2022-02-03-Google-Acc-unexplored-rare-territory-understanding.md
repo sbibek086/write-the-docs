@@ -15,3 +15,14 @@ Below, I will break down and try to make sense of overall integration and right 
 
 ![image](https://user-images.githubusercontent.com/11883023/152491914-ae798da1-18d6-484e-8113-fc2669e77edf.png)
 
+---
+![Untitledgggggg](https://user-images.githubusercontent.com/11883023/152497103-33b8f770-790d-40aa-9445-5e35788ece6f.png)
+
+I used to wonder -what is 'this entire 350$ payment threshold available' in ads.google.com aka google adwords. 
+I used to wonder - Will I be offered 350$ free advertising?
+It turned out, Its not free advertising of any amount. 
+I have to pay the amount of money I spend on my advertising.
+Its just that My threshold is 350$ means I wont be charged or billed until I spend that amount in that billing cycle.
+That brings me to - what exactly is Billing Cycle?
+
+
