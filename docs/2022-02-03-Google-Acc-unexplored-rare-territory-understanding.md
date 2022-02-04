@@ -12,3 +12,6 @@ Google is master at keeping and making things simple. But why it has to be compl
 Google is not to blame, we are to. Suppose we make different personal gmail, office gmails etc.
 
 Below, I will break down and try to make sense of overall integration and right TO-DOS and TO-DONTS.
+
+![image](https://user-images.githubusercontent.com/11883023/152491914-ae798da1-18d6-484e-8113-fc2669e77edf.png)
+
