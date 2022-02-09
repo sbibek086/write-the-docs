@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: Gardening-TEO-GARDEN-yt
 ---
 Gardening, Reusing of Products, Circular economy is one of my wise passion which I have discovered. 
