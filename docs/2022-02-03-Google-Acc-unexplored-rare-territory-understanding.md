@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Google-Account-Mgmt
+category: Google Mgmt
+tags: [Google Mgmt]
 ---
 
 Here, I will explore explored-by-few territories of google account: google adwords, google play, security and settings, and account syncing across multiple devices.
