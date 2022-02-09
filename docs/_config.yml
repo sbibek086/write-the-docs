@@ -3,7 +3,7 @@ title: Vivek Shrestha website
 description: A website made with GitHub Pages
 
 # Set the production website URL when previewing
-baseurl: "/"
+baseurl: "/write-the-docs "
 
 # Markdown parser and theme settings
 markdown: kramdown
