@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Blog-Post-4
+title: Tokenomics Understanding and Red flags
+category: Economics
+tags: [Economics]
 ---
 ![257176633_3172825622948138_5456142672216792611_n](https://user-images.githubusercontent.com/11883023/152141274-413d5145-95e4-4c22-bffd-f008214aca41.jpg)
 
