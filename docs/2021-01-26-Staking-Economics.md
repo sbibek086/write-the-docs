@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Blog-Post-1
+title: Staking Economics
+category: Economics
+tags: [Economics, Cryptography]
 ---
 
 https://www.youtube.com/watch?v=eUpThQP0QV8 description got vital link https://www.mangoresearch.co/blockchain-consensus-vs.../ which clarifies that (Ctrl+F) - Validators comprise primarily of miners and mining pools that run full nodes.
