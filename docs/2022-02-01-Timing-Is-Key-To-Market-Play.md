@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Blog-Post
+title: Timing is Key in Market Play
+category: Economics
+tags: [Economics]
 ---
 ![257176633_3172825622948138_5456142672216792611_n](https://user-images.githubusercontent.com/11883023/152142585-d1b6bc6c-e42e-47f7-aec5-ebb3f02a969f.jpg)
 
