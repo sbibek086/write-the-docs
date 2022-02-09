@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Blog-Post
+title: Macroeconomics
+category: Economics
+tags: [Economics]
 ---
 1. There's always tradeoffs: To get something, you have to give up something. It's always prioritization in life.
 
