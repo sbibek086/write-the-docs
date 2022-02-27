@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Environment Vars: Sys Vars, User Vars Explained
+title: Environment Vars Sys Vars, User Vars Explained
 category: WindowsOS
 tags: [WindowsOS]
 ---
-
 ![SysVars](https://user-images.githubusercontent.com/11883023/155872097-7dae959d-a0bb-44ed-b66d-f9787bc0363b.jpg)
 How Environment Vars as shown by red bordered in above sceens can be accessed is shown in 1,2,3 step there. As can be seen in red bordered dialog box, there are two types of EnvironmentVars: 
 i)Sys Vars: These are wide accepted & doesnt vary from user to user (Like in one OS, you can create Admin user, Guest user etc.)
