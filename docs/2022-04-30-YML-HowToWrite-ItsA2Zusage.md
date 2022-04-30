@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Y(a)ml - How to write it and its A2Z Usage
 category: DevOps
 ---
