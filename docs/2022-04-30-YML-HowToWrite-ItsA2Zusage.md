@@ -3,8 +3,8 @@ layout: posts
 title: Y(a)ml - How to write it and its A2Z Usage
 category: DevOps
 ---
-First of all, lets start with this compact turbo feeder note of How to write YML with below image
-![bbbbbbbbbb - Copy](https://user-images.githubusercontent.com/11883023/166114322-c8fa6fc6-d968-4b23-af3e-73fdd8ba45ce.jpg)
+First of all, lets start with this docker-compose.yml of what we tried to do CLI way of docker in github_com/sbibek086 
+![openARUN_MaileGarirako-ko-DockerComposeYML](https://user-images.githubusercontent.com/11883023/167805462-8c71bbf5-a2ba-4ffa-a6c9-b181f26b0ca9.jpg)
 
 Now, lets explore usage of YML:
 Why Infrastructure.as.Code? Traditionally if you have codebase, then for deploying to server, system admin or Operations task of starting configuring server, running firewall security etc have to be done. These all are modularized and automated started by writing IaC yml.
