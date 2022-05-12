@@ -10,7 +10,7 @@ i)Sys Vars: These are wide accepted & doesnt vary from user to user (Like in one
 
 ii)User Vars: (vary from user to user) You can add your variables under your user OS account so that it has got nothing to do with other users.
 
-Without me knowing about all this topic here, I use to type %temp% in search box or dialog box, and it would open C:\Users\User\AppData\Local so that I would del all temp files to fasten my machine. What was happening behind the scenes was: TEMP was mapped to C:\Users\User\AppData\Local as seen by blue bordered in above sceenshot ,and its infact iii) type of EnvironmentVars called DynamicVars ,and is fixed on time of manufature & cant be set changed by us.
+`Without me knowing about all this topic here, I use to type %temp% in search box or dialog box, and it would open C:\Users\User\AppData\Local so that I would del all temp files to fasten my machine. What was happening behind the scenes was: TEMP was mapped to C:\Users\User\AppData\Local as seen by blue bordered in above sceenshot ,and its infact iii) type of EnvironmentVars called DynamicVars ,and is fixed on time of manufature & cant be set changed by us.`
 
 Both vars work similar to registry in Windows ,and so such vars can be accessed directly with _regedit_ in cmd.
 i) are evaluated after ii), which means if we have got same name i) and ii), then it will be considered user vars.
@@ -21,3 +21,7 @@ Also to notice is: The Path variable is generated in a different way. The effect
 Now, if I double click to add for eg, VScode paths as shown by orange bordered, after that if I want to run open VS code, open up Command Prompt and type in the name of the executable file that was in the folder. You can provide additional arguments if the program supports it. 
 
 The program will run from the command prompt without actually being in the directory from where you executed the command. That is the beauty of the Path variable.
+
+---
+Some more information about files in Windows and why they are? *These informations are not related to above context.*
+![image](https://user-images.githubusercontent.com/11883023/168128647-21ed35dd-6d92-4bbe-afd1-bcec15aab700.png)
