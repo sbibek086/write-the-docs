@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Decentralization-The New Way
+title:  Decentralization-The New Way
+category: Economics
+tags: [Economics, Cryptography]
 ---
+
 ![257176633_3172825622948138_5456142672216792611_n](https://user-images.githubusercontent.com/11883023/152143272-ddae32f6-4aa2-4b61-b153-a8e13b65d897.jpg)
 
 In banking crisis of 2008, expectation of regulator on banking industry weren't met, or in other words expectation of society on regulators. And in some sort, this is endemic to modern world because power structures in modern world are opaque.
