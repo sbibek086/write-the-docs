@@ -6,7 +6,7 @@ tags: [Cryptography]
 ---
 
 Art of MathEquation to Code
-*Idk why image is failing to upload in here just drag dropping, instead I will just drop in image link below*
+
 ![ghub prj - Copy](https://user-images.githubusercontent.com/11883023/174643433-3c2538ba-14c0-459a-a71f-a7f22cbc9af6.jpg)
 
 
@@ -14,4 +14,5 @@ To more understand the preface of Poisson's distribution equation and where it c
 
 
 Art of General Language to Code
+
 ![Untitledaaaaaaaaaa](https://user-images.githubusercontent.com/11883023/174643602-7ddc700d-ad89-4f0f-b139-eba68fcc49b4.png)
