@@ -46,19 +46,27 @@ b. Firewall is WALL that protects our LAN from incoming FIRE traffic from WAN. i
 ie. which port to open and/or which ip range are allowed for incoming traffic.
  Its Aws equivalent is Network.Access.Control.List + Sec gp
  
-c. now to disallow Firewall for some specific section of subnets, we can assign such subnets as DeMilitarize.Zone DMZ. It's like in our school, 
-if we allow some students to be visited by outsider, then security guard can put certain students in  
-'No Restriction, outsider can come visit them' room.    Accurately put, DMZ is subnet that exposes device to outside WAN.
+c. now to disallow Firewall for some specific section of subnets, we can assign such subnets as DeMilitarize.Zone DMZ.
+
+ It's like in our school, if we allow some students to be visited by outsider, then security guard can put certain students in  
+'No Restriction, outsider can come visit them' room.    
+
+Accurately put, DMZ is subnet that exposes device to outside WAN.
 
 d. now to disable Firewall, we can also do 'PORT FORWARDING' rules on firewall. This is equivalent to AWS security group rules. This statement was about setting up 
 port forwarding rules for incoming traffic in device of our LAN.
+
 Have you noticed this when we become as incoming traffic to standard website or services.  
 ie.whenever we hit website on web browser, by default, it goes to webserver default port 80 ie. there is standard convention of
- not to put restriction for incoming traffic in port 80.  
+ not to put restriction for incoming traffic in port 80. 
+ 
 Likewise for oracle database server, in default port- 1521, there is no restriction to access. ie. this port has been lifted from FIREWALL.
 Likewise for TomCat server, in default port - 8080. 
 
 NOTICED, how all this above concept is what is setup in AWS itself. There might be new terminologies, but it is recreating all this.
+
 Think of it this way -
+
 We got home garden home path etc. etc. manually setup in real soil == having buying computer, giving IP, connecting to Internet.
+
 Now, we got all these home garden, home path evrything to real thing now DELIVERED in truck and we rent evrything and set it up truck soil === AWS
