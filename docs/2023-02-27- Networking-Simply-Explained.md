@@ -24,8 +24,10 @@ makes 192.168 identifiable as inside its LAN.  so, 192.168.1.2 is identified as 
 
 ![Nw](https://user-images.githubusercontent.com/11883023/221634022-a34639ca-ca31-4974-9df8-6ba4ef306d36.png)
 
+```
 How? There's some maths how its resolved but DONT BOTHER TO UNDERSTAND IT N EVERYTHING, Vivek. Just memorize, this is how its done. 
 If you cant kill stupid curiosity, then >> https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png
+```
 --
 
 Now lets cover green color.
