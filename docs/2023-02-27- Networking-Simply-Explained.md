@@ -7,9 +7,12 @@ tags: [Technology]
 
 ![Nw](https://user-images.githubusercontent.com/11883023/221647157-ecf74482-b68f-4a9b-8db7-607d56e4a783.png)
 
-So, 1st let's focus on blue color diagram:  Local.Area.Network is what is inside say, one office. 
+So, 1st let's focus on blue color diagram:  
+
+Local.Area.Network is what is inside say, one office. 
 Analogy: Inside Boundry of school == LAN.
 So, class X == one IP  
+
 _{now lets not complicate this analogy, ok so class X's Ram is one IP, then what is IP equivalent for class X's Syam. For now, lets just say, whoever is from class X==1 IP}_
 Class X student can talk w class XI student or also w class XII student. So, class X message if it is for class XI or XII. That's where peon comes in. 
 Peon == SWITCH == multiplexer.           Peon ensures class X student message is for class XI, NOT class XII.
@@ -28,7 +31,6 @@ makes 192.168 identifiable as inside its LAN.  so, 192.168.1.2 is identified as 
 How? There's some maths how its resolved but DONT BOTHER TO UNDERSTAND IT N EVERYTHING, Vivek. Just memorize, this is how its done. 
 If you cant kill stupid curiosity, then >> https://user-images.githubusercontent.com/109033173/183240652-76f9f489-b36b-4b9c-952a-49189d5c789c.png
 ```
---
 
 Now lets cover green color.
 Now for 192.168.10.20 to communicate w 62.13.29.50, we now need Router == Security guard. 
