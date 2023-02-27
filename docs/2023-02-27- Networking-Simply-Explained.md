@@ -5,7 +5,7 @@ category: Techology
 tags: [Technology]
 ---
 
-![Nw](https://user-images.githubusercontent.com/11883023/221639537-957fc349-1c38-451d-a450-d0e57a7f8654.png)
+![Nw](https://user-images.githubusercontent.com/11883023/221647157-ecf74482-b68f-4a9b-8db7-607d56e4a783.png)
 
 So, 1st let's focus on blue color diagram:  Local.Area.Network is what is inside say, one office. 
 Analogy: Inside Boundry of school == LAN.
