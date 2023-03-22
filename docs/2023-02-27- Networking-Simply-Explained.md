@@ -27,8 +27,8 @@ Welcome to NETMASK's concept.
 so, 192.168.1.2 subnet w 255.255.0.0 produces 192.168.1.2 as inside its LAN. How? 
 because 
 
-binary of 192   . binary of 168   . 0000 0001 . 0000 0010
-1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 0000  0000. 0000 0000  <= this is binary of 255.255.0.0
+binary of 192   .  binary of 168   . 0000  0001 . 0000 0010
+1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1  . 0000  0000 . 0000 0000  <= this is binary of 255.255.0.0
 makes 192.168 identifiable as inside its LAN.  so, 192.168.1.2 is identified as one, inside its LAN and 62.13.29.50 is identified as not.
 
 ![Nw](https://user-images.githubusercontent.com/11883023/221634022-a34639ca-ca31-4974-9df8-6ba4ef306d36.png)
