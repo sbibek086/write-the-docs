@@ -24,7 +24,9 @@ Now, what if some student from one of class wants to communicate outside of his 
 and how does 192.168.10.20 know that 192.168.1.2 is in its LAN and 62.13.29.50 is outside? 
 
 Welcome to NETMASK's concept.
-so, 192.168.1.2 subnet w 255.255.0.0 produces 192.168.1.2 as inside its LAN. How? because 
+so, 192.168.1.2 subnet w 255.255.0.0 produces 192.168.1.2 as inside its LAN. How? 
+because 
+
 binary of 192   . binary of 168   . 0000 0001 . 0000 0010
 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 . 0000  0000. 0000 0000  <= this is binary of 255.255.0.0
 makes 192.168 identifiable as inside its LAN.  so, 192.168.1.2 is identified as one, inside its LAN and 62.13.29.50 is identified as not.
