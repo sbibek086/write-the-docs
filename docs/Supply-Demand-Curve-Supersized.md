@@ -7,7 +7,7 @@ tags: [Economics]
 
 ![259751014_3178076055756428_6922035564974307157_n](https://user-images.githubusercontent.com/11883023/151040702-38050d7c-459b-4248-a8c6-50d8508c66c8.jpg)
 
-So, this graph is true for inelastic goods like say rice for Nepalese or petrol (we cant escape buying it even if price inc very high). In this graph, every parameter ie. x here price p,  y here quantity q can be cause or x |y can be effect depending on context.
+So, this graph is true for inelastic goods like say rice for Nepalese or petrol (we cant escape buying it even if price inc very high). In this graph, every parameter ie. x here price p,  y here quantity q can be cause or y, x can be effect depending on context.
 
 So, equilibrium pt (price p, quantity q) is where buyers demand q, p fulfills or comes to meet at sellers supply q,p in FREE UNEXPLOITED UNBIASED market where there's only one rule: at any time, sellers ASKing for lowest price is prioritized for trade/exchange over other sellers & buyers BIDDing for highest price is prioritized for trade/exchange over other buyers.
 
