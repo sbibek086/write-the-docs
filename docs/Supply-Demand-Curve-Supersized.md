@@ -21,14 +21,17 @@ So, if wants to really trade at THIS TIME condition, he has to lower his price (
 
 So quoted, Free unbiased market acts like invisible hand to promote social goods.
 
-----   
+----  
+ 
    Obviously this graph is ever changing at other significant t+t', just like graph of how much distance from destination will remain changes based on how much distance already travelled. 
       This graph cuts 100% TRUE, REAL and graph is RAPIDLY CHANGING in milliseconds (where equilibrium point is rapidly shifting) in perfect example of FREE MARKET like stock share crypto exchange. and NOT rapidly changing in commodity market, obvious example of rice market.
+
 ----
 
 PS about BUYERS NON BUYERS SELLERS NON SELLERS dim color: lets assume this of SLOW market like that of rice (ie. equilibrium point stays same for days), 
 then REALLY willing buyers are ones who BID price higher than THIS TIME trading price & 
 REALLY willing sellers are ones who ASK price lower than THIS TIME trading price.
+
 ----
 
 ![p153](https://user-images.githubusercontent.com/11883023/151040620-9df7782a-f78f-4659-9c1c-f4c0c04dc111.jpg)
