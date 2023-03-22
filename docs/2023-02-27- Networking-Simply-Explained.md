@@ -44,6 +44,7 @@ Now lets cover green color.
 Now for 192.168.10.20 to communicate w 62.13.29.50, we now need Router == Security guard. 
 
 Router should serve as
+
 a. NAT 
 
 b. Firewall is WALL that protects our LAN from incoming FIRE traffic from WAN. ie. adhoc requests are to be blocked and only specific set of communications
