@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discretization of Everything, Thanks to Pioneer Satoshi
+title: How F-E communicates w B-E & vversa
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
