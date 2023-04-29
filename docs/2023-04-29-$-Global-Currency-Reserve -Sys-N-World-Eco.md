@@ -28,16 +28,24 @@ So, we get Asia (= majorly China, Japan and others) as merchantilist economy, wh
 Simply put, game goes like this:
 US buys stuff from Asia in dollars. Asia uses those dollars to buy energy and raw materials from the rest of the world, so it can produce more stuff for the US. 
 Asia now has a lot of excess dollars that it earned from selling stuff, and it can do two things with those dollars: 
+
 Option 1: Buy dollar-denominated assets. 
+
 Option 2: Sell dollars in exchange for local currencies and give some of the earnings back to workers in the form of higher wages.
+
 Post WW2 eco, ie mentioned above game would not be possible with below being true:
+
 i) US has OPEN CAPITAL economy (unlike Asia's close), which is - any parts of world can bring any amount dollars and buy whatever size properties you want. And that's IN-ing dollar back. 
+
 ii) America has little to no tariffs on imported goods. No country practises truly free trade, but America has always made it a priority to offer as close to free trade as possible. Without little to no tariffs on Asian stuff, Asia would not have been able to sell things to Americans for cheaper than American companies could produce domestically.
 
 ---
 So, Asia needs more dollars by selling their stuffs to US so that they can buy international assets in usd (remember, usd is global currency). 
 And so here, being global currency reserve sys becomes curse. 
-Why? because irrespective of whether US domestic eco needs more money or not (btw US nationalists would ofcourse against more moeny printing as it deflates their money aka INFLATION), Fed reserve and Treasury is pressured to print more - why? global reserve currency means that the Federal Reserve (Fed) and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
+
+Why? because irrespective of whether US domestic eco needs more money or not (btw US nationalists would ofcourse against more moeny printing as it deflates their money aka INFLATION), Fed reserve and Treasury is pressured to print more - why? 
+
+global reserve currency means that the Federal Reserve (Fed) and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
 
 So, Fed would LOWER INTEREST RATES (Fed is BANK of banks. so, when Fed lowers I, then banks would get more I by instead lending out to public which solves liquidity crisis among public) to BAIL OUT and save banks. {How Fed lowering I bails out and save banks, I will edit add here}
 
