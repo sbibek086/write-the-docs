@@ -33,7 +33,7 @@ Option 1: Buy dollar-denominated assets.
 
 Option 2: Sell dollars in exchange for local currencies and give some of the earnings back to workers in the form of higher wages.
 
-Post WW2 eco, ie mentioned above game would not be possible with below being true:
+Post WW2 eco, ie mentioned above game would not be possible without below being true:
 
 i) US has OPEN CAPITAL economy (unlike Asia's close), which is - any parts of world can bring any amount dollars and buy whatever size properties you want. And that's IN-ing dollar back. 
 
