@@ -45,7 +45,7 @@ And so here, being global currency reserve sys becomes curse.
 
 Why? because irrespective of whether US domestic eco needs more money or not (btw US nationalists would ofcourse against more moeny printing as it deflates their money aka INFLATION), Fed reserve and Treasury is pressured to print more - why? 
 
-global reserve currency means that the Federal Reserve (Fed) and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
+because global reserve currency means that the Federal Reserve (Fed) and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
 
 So, Fed would LOWER INTEREST RATES (Fed is BANK of banks. so, when Fed lowers I, then banks would get more I by instead lending out to public which solves liquidity crisis among public) to BAIL OUT and save banks. {How Fed lowering I bails out and save banks, I will edit add here}
 
