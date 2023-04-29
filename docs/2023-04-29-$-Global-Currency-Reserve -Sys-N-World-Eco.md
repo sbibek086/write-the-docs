@@ -5,10 +5,11 @@ category: Economics
 tags: [Economics]
 ---
 
-Dollar is Global Currency Reserve System because to do any international trade, for eg. China to buy petrol, it needs to do it in dollar and not in its Yuan.
+Dollar is Global Currency Reserve System because to do any international trade, for eg. China to buy 
+, it needs to do it in dollar and not in its Yuan.
 After Europe decimated itself with two world wars, meanwhile US was picking up pieces, and was able to put dollar as global currency reserve system. That said, its easy to see why Gold is neutral global reserve system.
 It led to:
-- Dollar valuation increased because even China needs dollar to buy petrol from Saudi. Now, we can understand why US oust Gaddafi whenever they pitch for selling petrol in their own currency.
+- Dollar valuation increased because even China needs dollar to buy petrol from Saudi. Now, we can understand why BRICS- Russia, China, Brazil, India and S africa are trying to come up w new international currency of their own.
 - US could print its dollar without being liable to even UK and anyone else. Earlier UK was boss because even US had to deposit some equivalent gold to London banks to print dollar but after President Nixon, it changed.
 
 But being global currency reserve system is BOON but curse as well.
@@ -20,7 +21,7 @@ Now, lets enter rabbit hole:
 
 
 So, world economy ups and downs is because of two factors, if we ousted Europe from equation as it f**ked itself post two WW.
-So, we get Asia (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principle is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars.
+So, we get Asia (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principal is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars.
 
 Simply put, game goes like this:
 US buys stuff from Asia in dollars. Asia uses those dollars to buy energy and raw materials from the rest of the world, so it can produce more stuff for the US. 
