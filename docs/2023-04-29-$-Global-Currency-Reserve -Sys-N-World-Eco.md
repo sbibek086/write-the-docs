@@ -23,7 +23,7 @@ Now, lets enter rabbit hole:
 
 
 So, world economy ups and downs is because of two factors, if we ousted Europe from equation as it f**ked itself post two WW.
-So, we get Asia (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principal is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars.
+So, we get Asia (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principal is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars and US - Global currency reserve systema and consumer of goods.
 
 Simply put, game goes like this:
 US buys stuff from Asia in dollars. Asia uses those dollars to buy energy and raw materials from the rest of the world, so it can produce more stuff for the US. 
