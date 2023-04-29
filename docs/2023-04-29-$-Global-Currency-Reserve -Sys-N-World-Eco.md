@@ -7,9 +7,11 @@ tags: [Economics]
 
 Dollar is Global Currency Reserve System because to do any international trade, for eg. China to buy 
 , it needs to do it in dollar and not in its Yuan.
-After Europe decimated itself with two world wars, meanwhile US was picking up pieces, and was able to put dollar as global currency reserve system. That said, its easy to see why Gold is neutral global reserve system.
+After Europe decimated itself with two world wars, meanwhile US was picking up pieces, and was able to put dollar as global currency reserve system. (That said, its easy to see why Gold is neutral global reserve system.)
+
 It led to:
 - Dollar valuation increased because even China needs dollar to buy petrol from Saudi. Now, we can understand why BRICS- Russia, China, Brazil, India and S africa are trying to come up w new international currency of their own.
+
 - US could print its dollar without being liable to even UK and anyone else. Earlier UK was boss because even US had to deposit some equivalent gold to London banks to print dollar but after President Nixon, it changed.
 
 But being global currency reserve system is BOON but curse as well.
