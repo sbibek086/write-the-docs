@@ -50,6 +50,7 @@ global reserve currency means that the Federal Reserve (Fed) and Treasury must p
 So, Fed would LOWER INTEREST RATES (Fed is BANK of banks. so, when Fed lowers I, then banks would get more I by instead lending out to public which solves liquidity crisis among public) to BAIL OUT and save banks. {How Fed lowering I bails out and save banks, I will edit add here}
 
 ![Untitled](https://user-images.githubusercontent.com/11883023/235308105-97c2d762-2e90-4be6-83e9-5375102893d5.png)
+
 Img: Greece banks saving its exitence by bail out in 2009 crisis
 
 ---
