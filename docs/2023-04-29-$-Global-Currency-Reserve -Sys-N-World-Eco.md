@@ -63,7 +63,7 @@ Now, what about American financial assets.
 ![Untitled](https://user-images.githubusercontent.com/11883023/235308488-fa0d3513-a8ba-434d-bf87-1c055bfbb02c.png)
 see from this chart, financial assets like stocks and property received a significant boost from globalisation. The more the world trades, the more dollars need to be recycled into the US. US labour did not receive the same benefits, though, as evidenced by the lone falling purple line, which represents the share of manufacturing value added as a % of US GDP. Basically, if you’re an American, you’re much better off learning financial engineering than how to engineer the actual making of goods.
 
-![image](https://user-images.githubusercontent.com/11883023/235437761-d6821ea2-91f7-4e13-a776-c34dcea6bd0f.png)
+![image](https://user-images.githubusercontent.com/11883023/235438783-b53c8693-45c2-4291-9b60-75bc0d040336.png)
 
 Also, we can see S and P 500 index == US corporate profit margins are at the highest they have been since the 1950’s. However, in the 1950’s, the US was the world’s workshop (since everyone else was destitute after the ravages of WW2). 
 In 2023, China occupies that role of world's workshop — and yet US companies are still enjoying profit margins (& as result S&P 500 index) that are similar to those experienced during the height of the US’ manufacturing prowess.
