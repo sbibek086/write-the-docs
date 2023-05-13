@@ -17,7 +17,7 @@ Subconsciously - on people's decision when it comes to their financial decisions
 
 So, lets try to visualize all this emotional cocktails on graph, and where is the sweet spot.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e68c1471-04af-4ebf-83e5-c0a4f2065cc2)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/7e672caa-4866-4f87-a40c-2f305d3fd7a7)
 
 
 _Of course, above graph is not perfect. But I will refine it over time_
