@@ -37,5 +37,6 @@ I had done below mistakes:
 I did II) first and then only knew about (I)
 Then I corrected order of mastery - (I) ,then (II)
 
-After one of my wrong call on value investing on web3 D'iD, here is one shorts as if speaking to me
-https://www.youtube.com/shorts/nQyqvOvLuHM
+After one of my wrong call on value investing on web3 D'iD, 
+[here is one shorts as if speaking to me](https://www.youtube.com/shorts/nQyqvOvLuHM)
+
