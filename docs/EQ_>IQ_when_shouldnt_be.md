@@ -5,6 +5,7 @@ category: Cryptography
 tags: [Emotional Mastery]
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/d17cf5c5-cea5-4b0e-941d-5111c7f5250b)
+
 So, above image is only one example of how crazy, illogical and even self-life-threatening maniac people can be, when allured with Grand money as reward.
 
 This is just one explicit display of people's irrationality. But more dangerou manifestation of such irrationality is hidden in people's consciousness and sub-consciousness more subtly
