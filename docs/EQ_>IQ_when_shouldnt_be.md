@@ -17,6 +17,7 @@ So, lets try to visualize all this emotional cocktails on graph, and where is th
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e68c1471-04af-4ebf-83e5-c0a4f2065cc2)
 
+
 _Of course, above graph is not perfect. But I will refine it over time_
 
 In above image, of-course any people with reasonable amount of sanity would be in BIGGER green box zone.
@@ -24,7 +25,9 @@ But again, all these emotional internal battles are tested to the heat when they
 There is constant battle of emotion between GREED and RISK, and they can be so powerful to interfere with judgement call of even BEST ones.
 
 So, any wise enough ones always say -
+
 I) have self-mastery over yourself.
+
 II) have enough knowledge of market {be it candle sticks for price action day trading or be it macroeco for value investing(you need to know what you are putting your money on & betting for FUTURE)}
 
 Personally, I am often day trader in holidays and 
