@@ -8,8 +8,7 @@ tags: [Emotional Mastery]
 
 So, above image is only one example of how crazy, illogical and even self-life-threatening maniac people can be, when allured with Grand money as reward.
 
-This is just one explicit display of people's irrationality. But more dangerou manifestation of such irrationality is hidden in people's consciousness and sub-consciousness more subtly
-in their daily life. 
+This is just one explicit display of people's irrationality. But more dangerou manifestation of such irrationality is hidden in people's consciousness and sub-consciousness more subtly in their daily life. 
 Consciously - when people gamble their life savings all in 1xbet, casinos. taking others lives for money, cheating others money etc. etc.
 Subconsciously - on people's decision when it comes to their financial decisions, 
                     eg: putting position size robbing of their food on table because GREED masked their RISK proactiveness.
@@ -17,6 +16,7 @@ Subconsciously - on people's decision when it comes to their financial decisions
 So, lets try to visualize all this emotional cocktails on graph, and where is the sweet spot.
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e68c1471-04af-4ebf-83e5-c0a4f2065cc2)
+
 _Of course, above graph is not perfect. But I will refine it over time_
 
 In above image, of-course any people with reasonable amount of sanity would be in BIGGER green box zone.
