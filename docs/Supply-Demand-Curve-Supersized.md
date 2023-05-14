@@ -7,6 +7,8 @@ tags: [Economics]
 
 ![259751014_3178076055756428_6922035564974307157_n](https://user-images.githubusercontent.com/11883023/151040702-38050d7c-459b-4248-a8c6-50d8508c66c8.jpg)
 
+_Is it inconvenient to see graph above n then scroll below to see its desc? Then same graph with side by side below desc text is below._
+
 So, this graph is true for inelastic goods like say rice for Nepalese or petrol (we cant escape buying it even if price inc very high). In this graph, every parameter ie. x here price p,  y here quantity q can be cause or y, x can be effect depending on context.
 
 So, equilibrium pt (price p, quantity q) is where buyers demand q, p fulfills or comes to meet at sellers supply q,p in FREE UNEXPLOITED UNBIASED market where there's only one rule: at any time, sellers ASKing for lowest price is prioritized for trade/exchange over other sellers & buyers BIDDing for highest price is prioritized for trade/exchange over other buyers.
@@ -18,6 +20,8 @@ So, lets see purple color case. Here, one seller supplies  30L  /Q now. Since tr
 So, if wants to really trade at THIS TIME condition, he has to lower his price (hence ball in bowl case) OR he has to wait some time (maybe weeks, months after) ie. t+ t' . 
 
  Vice Versa with red color case. (hence ball in down bowl case).
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a3b2a3d7-16d0-44ae-81d8-6300ced33b9a)
 
 So quoted, Free unbiased market acts like invisible hand to promote social goods.
 
