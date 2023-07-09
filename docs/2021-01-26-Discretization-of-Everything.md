@@ -4,7 +4,7 @@ title: Discretization of Everything, Thanks to Pioneer Satoshi
 category: Cryptography
 tags: [Cryptography]
 ---
-One of interesting shift to trends in web3 world is what can be called discretization. I mean each and every things like scaling, DAO, dex, cex, oracle, NFT etc. are now discrete junks.
+One of interesting shift to trends in web3 world is what can be called discretization. I mean each and every things like scaling, DAO, dex, cex, oracle, NFT etc. are now discrete items.
 
 It is like the equivalent of how humans had managed to equilivalent-ify each and every resources like this building costs say 2M worth fiats or this river costs 5M worth etc etc. how this discretization became possible? It became possible after Satoshi showed how value exchange ecosystem could be made with bitcoin discrete units? 
 
