@@ -5,6 +5,8 @@ category: SoftwareDev
 tags: [SoftwareDev]
 ---
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/beb2beb7-e2b4-4fb7-b6b6-06e5f75a1adf)
+
 
 ![image](https://user-images.githubusercontent.com/109033173/230772788-1bb0bc19-f67f-4284-9c40-2a35491d59e7.png)
 
@@ -28,7 +30,10 @@ Pow-It's-enof-for-daily-job-notes of What different status codes mean?
 
 ---
 
-.env folder lets you default-ize what path we want our tail URL to append with head URL. That head url is menioned in .env folder.
+.env folder lets you default-ize what path we want our tail URL to append with base path URL. That base path url is menioned in .env folder.
+.env may have more things than just base path urls.
+Also, we have to do git pull everytime after we do git checkout branchNewlyDevelopedFeature because I remember that one day, I couldnt deploy correctly because my to-go-and-deploy branchNewlyDevelopedFeature should have had .env updated.
+another different context - git fetch --all fetches or pulls updates not only from current branch but from all branches in that repo. - as far as I remember, but have to confirm edit on next version of writing here.
 
 .gitignore - whatever we put in it, is ignored by git. They are not put in burden to git by git. Such folders we want to put in .gitignore could be packages, which are installed on press of npm install etc.
 
@@ -36,5 +41,7 @@ Pow-It's-enof-for-daily-job-notes of What different status codes mean?
 
 .prettier.config.json - same context as .eslint but here it's to standardize beauty aesthetics of code, that coder should follow - like how much spaces betn two codeblocks.
 
-dyk that among breakpoints like that of tablet, mobile, computer screen, React's minimum query only mentions css and flex specifics for <= minimum pixel width. Above pixel width has default css and flex design.
+dyk Fe developers that among breakpoints like that of tablet, mobile, computer screen, React's minimum query only mentions css and flex specifics for <= minimum pixel width. Above pixel width has default css and flex design.
+
+dyk general developers that in ** C:/users/urPcName/system/etc >> hosts** file, it is DNS registry that PC looks for incoming traffic mapping to DNS names. If it is not there, then only PC looks in Router NAT for what to do with in/outgoing IP traffic. _Maybe I should write this info in Networking post_
 
