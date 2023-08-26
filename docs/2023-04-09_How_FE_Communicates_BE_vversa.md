@@ -43,5 +43,3 @@ another different context - git fetch --all fetches or pulls updates not only fr
 
 dyk Fe developers that among breakpoints like that of tablet, mobile, computer screen, React's minimum query only mentions css and flex specifics for <= minimum pixel width. Above pixel width has default css and flex design.
 
-dyk general developers that in ** C:/users/urPcName/system/etc >> hosts** file, it is DNS registry that PC looks for incoming traffic mapping to DNS names. If it is not there, then only PC looks in Router NAT for what to do with in/outgoing IP traffic. _Maybe I should write this info in Networking post_
-
