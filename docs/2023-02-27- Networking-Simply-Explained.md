@@ -61,7 +61,7 @@ Accurately put, DMZ is subnet that exposes device to outside WAN.
 d. now to disable Firewall, we can also do 'PORT FORWARDING' rules on firewall. This is equivalent to AWS security group rules. This statement was about setting up 
 port forwarding rules for incoming traffic in device of our LAN.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/25a005bc-28a9-49fe-b8a3-f8a8e1729c94)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a946a931-c4d3-4bf4-95e2-30db5b4c8cf6)
 
 NOTICED, how all this above concept is what is setup in AWS itself. There might be new terminologies, but it is recreating all this.
 
