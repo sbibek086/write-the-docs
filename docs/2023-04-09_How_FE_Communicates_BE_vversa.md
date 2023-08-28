@@ -7,11 +7,9 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/beb2beb7-e2b4-4fb7-b6b6-06e5f75a1adf)
 
-
-![image](https://user-images.githubusercontent.com/109033173/230772788-1bb0bc19-f67f-4284-9c40-2a35491d59e7.png)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3cf6a54b-c284-4508-a95e-5a64e3c1d2be)
 
 ![image](https://user-images.githubusercontent.com/11883023/204149982-9e96a0fd-e659-4d83-adcb-b93332af2aff.png)
-
 
 ```
 HTTP HEAD method is also there but not used day to day. So dont bother about it too much. Anyway, HEAD method requests the headers that would be returned if the HEAD request's URL was instead requested with the HTTP GET method. For example, if a URL might produce a large download, a HEAD request could read its Content-Length header to check the filesize without actually downloading the file.
