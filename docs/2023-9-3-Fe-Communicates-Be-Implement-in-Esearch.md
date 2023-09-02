@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How F-E communicates w B-E & vversa
+title: FE communicates BE implementation
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
