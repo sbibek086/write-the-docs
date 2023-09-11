@@ -21,3 +21,5 @@ tags: [Economics]
 8. Prices Rise When the Government Prints Too Much Money: When too much money is floating in the economy, there will be higher demand for goods and services. This will cause firms to increase their price in the long run causing inflation.
 
 9. Society Faces a Short-Run Tradeoff Between Inflation and Unemployment: In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. However, this is not the case in the long-run.
+
+10. price of any use case asset won't fall despite increase in supply as long as its economy is expanding because it's demand is increasing due to increasing adoption.
