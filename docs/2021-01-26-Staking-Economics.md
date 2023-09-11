@@ -5,9 +5,9 @@ category: Economics
 tags: [Economics, Cryptography]
 ---
 
-https://www.youtube.com/watch?v=eUpThQP0QV8 description got vital link https://www.mangoresearch.co/blockchain-consensus-vs.../ which clarifies that (Ctrl+F) - Validators comprise primarily of miners and mining pools that run full nodes.
+[One of my Lockdown Crypto Episode video](https://www.youtube.com/watch?v=eUpThQP0QV8) description section got [vital link](https://www.mangoresearch.co/blockchain-consensus-vs-validation/) which clarifies that (Ctrl+F) - Validators comprise primarily of miners and mining pools that run full nodes.
 
-now, Vitalik in 2:02 in https://www.youtube.com/watch?v=izzMuxD4OAM says 
+now, [Vitalik in 2019 Ethereum2.0](https://youtu.be/izzMuxD4OAM?si=dTGyOyGa3WTf7Xdn&t=122) launch says 
 
 a)STAKING: as blockchain being secured by large computers running very expensive computation 24/7 (VB is talking about running full node), instead you use coins inside system as basis for system security, so people who have coins can participate as validator ,and doing so, you can have chain come to consensus cheaper. 
 
