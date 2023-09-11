@@ -23,9 +23,10 @@ Now, lets enter rabbit hole:
 
 
 So, world economy ups and downs is because of two factors, if we ousted Europe from equation as it f**ked itself post two WW.
-So, we get Asia (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principal is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars 
 
-and US - Global currency reserve systema and consumer of goods.
+So, we get Asia economy factor (= majorly China, Japan and others) as merchantilist economy, which basically is - "Bust your ass up on exports, zero imports and we will grow as collectivist economy NOT individualistic economy". It means their principal is - reduce labour wages so that they could produce cheaper goods so that they can sell to US to gain dollars 
+
+and USA economy factor (= Global currency reserve system and consumer of goods).
 
 Simply put, game goes like this:
 US buys stuff from Asia in dollars. Asia uses those dollars to buy energy and raw materials from the rest of the world, so it can produce more stuff for the US. 
@@ -45,9 +46,9 @@ ii) America has little to no tariffs on imported goods. No country practises tru
 So, Asia needs more dollars by selling their stuffs to US so that they can buy international assets in usd (remember, usd is global currency). 
 And so here, being global currency reserve sys becomes curse. 
 
-Why? because irrespective of whether US domestic eco needs more money or not (btw US nationalists would ofcourse against more moeny printing as it deflates their money aka INFLATION), Fed reserve and Treasury is pressured to print more - why? 
+Why curse because irrespective of whether US domestic eco needs more money or not (btw US nationalists would ofcourse against more moeny printing as it _deflates their money aka INFLATION_), Fed reserve and Treasury is pressured to print more because global reserve currency means that the Federal Reserve and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
 
-because global reserve currency means that the Federal Reserve (Fed) and Treasury must print or provide dollars by whatever means necessary whenever the global economy demands them. Now, who will Fed and Treasury favor - ofcourse world economy demand because they must in order to prevent a financial crisis that makes the dollar more expensive and lowers its supply globally.
+_deflates their money aka INFLATION_ short primer explanation if you need - when u have to spend 1 cart of money to buy 1 kg vegetable, price of everyday goods is inflated so we say inflation from perspective of goods and which is default terminology but from perspective of money itself, it's value is deflated. can be confusing if not understood
 
 So, Fed would LOWER INTEREST RATES (Fed is BANK of banks. so, when Fed lowers I, then banks would get more I by instead lending out to public which solves liquidity crisis among public) to BAIL OUT and save banks. {How Fed lowering I bails out and save banks, I will edit add here}
 
