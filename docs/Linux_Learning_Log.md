@@ -1,3 +1,10 @@
+---
+layout: default
+title: Developer Hat Monologue
+category: Developer
+tags: [Developer]
+---
+
 I must not had paid attention to kernel. otherwise how clear its to me now.
 
 Applications
