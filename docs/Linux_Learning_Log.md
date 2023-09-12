@@ -1,21 +1,12 @@
 ---
 layout: default
-title: Developer Hat Monologue
+title: Linux Learng Log
 category: Developer
 tags: [Developer]
 ---
 
 I must not had paid attention to kernel. otherwise how clear its to me now.
-
-  Applications
-
-     |
- 
-    Kernel
- 
- |      |       |
-
-cpu   memory   drive
+![image](https://user-images.githubusercontent.com/11883023/267250299-73389113-31e9-4af0-889c-23fad0118403.png)
 
 ---
 
