@@ -7,11 +7,15 @@ tags: [Developer]
 
 I must not had paid attention to kernel. otherwise how clear its to me now.
 
-Applications
-   |
-  Kernel
-|    |    |
-cpu memory drive
+  Applications
+
+     |
+ 
+    Kernel
+ 
+ |      |       |
+
+cpu   memory   drive
 
 ---
 
