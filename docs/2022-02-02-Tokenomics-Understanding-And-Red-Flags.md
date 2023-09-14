@@ -14,7 +14,11 @@ Let's start one story: Alex makes 40000 unique non depleting things.  Releases o
  Alex looks at it,  sees 200 percent profit, ie. 40$*36000 (he has that thing locked with him) is good money for him,  so exits all bags at 60rs good or bad his intentions maybe. Obviously bear strength becomes humongous and price dumps like crazy to say 35. 
 Retailer who entered at say 40+ are below water. 
 What went wrong with those retailers?  They never saw 36000 was in single hand by birth.  
+
 --
+
 So In clover finance,  fully diluted mc=350m n mc=42m. Significant portion is not in free market but few hands, inside hands that can be dumped. By birth,  they can be VC and that too,  they are too powerful.   That's red flag so. 
+
 ---
-In moonriver,  literally everything was given to free community.  It can't never dump.  Same with btc.  It's price surge is different science though.
+
+In moonriver,  literally everything was given to free community.  It can't never dump.  Same with btc. Though,  It's price surge is different science, which is: price of any use case asset wont fall despite increase in supply as long as its economy is expanding because it's demand is increasing due to increasing adoption.
