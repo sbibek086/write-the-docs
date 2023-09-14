@@ -37,13 +37,11 @@ then REALLY willing buyers are ones who BID price higher than THIS TIME trading 
 REALLY willing sellers are ones who ASK price lower than THIS TIME trading price.
 
 ----
-
-![image](https://user-images.githubusercontent.com/11883023/267867793-55e98815-1af7-4879-ac2e-8522d1b16ca8.png)
+![Untitled](https://user-images.githubusercontent.com/11883023/267868112-1a218fc0-cb1e-4d47-a1f3-c2b9dd345b98.png)
 
 now we can see that above graph was infact explaining how when equilibrium point changes at t+t' when Supply aka Supplied aka Asked Price is changed by supplier.
 
 ---
-
 btw, dyk that 
 
 Prices Rise When the Government Prints Too Much Money: When too much money is floating in the economy, there will be higher demand for goods and services. This will cause firms to increase their price in the long run causing inflation.
