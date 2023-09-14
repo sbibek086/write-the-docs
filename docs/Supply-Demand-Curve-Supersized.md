@@ -38,6 +38,15 @@ REALLY willing sellers are ones who ASK price lower than THIS TIME trading price
 
 ----
 
-![p153](https://user-images.githubusercontent.com/11883023/151040620-9df7782a-f78f-4659-9c1c-f4c0c04dc111.jpg)
+![image](https://user-images.githubusercontent.com/11883023/267867793-55e98815-1af7-4879-ac2e-8522d1b16ca8.png)
 
 now we can see that above graph was infact explaining how when equilibrium point changes at t+t' when Supply aka Supplied aka Asked Price is changed by supplier.
+
+---
+
+btw, dyk that 
+
+Prices Rise When the Government Prints Too Much Money: When too much money is floating in the economy, there will be higher demand for goods and services. This will cause firms to increase their price in the long run causing inflation.
+
+Society Faces a Short-Run Tradeoff Between Inflation and Unemployment: In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. However, this is not the case in the long-run.
+
