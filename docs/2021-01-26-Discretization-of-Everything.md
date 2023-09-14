@@ -12,7 +12,10 @@ how does this work?
 
 well, discrete means it could change hands .hence, we have created breathing cell of economy.
 Who regulates transfer ledger? miners then delegators+ validators.
-What ensures they act well and not false? well, stake their same ecosystem coins as deposit ,and penalise them if act false and reward them if honest.
+What ensures they act well and not false?
+
+ well, stake their same ecosystem coins as deposit ,and penalise them if act false and reward them if honest.
+
 welcome! now we have living breathing chain. SO, how can this specific architecture be versatilized to every imaginable purpose, lets say for oracle. 
 
 Well, Look at this architecture: https://coinmarketcap.com/earn/videos/what-is-the-graph
