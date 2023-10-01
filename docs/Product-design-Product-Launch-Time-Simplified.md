@@ -63,7 +63,9 @@ PNow that we are thru above process, I have found below summary graph very helpf
 
 I and CTO wondered when should we exactly launch our product as there's always some room for improvement no matter how much we slogg our brains and time in it. Then, we realized it's not we to keep slogging our brains after having had designed workable functionality and ensuring there's no fundamental flaws in product. It's ultimately end users to decide as it happens often - even masterpiece painter finds his own masterpiece painting full of flaws as he knows that he has skipped finely mixing his paint that one day when he has to rush to his child's birthday. But it may or may not come even to notice as long as painting seems good from viewer's pov. So, ultimately, it's user to decide.
 
-So, we find that reddit was launched - be it beta - to among few hundred users in 2004 before even public announcment in 2005. Even facebook was brewed that way as it was launched to university students and friends of Mark Zucker. That way, even if bugs or complains/ feedbacks appear, its easy to pick up pieces again as money stakes are also less. Imagine, if we release product after 2 years of building at once to ten thousand users and bugs appear, then word of mouth bad publicity at once kills. Now imagine, if we release product after 1 year of building to few 500 inner circles and community and bugs appear, then we can immediately work towards feedback loop ,and then after having satisfied that 500 circles, releasing publicly to ten thousand makes it less staky because we have known and fixed where leakholes are likely to hit, where complains are likely to come.
+So, we find that reddit was launched - be it beta - to among few hundred users in 2004 before even public announcment in 2005. Even facebook was brewed that way as it was launched to university students and friends of Mark Zucker. That way, even if bugs or complains/ feedbacks appear, its easy to pick up pieces again as money stakes are also less. Imagine, if we release product after 2 years of building at once to ten thousand users and bugs appear, then word of mouth bad publicity at once kills product.
+
+ Now imagine, if we release product after 1 year of building to few 500 inner circles and community and bugs appear, then we can immediately work towards feedback loop ,and then after having satisfied that 500 circles, releasing publicly to ten thousand makes it less staky because we have known and fixed where leakholes are likely to hit, where complains are likely to come.
 
 And whenever even Facebook ambitiously launch product - recent being Thread - at once to large mass, then bad word of mouth at once kills it because they did not get to see product from end user perspective and only from boardroom genius eyes.
 
@@ -78,6 +80,7 @@ MOAT - Whats yours?
 _PS- But it is mainly for established castles but for new castle-on-building, its mainly value proposition which others havent yet._
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/016caa03-9fa0-4743-870e-cc7074d44817)
+
 Hundreds of soft drinks have come and gone but Coke has still preserved it's dominance. Other than brand identity it has carefully reinvented and reinvented since 30s, one thing is - they have not leaked that secret ingredient that gives Coke its unique flavor. So, that way, Secrecy of that unique ingredient is one of its moat.
 
 
