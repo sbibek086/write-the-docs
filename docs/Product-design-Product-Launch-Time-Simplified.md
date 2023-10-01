@@ -49,11 +49,11 @@ Who is influencing our customers mindset on our product?
 
 All of this can and should be guided by your specific understanding of the target market which is very effectively done through this Persona.
 
-We may also find that we made errors while developing our Persona fact sheet, or that our this Persona does not adequately represent the End User Profile, so we may need to go back and revise our this Persona in an iterative fashion. The point is that the Persona build is not a oneͲtime event but rather should be visible or at least accessible to all members of the team as you move forward with your business.
+We may also find that we made errors while developing our Persona fact sheet, or that our this Persona does not adequately represent the End User Profile, so we may need to go back and revise our this Persona in an iterative fashion. The point is that the Persona build is not a one time event but rather should be visible or at least accessible to all members of the team as you move forward with your business.
 
 But sometimes, just one end user is not enough in cases like for example , we are building client side and vendor side app. C and V might be same person but they are different personality side. So, in that case, building two end persona is enough. That gets the brain wheels running when we are designing.
 
-PNow that we are thru above process, I have found below summary graph very helpful as it sums up what actual boardroom design process looks like:
+Now that we are thru above process, I have found below summary graph very helpful as it sums up what actual boardroom design process looks like:
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6f699b51-da21-4711-8f3b-523a2e837a02)
 
