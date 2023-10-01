@@ -25,7 +25,7 @@ or does our target customer simply want to check email reliably on the go?
 
 We can debate these questions internally, but if our Persona is a real person, there is only one right answer.
 
-No one end user represents 100 percent of the characteristics of every end user in your End User Profile. But as you work toward choosing your Persona, you will find someone who matches the profile quite well. You will then focus your product development around this individual, rather than the moreͲgeneral End User Profile.
+No one end user represents 100 percent of the characteristics of every end user in your End User Profile. But as we work toward choosing our customer Persona, we will find someone who matches the profile quite well. We will then focus our product development around this individual, rather than the more general End User Profile.
 
 How to accurately draw end user persona?
 
