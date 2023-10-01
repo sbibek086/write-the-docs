@@ -13,9 +13,9 @@ Of three and half month long ['startup and business incubation' session I attend
 
 And having accurate or trying to have accurate picture of this one persona solves the case of product design dilemma most simply and accurately.
 
-This one Persona makes our target customer unambiguous and tangible so that all members of the founding team, and all employees, (I mean all - Financial, Legal, Research & Development, Design, Sales) are all focused on the same goal of making our target customer successful and happy. Rather than guessing what potential customers might want, you focus on what this one end user wants because we know the person well, and the person represents our target customer.
+This one Persona makes our target customer unambiguous and tangible so that all members of the founding team, and all employees, (I mean all - Financial, Legal, Research & Development, Design, Sales) are all focused on the same goal of making our target customer successful and happy. Rather than guessing what potential customers might want, we focus on what this one end user wants because we know the person well, and the person represents our target customer.
 
-By choosing an actual end user as your Persona, our Persona is concrete, with no room for second guessing. 
+By choosing an actual end user as our this Persona, our Persona is concrete, with no room for second guessing. 
 
 Did our target customer go to college? Would our target customer be interested in a perfume or faster delivery of his retail shop goods? 
 
@@ -25,11 +25,11 @@ or does our target customer simply want to check email reliably on the go?
 
 We can debate these questions internally, but if our Persona is a real person, there is only one right answer.
 
-No one end user represents 100 percent of the characteristics of every end user in your End User Profile. But as we work toward choosing our customer Persona, we will find someone who matches the profile quite well. We will then focus our product development around this individual, rather than the more general End User Profile.
+No one end user represents 100 percent of the characteristics of every end user in our End User Profile. But as we work toward choosing our customer Persona, we will find someone who matches the profile quite well. We will then focus our product development around this individual, rather than the more general End User Profile.
 
 How to accurately draw end user persona?
 
-**If we already have sales, an analysis of the most successful customers to date would be very valuable data. If we have not sold any product yet, then we should look at the primary market research you have done, and analyze some of the customers who showed the most interest in your potential offering.**
+**If we already have sales, an analysis of the most successful customers to date would be very valuable data. If we have not sold any product yet, then we should look at the primary market research you have done, and analyze some of the customers who showed the most interest in our potential offering.**
 
 Make sure they would actually pay for it and are not just interested. That is a BIG BIG difference- small it may seem in board room pipedreams.
 
@@ -47,9 +47,9 @@ Who should we partner with? Where do we go to meet our customers?
 
 Who is influencing our customers mindset on our product? 
 
-All of this can and should be guided by your specific understanding of the target market which is very effectively done through this Persona.
+All of this can and should be guided by our specific understanding of the target market which is very effectively done through this Persona.
 
-We may also find that we made errors while developing our Persona fact sheet, or that our this Persona does not adequately represent the End User Profile, so we may need to go back and revise our this Persona in an iterative fashion. The point is that the Persona build is not a one time event but rather should be visible or at least accessible to all members of the team as you move forward with your business.
+We may also find that we made errors while developing our Persona fact sheet, or that our this Persona does not adequately represent the End User Profile, so we may need to go back and revise our this Persona in an iterative fashion. The point is that the Persona build is not a one time event but rather should be visible or at least accessible to all members of the team as we move forward with our business.
 
 But sometimes, just one end user is not enough in cases like for example , we are building client side and vendor side app. C and V might be same person but they are different personality side. So, in that case, building two end persona is enough. That gets the brain wheels running when we are designing.
 
