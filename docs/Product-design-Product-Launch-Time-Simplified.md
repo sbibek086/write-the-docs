@@ -23,7 +23,7 @@ Does our target customer prefer a closed software ecosystem like what AppleNs iP
 
 or does our target customer simply want to check email reliably on the go? 
 
-We can debate these questions internally, but if your Persona is a real person, there is only one right answer.
+We can debate these questions internally, but if our Persona is a real person, there is only one right answer.
 
 No one end user represents 100 percent of the characteristics of every end user in your End User Profile. But as you work toward choosing your Persona, you will find someone who matches the profile quite well. You will then focus your product development around this individual, rather than the moreͲgeneral End User Profile.
 
