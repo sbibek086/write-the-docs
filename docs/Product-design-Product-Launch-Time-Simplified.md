@@ -1,3 +1,4 @@
+---
 layout: default
 title: Product Design and Product Launch Time Simplified
 category: Economics
