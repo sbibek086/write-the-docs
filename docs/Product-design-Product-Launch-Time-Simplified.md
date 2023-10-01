@@ -1,4 +1,3 @@
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0f592252-38d7-44e1-8f8b-d0149226147f)---
 layout: default
 title: Product Design and Product Launch Time Simplified
 category: Economics
