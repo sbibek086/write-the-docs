@@ -39,6 +39,8 @@ PNow that we are thru above process, I have found below summary graph very helpf
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6f699b51-da21-4711-8f3b-523a2e837a02)
 
+-----
+
 **Product Launch Time**
 
 I and CTO wondered when should we exactly launch our product as there's always some room for improvement no matter how much we slogg our brains and time in it. Then, we realized it's not we to keep slogging our brains after having had designed workable functionality and ensuring there's no fundamental flaws in product. It's ultimately end users to decide as it happens often - even masterpiece painter finds his own masterpiece painting full of flaws as he knows that he has skipped finely mixing his paint that one day when he has to rush to his child's birthday. But it may or may not come even to notice as long as painting seems good from viewer's pov. So, ultimately, it's user to decide.
@@ -49,12 +51,14 @@ And whenever even Facebook ambitiously launch product - recent being Thread - at
 
 ------
 COCA - Number 1 Biting Factor to pre-think
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3dd4f8be-0240-446c-b792-8f9f45fb9802)
 
 -------
-MOAT - Whats ours? 
+MOAT - Whats yours? 
 
 _PS- But it is mainly for established castles but for new castle-on-building, its mainly value proposition which others havent yet._
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/016caa03-9fa0-4743-870e-cc7074d44817)
 Hundreds of soft drinks have come and gone but Coke has still preserved it's dominance. Other than brand identity it has carefully reinvented and reinvented since 30s, one thing is - they have not leaked that secret ingredient that gives Coke its unique flavor. So, that way, Secrecy of that unique ingredient is one of its moat.
 
