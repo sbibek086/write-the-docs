@@ -9,7 +9,7 @@ tags: [Economics]
 
 **Product Design**
 
-Of three and half month long ['startup and business incubation' session I held in Antarprerana](https://www.facebook.com/photo/?fbid=1003770539807492&set=a.1003770066474206), one idea that instantly Eureka-momented me was that of 'End Persona Screening' because it greatly simplified process of product development as our opinions we hold and communicate to other, many times just to show our inteligence and sophistication rather than actual problem solving do not matter. What our average end user persona is, how he spends his day, which economic situation he lives, his buying preference and his buying biases matter at the end of day.
+Of three and half month long ['startup and business incubation' session I attended in Antarprerana](https://www.facebook.com/photo/?fbid=1003770539807492&set=a.1003770066474206), one idea that instantly Eureka-momented me was that of 'End Persona Screening' because it greatly simplified process of product development as our opinions we hold and communicate to other, many times just to show our inteligence and sophistication rather than actual problem solving do not matter. What our average end user persona is, how he spends his day, which economic situation he lives, his buying preference and his buying biases matter at the end of day.
 
 And having accurate or trying to have accurate picture of this one persona solves the case of product design dilemma most simply and accurately.
 
