@@ -33,7 +33,7 @@ How to accurately draw end user persona?
 
 Make sure they would actually pay for it and are not just interested. That is a BIG BIG difference- small it may seem in board room pipedreams.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4c66c010-d2f2-43d2-b864-854d33a828c9)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/45b8e2bd-e040-4a9c-aa83-7679a2eeaf06)
 
 The Persona is More Than Just an Exercise. The value of the Persona persists well beyond the completion of this step. The Persona should become a touch point as we think about decisions going forward. 
 
