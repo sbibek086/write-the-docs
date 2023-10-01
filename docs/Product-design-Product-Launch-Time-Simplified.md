@@ -35,9 +35,21 @@ Make sure they would actually pay for it and are not just interested. That is a 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4c66c010-d2f2-43d2-b864-854d33a828c9)
 
-The Persona is More Than Just an Exercise. The value of the Persona persists well beyond the completion of this step. The Persona should become a touch point as we think about decisions going forward. What features should we prioritize? Drop? How should we allocate resources? Who should you hire to sell the product? What should your message be? Who should we partner with? Where do we go to meet our customers? Who is influencing our customerNs mindset on your product? All of this can and should be guided by your specific understanding of the target market which is very effectively done through your Persona.
+The Persona is More Than Just an Exercise. The value of the Persona persists well beyond the completion of this step. The Persona should become a touch point as we think about decisions going forward. 
 
-We may also find that we made errors while developing our Persona fact sheet, or that our Persona does not adequately represent the End User Profile, so you may need to go back and revise your Persona in an iterative fashion. The point is that the Persona build is not a oneͲtime event but rather should be visible or at least accessible to all members of the team as you move forward with your business.
+What features should we prioritize? Drop? 
+
+How should we allocate resources? 
+
+Who should we hire to sell the product? What should our message be? 
+
+Who should we partner with? Where do we go to meet our customers? 
+
+Who is influencing our customers mindset on our product? 
+
+All of this can and should be guided by your specific understanding of the target market which is very effectively done through this Persona.
+
+We may also find that we made errors while developing our Persona fact sheet, or that our this Persona does not adequately represent the End User Profile, so we may need to go back and revise our this Persona in an iterative fashion. The point is that the Persona build is not a oneͲtime event but rather should be visible or at least accessible to all members of the team as you move forward with your business.
 
 But sometimes, just one end user is not enough in cases like for example , we are building client side and vendor side app. C and V might be same person but they are different personality side. So, in that case, building two end persona is enough. That gets the brain wheels running when we are designing.
 
