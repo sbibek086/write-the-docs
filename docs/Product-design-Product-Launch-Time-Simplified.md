@@ -13,11 +13,17 @@ Of three and half month long ['startup and business incubation' session I held i
 
 And having accurate or trying to have accurate picture of this one persona solves the case of product design dilemma most simply and accurately.
 
-So, that end user Persona is one end user from one potential customer who best exemplifies your End User Profile. The Persona makes our target customer unambiguous and tangible so that all members of the founding team, and all employees, (I mean all - Financial, Legal, Research & Development, Design, Sales) are all focused on the same goal of making your target customer successful and happy. Rather than guessing what potential customers might want, you focus on what this one end user wants because you know the person well, and the person represents your target customer.
+This one Persona makes our target customer unambiguous and tangible so that all members of the founding team, and all employees, (I mean all - Financial, Legal, Research & Development, Design, Sales) are all focused on the same goal of making our target customer successful and happy. Rather than guessing what potential customers might want, you focus on what this one end user wants because we know the person well, and the person represents our target customer.
 
-By choosing an actual end user as your Persona, your Persona is concrete, with no room for secondͲ guessing. Did your target customer go to college? Would your target customer be interested in a puppy? Does your target customer prefer a closed software ecosystem like what AppleNs iPhone provides, or an open ecosystem like the Android mobile operating system, or does your target customer simply want to check email reliably on the go? You can debate these questions internally, but if your Persona is a real person, there is only one right answer.
+By choosing an actual end user as your Persona, our Persona is concrete, with no room for second guessing. 
 
-By choosing an actual end user as your Persona, our Persona is concrete, with no room for secondͲ guessing. Did our target customer go to college? Would our target customer be interested in a perfume product or cheaper deliverance of retail items to his shop? Does our target customer prefer a closed software ecosystem like what AppleNs iPhone provides, or an open ecosystem like the Android mobile operating system, or does your target customer simply want to check email reliably on the go? You can debate these questions internally, but if your Persona is a real person, there is only one right answer.
+Did our target customer go to college? Would our target customer be interested in a perfume or faster delivery of his retail shop goods? 
+
+Does our target customer prefer a closed software ecosystem like what AppleNs iPhone provides, or an open ecosystem like the Android mobile operating system, 
+
+or does our target customer simply want to check email reliably on the go? 
+
+We can debate these questions internally, but if your Persona is a real person, there is only one right answer.
 
 No one end user represents 100 percent of the characteristics of every end user in your End User Profile. But as you work toward choosing your Persona, you will find someone who matches the profile quite well. You will then focus your product development around this individual, rather than the moreͲgeneral End User Profile.
 
