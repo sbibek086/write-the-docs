@@ -3,7 +3,8 @@ layout: default
 title: Y(a)ml - How to write it and its A2Z Usage
 category: DevOps
 ---
-First of all, lets start with this docker-compose.yml of what we tried to do CLI way of docker in github_com/sbibek086 
+First of all, lets start with this docker-compose.yml of what we tried to do CLI way of docker in github.com/sbibek086 
+ _some writes '3.3', some writes "3.3", its just matter of which format linting is in package.json. Thats all, nothing serious._
 ![openARUN_MaileGarirako-ko-DockerComposeYML](https://user-images.githubusercontent.com/11883023/167805462-8c71bbf5-a2ba-4ffa-a6c9-b181f26b0ca9.jpg)
 
 Now, lets explore usage of YML:
@@ -37,7 +38,7 @@ Though ci cd is superset of action.
 2. Test
 3. Build (I will do 2, 3 in Vstudio)
 4. Deploy (I will do it thru. XAMPP to localhost in my browser)
-(amateur me understood, deploy to server is always thru xampp, which is true for php dev. But it can be facil. Entirely from packages which in turn is called by terminal scripts. Eg. Xxxxxx in create-react-app)
+(amateur me understood, deploy to server is always thru xampp, which is true for php dev. But it can be facilitated entirely from packages which in turn is called by terminal scripts. Eg. Xxxxxx in create-react-app)
 5. Then I will push to repo
 These all can be automated writing few lines code in .YAML file (superset of json file)
 
