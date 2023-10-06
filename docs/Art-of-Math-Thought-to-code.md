@@ -14,6 +14,7 @@ To more understand the preface of Poisson's distribution equation and where it c
 py
 
 ![image](https://user-images.githubusercontent.com/11883023/213872814-2ddf8c01-f52a-4c92-b253-58159f9975ac.png)
+
 [code snippets n env setup here](https://realpython.com/linear-programming-python/)[1](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html)  [2](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html)  [3](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html)
 
 ```
