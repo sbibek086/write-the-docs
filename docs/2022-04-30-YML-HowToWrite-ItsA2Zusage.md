@@ -5,6 +5,7 @@ category: DevOps
 ---
 First of all, lets start with this docker-compose.yml of what we tried to do CLI way of docker in github.com/sbibek086 
  _some writes '3.3', some writes "3.3", its just matter of which format linting is in package.json. Thats all, nothing serious._
+
 ![openARUN_MaileGarirako-ko-DockerComposeYML](https://user-images.githubusercontent.com/11883023/167805462-8c71bbf5-a2ba-4ffa-a6c9-b181f26b0ca9.jpg)
 
 Now, lets explore usage of YML:
