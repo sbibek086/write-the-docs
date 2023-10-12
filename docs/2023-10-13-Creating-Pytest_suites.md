@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Pytest classes and main.py + ssh cloning from gitlab to localMachine
 category: Software Development
 ---
