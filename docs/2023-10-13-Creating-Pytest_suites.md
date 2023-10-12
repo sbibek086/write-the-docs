@@ -22,8 +22,6 @@ So, here's what I did:
 
 First, it would terminal as 'No test ran in xxx sec'. It turned out that I slow_mo ed to little time as 2000 ms, when I changed it to little longer at 10,000 ms, browser would open long enof for whole test to actually carry out.
 
-Yes, I did cry out on that _init_ sillies while I was supposed to _ _init_ _  
-
 ___
 
 Now, before all this POM thing, I wanted to test localhost files of ndrrma.yilab.org - ndrrma website which yilab contracted to build, so, I used to do w https way , its cmd would look like
