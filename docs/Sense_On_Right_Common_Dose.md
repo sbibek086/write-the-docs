@@ -26,6 +26,14 @@ For some reasons I love this below:
 
 [Jugaad Max-ing](https://twitter.com/rishadcooper/status/1166931979138260994)
 
+---
 
+I have been criticized for not being smart enough to be one niche specific. I mean I am writing a) masterpiece literature, b) investing, c) learning devs as part of my IT job and d) going depth about how Ethereum VM is built from scratch.
 
+And my critics are right - sometimes it feels from brain overload I feel sometimes. I think I will drop that d) stuffs coz for investing, I dont need to have that zero feet view but sometimes curiosity cat itches but I will drop it anyway.
 
+To quote AB, 
+
+"People that are extremely successful don’t learn/study more than others.  They DO more, then when they hit a cap in the DOING up the goal. They then strategically learn exactly (and as little as) what is needed and then return to aggressive doing.
+
+Most learn with no intent. Don’t."
