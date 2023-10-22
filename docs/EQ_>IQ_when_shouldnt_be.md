@@ -2,7 +2,7 @@
 layout: default
 title: How emotion can take over intelligence..
 category: Cryptography
-tags: [Self Mastery]
+tags: [Economics]
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0fa3c7e1-b35a-4a95-991e-9a69a9604653)
 
