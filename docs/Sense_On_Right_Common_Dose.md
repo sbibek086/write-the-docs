@@ -9,11 +9,15 @@ tags: [Economics]
 
 Surprisingly, Shaq has been my lazy-goto person for refering what [street smart investing](https://www.youtube.com/shorts/fJgVmJFX9CE) is about.
 
-For to be smart street, you have to be double smart than academic street. Only caveat is: you dont know how to define it by words as do academic egg-heads and/or book-carrying nerds do but we know it from intuition.
+For to be smart street, you have to be double smart than academic street. 
+
+Only caveat is: you dont know how to define it by words as do academic egg-heads and/or book-carrying nerds do but we know it from intuition.
 And that intuition is built from observing A+ people in their A+ game. 
+
 Do you think that we spend time watching every other soap operas or trends or what Shahrukh wife told on f**king Kapil Sharma show? 
 Nope. Thats none our business.
-We would rather ang out on clubs metting hots, chill on nature walk or just study whats useful to selves.
+
+We would rather hang out on clubs metting hots, chill on nature walk or just study whats useful to selves.
 We are different breeds. I will tell you.
 
 ---
