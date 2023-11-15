@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How emotion can cloud intelligence w Money Mgmt (Read Upto Bottom)..
+title: How emotion can cloud intelligence..
 category: Cryptography
 tags: [Economics]
 ---
@@ -78,9 +78,9 @@ Turned out and I realized later- Donnie was shilling his crowdloan rewards KILT 
 [DONT SELL UR SOUL N BRAIN TO EVEN JESUS WORDS, God has given brain in my head for some reason!](https://www.youtube.com/shorts/nQyqvOvLuHM)
 
 ####
-Another story was: 1) I used to teach IELTS TOEFL in Grace Abroad. and how one day, some staffs were talking about 1xbet crash plane bets. ignored it some months thinking, "ignore words n schemes of someone, who I know are way down than me on IQs". 
+Another story was: 1) I used to teach in Grace. and how one day, some staffs were talking about 1xbet crash plane bets. ignored it some months thinking, "ignore words n schemes of someone, who I know are way down than me on IQs". 
 
-but bit me 2 months later- lets try. I was neither L nor P after 1 week latenights- that wasnt loss. But biggest loss was- My valuable attention FANed-OUT from my dollar-account nil notification's 'do sthg message' and it blew up.
+but bited me 2 months later- lets try. I was neither L nor P after 1 week latenights- that wasnt loss. But biggest loss was- My valuable attention FANed-OUT away from my dollar-account nil notification's 'do sthg message' and account blew up.
 
 2) I found some unwashed masses of the world talking on comment how there's one glitch on some abc exchange that 1 btc = 10 times more eth that what's correct rate. Tried dissolving cosmos. not loss but some money spilled by exchange fees & hours spilled on worthless pursuit
 
