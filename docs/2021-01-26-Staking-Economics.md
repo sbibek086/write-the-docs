@@ -27,7 +27,7 @@ What then prevents price from inflation as economics 1st principle is, more supp
 Something more circular ecosystem must be brewing on, As was explained by Karl Floresch in optimistic rollup. PS: its applicable not only in eth but this inflation prevention has been going on in bitcoin and must be in other blockchain since yrs. Quarterly burning of BNB coin has been practiced in binance to offset this inflation effect but I haven't heard such thing in eth bitcoin, Then what it is?
 
 some terms related to staking(st.) are updated by new terms in polka ecosystem as below:
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f74eacff-78b8-435f-9247-5af19e7ed50b)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/7452b118-876a-4cc0-aed5-072a58ec9d75)
 
 ---
 **EtherScanKnows**
