@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Product Design and Product Launch Time Simplified
+title: Product Design & Launch Time Simplified
 category: Economics
 tags: [Economics]
 ---
