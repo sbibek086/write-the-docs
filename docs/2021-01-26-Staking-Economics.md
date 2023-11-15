@@ -5,7 +5,8 @@ category: Economics
 tags: [Cryptography]
 ---
 
-some primer-knowledge_(IKnowIt!)_
+some primer-knowledge _(IKnowIt!)_
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1363ee70-de6b-4a01-91e4-e8fcea47840d)
 
 ---
