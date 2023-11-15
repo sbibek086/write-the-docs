@@ -1,9 +1,15 @@
 ---
 layout: default
-title: Staking Economics
+title: Staking Economics, EtherScan-Knows
 category: Economics
-tags: [Economics, Cryptography]
+tags: [Cryptography]
 ---
+
+some primer-knowledge_(IKnowIt!)_
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1363ee70-de6b-4a01-91e4-e8fcea47840d)
+
+---
+**Staking Economics**
 
 [One of my Lockdown Crypto Episode video](https://www.youtube.com/watch?v=eUpThQP0QV8) description section got [vital link](https://www.mangoresearch.co/blockchain-consensus-vs-validation/) which clarifies that (Ctrl+F) - Validators comprise primarily of miners and mining pools that run full nodes.
 
@@ -19,5 +25,20 @@ What then prevents price from inflation as economics 1st principle is, more supp
 
 Something more circular ecosystem must be brewing on, As was explained by Karl Floresch in optimistic rollup. PS: its applicable not only in eth but this inflation prevention has been going on in bitcoin and must be in other blockchain since yrs. Quarterly burning of BNB coin has been practiced in binance to offset this inflation effect but I haven't heard such thing in eth bitcoin, Then what it is?
 
-Are stashing and slashing different terminology used for same process? Stashing means staked coins gets penalized for acting falsely like chain attack when mining new block.
-_
+some terms related to staking(st.) are updated by new terms in polka ecosystem as below:
+![image](https://user-images.githubusercontent.com/11883023/134817025-5d9fe4a4-3d08-43c4-9be8-b6c8a1ae9a0f.png)
+
+---
+**EtherScanKnows**
+
+ Being able to infer directly from etherscan is like being able to read numbers directly from tickers in exchange _(its way better than reading at medium as words can lie, numbers don't)_ ,and you can infer from it - where big swapping is taking place ,and that means where big pumps are going to happen.
+and one thing I noticed is: just like individual (like me)'s value transfer from one token to another is UI-ed, same exact is for contract interaction with another.
+
+So, there are three types of interaction that can happen in ERC20, ERC721, ERC-xxx which is UI-ed by etherscan.
+
+1.  individual address to contract (ie when you buy some tokens paying ether to that contract add.)
+
+2. contract address to contract address (like tether swapping from its contract address to say another ERC20 contract address)
+
+3. contract address to individual (I speculate this can happen, and is not same as a . Though I have not seen it anywhere till now and I don't know what it means physically) See less
+
