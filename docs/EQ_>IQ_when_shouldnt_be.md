@@ -68,7 +68,7 @@ Story of my BS-Thought Surfing: I had already found Donnie on twitter. impressed
 
 I was hooked. This guy must be good. Spent hour(s) on reading his history tweets. 
 
-my mistake :Sold my soul and brain on his every little saying. **Obsession of big money clouded my rationality and fact-cross-checking-awareness. - DONT DONT** 
+my mistake :Sold my soul and brain on his every little saying. **Obsession of big money clouded my rationality and fact-cross-checking-awareness. - DONT DONT** .  
 KILT was on his twi-profile-description, and his tweets were worshipping kilt- next BIG thing etc. 
 
 poured my ENS 8000$ airdrop money's about 30% on KILT at 11$ on okex. Was buying on that night like a hungry dog after hot-dog thinking, This is it. 
