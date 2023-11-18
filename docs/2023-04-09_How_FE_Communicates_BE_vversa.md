@@ -9,12 +9,23 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3cf6a54b-c284-4508-a95e-5a64e3c1d2be)
 
+---
 ![image](https://user-images.githubusercontent.com/11883023/204149982-9e96a0fd-e659-4d83-adcb-b93332af2aff.png)
 
 ```
 HTTP HEAD method is also there but not used day to day. So dont bother about it too much. Anyway, HEAD method requests the headers that would be returned if the HEAD request's URL was instead requested with the HTTP GET method. For example, if a URL might produce a large download, a HEAD request could read its Content-Length header to check the filesize without actually downloading the file.
 ```
+![image](https://github.com/sbibek086/sbibek086/assets/11883023/5d385476-9c12-45d9-843c-de6a98373b1b)
 
+In above double-arrows req-resp image, I thought: REQ is always in search params, apikeys AND RESPONSE is always in json. But json and other content types are just body in RESPONSE. RESPONSE also has its header.
+
+In REST APIs, request or response message has method, URL endpoint, authentication in different formats like basic, saml, encrypted aka salted aka hashed, aws keys etc (in header) & data content-type(in Body).
+
+Insomnia, Postman helps see all this under hood process. Kibana Client further facilitates us by condensing so many primitive steps directly in gui. For eg, to pass read write superuser previleges to some endpoint may take lots of steps in say insomnia, but kibana condenses it in few steps.
+
+But its much more: [[PostmanTuts](https://www.youtube.com/watch?v=LafF2-k45v0)
+
+---
 ![1672472687948](https://user-images.githubusercontent.com/11883023/235312765-84dc496e-1eea-4642-8a4a-53d9f1f1f0b9.jpg)
 in console, Network is where we can see which url is requested when we click Action button. So, as we can see in blue color, when we click 'Forgot Pw' button, that url is triggered as seen in RHS network tab. 
 
