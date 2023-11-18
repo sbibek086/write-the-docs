@@ -9,6 +9,8 @@ First of all, lets start with this docker-compose.yml of what we tried to do CLI
 
 ![openARUN_MaileGarirako-ko-DockerComposeYML](https://user-images.githubusercontent.com/11883023/167805462-8c71bbf5-a2ba-4ffa-a6c9-b181f26b0ca9.jpg)
 
+_for more such docker-compose.yml, there's one privPost on DevPros_
+
 Now, lets explore usage of YML:
 Why Infrastructure.as.Code? Traditionally if you have codebase, then for deploying to server, system admin or Operations task of starting configuring server, running firewall security etc have to be done. These all are modularized and automated started by writing IaC yml.
 
