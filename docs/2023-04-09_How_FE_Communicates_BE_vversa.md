@@ -15,7 +15,7 @@ tags: [SoftwareDev]
 ```
 HTTP HEAD method is also there but not used day to day. So dont bother about it too much. Anyway, HEAD method requests the headers that would be returned if the HEAD request's URL was instead requested with the HTTP GET method. For example, if a URL might produce a large download, a HEAD request could read its Content-Length header to check the filesize without actually downloading the file.
 ```
-![image](https://github.com/sbibek086/sbibek086/assets/11883023/5d385476-9c12-45d9-843c-de6a98373b1b)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/440543e3-a898-4afe-bbb8-3005eb0169e0)
 
 In above double-arrows req-resp image, I thought: REQ is always in search params, apikeys AND RESPONSE is always in json. But json and other content types are just body in RESPONSE. RESPONSE also has its header.
 
