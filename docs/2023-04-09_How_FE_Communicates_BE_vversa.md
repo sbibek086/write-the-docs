@@ -21,18 +21,22 @@ in console, Network is where we can see which url is requested when we click Act
 and in LHS, we can see what to response with when {certain URL is called} aka {API endpoint}. So, LHS here is backend API docs built in Django by Backend-ers
 
 ---
-
 Pow-It's-enof-for-daily-job-notes of What different status codes mean?
 
 ![image](https://user-images.githubusercontent.com/109033173/230772640-9839acaf-09ca-4bcf-9596-3aa68777275f.png)
 
 ---
-
 .env folder lets you default-ize what path we want our tail URL to append with base path URL. That base path url is menioned in .env folder.
-.env may have more things than just base path urls.
+.env may have more things than just base path urls. 
 
-_Also, we have to do git pull everytime after we do git checkout branchNewlyDevelopedFeature because I remember that one day, I couldnt deploy correctly because my to-go-and-deploy branchNewlyDevelopedFeature should have had .env updated._
+Not only this, .env folder has other purposes too, as clarified from below
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/68a02270-1710-4ddd-abf6-41778fe16ed4)
+
+_Also, we have to do git pull everytime after we do git checkout branchNewlyDevelopedFeature because I remember that one day, I couldnt deploy correctly because my to-go-and-deploy 
+branchNewlyDevelopedFeature should have had .env updated._
+
+---
 .gitignore - whatever we put in it, is ignored by git. They are not put in burden to git by git. Such folders we want to put in .gitignore could be packages, which are installed on press of npm install etc.
 
 .eslint.config.json - whatever stds we set for linting has to be followed as protocol in order to be valid. eg. if 'feat' is in eslint.config.json, then our git cmd should obey that language protocol like _git commit  -m "feat: feature of drop down menu fixed in this Pull Req"_ otherwise, compiler wont compile this git
