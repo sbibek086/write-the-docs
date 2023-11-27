@@ -82,10 +82,6 @@ Another story was: 1) I used to teach in Grace. and how one day, some staffs wer
 
 but bited me 2 months later- lets try. I was neither L nor P after 1 week latenights- that wasnt loss. But biggest loss was- My valuable attention FANed-OUT away from my dollar-account nil notification's 'do sthg message' and account blew up.
 
-2) I found some unwashed masses of the world talking on comment how there's one glitch on some abc exchange that 1 btc = 10 times more eth that what's correct rate. Tried dissolving cosmos. not loss but some money spilled by exchange fees & hours spilled on worthless pursuit
-
-**Lesson - Never pay attention to people on JHUMRIKALAIYA tempo (I mean comment-people) shouting rich-plans. S/he should have proven self to sthg, IN ORDER TO QUALIFY FOR MY VALUABLE ATTENTION RADAR.**
-
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c4d08664-a702-417c-b8b9-a1c170fdcaf9)
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/cea862d1-9432-4cd3-8bb6-43a6b493e74f)
 
