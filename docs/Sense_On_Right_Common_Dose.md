@@ -1,4 +1,4 @@
----
+]---
 layout: default
 title: Sense on common right dose..
 category: Cryptography
@@ -32,7 +32,7 @@ I have been criticized for not being smart enough to be one niche specific. I me
 
 And my critics are right - sometimes it feels from brain overload I feel sometimes. I think I will drop that d) stuffs coz for investing, I dont need to have that zero feet view but sometimes curiosity cat itches but I will drop it anyway.
 
-To quote AB, 
+To quote AB, (I am not referring BachPAAn guy who disllusions people w bullshit quiz knowledge, that does nobody no good n continues to fuck people, u idiot! )
 
 "People that are extremely successful don’t learn/study more than others.  They DO more, then when they hit a cap in the DOING up the goal. They then strategically learn exactly (and as little as) what is needed and then return to aggressive doing.
 
