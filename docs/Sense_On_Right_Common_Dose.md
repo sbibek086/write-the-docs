@@ -1,4 +1,4 @@
-]---
+---
 layout: default
 title: Sense on common right dose..
 category: Cryptography
