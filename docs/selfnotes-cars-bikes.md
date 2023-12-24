@@ -1,18 +1,30 @@
 ---
 layout: default
-title: Selfnotes- car, bikeDo(nt)s,Swim, Plants
+title: PowMinimalism+🚗🏍️🏊🌱notes
 category: Economics
 tags: [Economics]
 ---
 
+PowMinimalism -
+Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
+
+I am not that extreme crazy minimalist tho.
+[Robins44-INotThisExtremeMinimal](https://www.youtube.com/watch?v=FqTkiLxIE9Y)
+And ditto VB's BackPack article. 
+
+---
+
 This journal is recollection of how I learnt to car in Brookings,south dakota; swim just to kick start all memory.
 
-Car-OK I am now starting a car. I am driving to drop vikram. I sit on driver seat. Then I put back gear to back car. Then I turn steering right, I turn steering according to my car front view aligns with the bending now straight to my pov .as soon as wheel turns right,  then I rotate back steering to original 12 position. 
+Car-OK I am now starting a car. I am driving to drop vikram. I sit on driver seat. Then I put back gear to back car ,as car was parked in back of our apt. 
+Then I turn steering right according to my car front view aligns with the bending now straight to my pov .as soon as wheel turns right,  then I rotate back steering to original 12 position. 
 
-Then after main road junction comes.  I stop my car and as coming traffic is far enough to time allow my car to cross,  I front gear my car.  Then I go ahead ahead.
-Then main junction comes.
+Then road of our alley meets with main road highway - yes, that T junction comes.  I stop my car and as coming traffic is far enough to time allow my car to cross,  I front gear my car.  Then I go ahead ahead.
+
+Then I drive and drive ,and afterawhile of some residential streets and avenues, main junction- yes that + junction comes w SDSUtowerClock-looking-below-us junction.
 So I stop my car and as who comes ahead in junction has to make first move. So I wait turn and move.
-Then again that right junction comes so I turn and then I have to watch my rear mirror inside cab to see if some car is following.  If it's,  then I signal right turn as I have to cross section road to get my turn.  As that leaves,  I return right and again right to park,  to leave vikram.
+
+Then again that right junction (yes that junction where main highway cuts right to road inside SDSU) comes so I turn and then I have to watch my rear mirror inside cab to see if some car is following.  If it's,  then I signal right turn as I have to cross section road to get my turn.  As that leaves,  I return right and again right to park,  to leave vikram.
  So brake Laudaa jahile pani b**b jasari gently thicha leg le as vikram shouted ms.
 And BCA in America car.  IE.  Brake clutch accelerator. BCA in Np car too? write after know
 
