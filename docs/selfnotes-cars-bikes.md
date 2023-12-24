@@ -38,5 +38,5 @@ some agri tools like hammer, kodalo etc for my farm.
 Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
 some more notes along time.
 
-And VB's BackPack article [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)  [.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+And VB's BackPack article [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
 
