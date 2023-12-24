@@ -33,10 +33,10 @@ I am not that extreme crazy minimalist or any cult-ist but I am simplifying.
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
 
-and some agri tools like hammer, kodalo etc for my farm.
+some agri tools like hammer, kodalo etc for my farm.
 
 Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
 some more notes along time.
 
-[Robins44l](https://www.youtube.com/watch?v=FqTkiLxIE9Y) [Robins111](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
-And VB's BackPack article. 
+And VB's BackPack article [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)  [.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+
