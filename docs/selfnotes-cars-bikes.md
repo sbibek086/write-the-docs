@@ -10,7 +10,7 @@ Car-
 _This journal is recollection of how I learnt to car in Brookings,south dakota; swim just to kick start all memory._
 
 OK I am now starting a car. I am driving to drop vikram. I sit on driver seat. Then I put back gear to back car ,as car was parked in back of our apt. 
-Then I turn steering right according to my car front view aligns with the bending now straight to my pov .as soon as wheel turns right,  then I rotate back steering to original 12 position. 
+Then I turn steering right according to my car frontMirror view aligns with the bending now straight to my pov .as soon as wheel turns right,  then I rotate back steering to original 12 position. 
 
 Then road of our alley meets with main road highway - yes, that T junction comes.  I stop my car and as coming traffic is far enough to time allow my car to cross,  I front gear my car.  Then I go ahead ahead.
 
