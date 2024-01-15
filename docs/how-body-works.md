@@ -5,6 +5,8 @@ category: Health
 tags: [Health]
 ---
 
+चित्रलाई zoom in गरेर हेर्नुस। मोबाइलबाट हेर्दै हुनुन्छ भने
+
 ![image](https://gist.github.com/assets/11883023/9c1500b6-8d40-4a30-bc01-4880ba557c24)
 
 अब माथिको चित्रमा हरियो अन्डरलाइन गरिएको Circulatory System रक्त संचार या नि की नशा (arteries and veins) को कुरा गरौ।
