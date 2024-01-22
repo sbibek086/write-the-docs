@@ -24,7 +24,7 @@ And BCA in America car.  IE.  Brake clutch accelerator. BCA in Np car too? write
 ---
 BikeDo(nt)s 
 
-![image](https://gist.github.com/assets/11883023/7d1925e0-74ae-4631-8633-ea68ecaccce2)
+![image](https://gist.github.com/assets/11883023/de00ad50-6857-48e8-b473-5b911bf11664)
 
 ---
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
@@ -58,5 +58,5 @@ some agri tools like hammer, kodalo etc for my farm.
 Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
 some more notes along time.
 
-And VB's BackPack article [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+[VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
 
