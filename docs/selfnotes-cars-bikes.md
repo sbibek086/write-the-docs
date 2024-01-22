@@ -22,10 +22,30 @@ Then again that right junction (yes that junction where main highway cuts right 
 And BCA in America car.  IE.  Brake clutch accelerator. BCA in Np car too? write after know
 
 ---
-BikeDo(nt)s - all journals post here, also notes of how to drive up downhill, n good clutch acceleartor practics from utube video ok? (remember struggle close call in naubise ukalo to ktm? unless mastered, dont bike to ktm, i suppose tho from ktm is cake)
+BikeDo(nt)s 
+
+![image](https://gist.github.com/assets/11883023/7d1925e0-74ae-4631-8633-ea68ecaccce2)
 
 ---
-Swim - Some todos but idk if i get time but its necesary skill tho
+Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
+
+Let me remember- my main challenge was keeping body horizontal to water as I always tend to have vertical body stand even in water.
+
+For that, I practised doing horizotal dive as good as I could. So, remember that guy with fish like body from Equador. 
+
+When I was fatigued at half sprint on 250 m  long pool, he would finish one sprint with ease. He would not even break water surface film while I was creatig turbulence like crazy, and I improved bit with pratice.
+
+But my biggest guru was thick moustached 51-55 yr old guy from German descend. He would say and I would try to follow -
+
+![image](https://gist.github.com/assets/11883023/eead5656-55b1-484e-974d-5b0d33d234e6)
+
+ When you are doing swim style as above img,
+
+then when u r frontstroking w ur left hand like duck-paw under water pushing water as much u can back to push u forward - yes ,Newtons 3rd law, idiot vivek, it is time u r breating out with mukh and naak- BRooOOOH out, with BRooOOOH oxygen in immediate next movement pattern.
+
+and same movement this time w alternate other side body parts - right hand, head tilted other way etc
+
+My biggest challenge was - when I paddle my foot in up down movement, my hands would also tend to do so. Hard was it to change it. tho I slowly improved.
 
 ---
 PowMinimalism -
