@@ -1,7 +1,6 @@
 ---
 layout: default
-title: PowMinimalism+🚗🏍️🏊🌱notes
-category: Economics
+title: .
 tags: [Economics]
 ---
 
