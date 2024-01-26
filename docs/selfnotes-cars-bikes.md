@@ -26,6 +26,35 @@ BikeDo(nt)s
 ![image](https://gist.github.com/assets/11883023/de00ad50-6857-48e8-b473-5b911bf11664)
 
 ---
+Arranging samaan while shifting room has tortured me, u know how many items u have to pack
+
+So, w lesson learnt,
+Things I buy should follow
+
+i. Matryoshka dolls principle
+
+ii. different items sud have cog-fitting principle, like nanglo I buy sud fit as lid to circumference to baata  bought
+
+iii. baata sud have hooks so that I can tighten rope around it
+
+iv. bought thing sud be muktipurpose like my BELOVED Leatherman
+
+v. [Force Traveller caravan van kin](https://www.youtube.com/watch?v=lQKpyY0uY_Y) kina but ok if i cant able to buy, jasko lagi misses lai 50k/m earn xa vane 25k xa vanera save gara, idiot vvek
+
+---
+PowMinimalism -
+I am not that extreme crazy minimalist or any cult-ist but I am simplifying. 
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
+
+some agri tools like hammer, kodalo etc for my farm.
+
+Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
+some more notes along time.
+
+[VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+
+---
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
 
 Let me remember- my main challenge was keeping body horizontal to water as I always tend to have vertical body stand even in water.
@@ -45,17 +74,3 @@ then when u r frontstroking w ur left hand like duck-paw under water pushing wat
 and same movement this time w alternate other side body parts - right hand, head tilted other way etc
 
 My biggest challenge was - when I paddle my foot in up down movement, my hands would also tend to do so. Hard was it to change it. tho I slowly improved.
-
----
-PowMinimalism -
-I am not that extreme crazy minimalist or any cult-ist but I am simplifying. 
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
-
-some agri tools like hammer, kodalo etc for my farm.
-
-Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
-some more notes along time.
-
-[VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
-
