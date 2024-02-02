@@ -23,4 +23,5 @@ Linux is GPL-3 license(all is free as air): you dont need to install in linux, y
 
 ![Linux](https://user-images.githubusercontent.com/11883023/267172579-54b7c408-a545-4769-81ba-89a3b5d18582.jpg)
 
+
 idk if I have time to catch up linux but atleast i will try to collect tids and bits here n there i have pinned bookmarked half-read ,n try to integrate understandg.
