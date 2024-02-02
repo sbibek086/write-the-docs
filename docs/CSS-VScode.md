@@ -11,3 +11,16 @@ css
 
 ---
 vscode..
+
+---
+Browser Dev Console:
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5f0b6877-a03a-47bb-981a-8892ca639619)
+
+dyk that (as SurajMagar-FE concisely cleared me), Document.Object.Model is just that div elements are made as objects (of OOP) so that they can be referenced manipulated at will in other places in pgm.
+
+---
+
+Of-course I am Zugaad-ing github Issues for self privNotes but real meant-to-be-use is as below, used by Cosmos (crypto)-ians
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/221a4b74-5d53-4760-b58a-e60b76e80f4d)
