@@ -17,6 +17,9 @@ py
 
 [code snippets n env setup here](https://realpython.com/linear-programming-python/)[1](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html)  [2](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html)  [3](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html)
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/569de4d2-faac-4ea5-9e85-77b2446fbca4)
+
+
 ```
 Incase I need pyCheats https://user-images.githubusercontent.com/11883023/216755626-85a69c1f-08ad-49ef-87d3-fb574a05db20.jpg  & colab.google.com sbibek086 g-log n if runs, save  File>> save as github gist
 ```
