@@ -21,9 +21,9 @@ In above double-arrows req-resp image, I thought: REQ is always in search params
 
 In REST APIs, request or response message has method, URL endpoint, authentication in different formats like basic, saml, encrypted aka salted aka hashed, aws keys etc (in header) & data content-type(in Body).
 
-Insomnia, Postman helps see all this under hood process. Kibana Client further facilitates us by condensing so many primitive steps directly in gui. For eg, to pass read write superuser previleges to some endpoint may take lots of steps in say insomnia, but kibana condenses it in few steps.
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f538f281-a4e0-4e47-b72f-d68191ddfdb5)
 
-But its much more: [[PostmanTuts](https://www.youtube.com/watch?v=LafF2-k45v0)
+But its much more: [PostmanTuts](https://www.youtube.com/watch?v=LafF2-k45v0)
 
 ---
 ![1672472687948](https://user-images.githubusercontent.com/11883023/235312765-84dc496e-1eea-4642-8a4a-53d9f1f1f0b9.jpg)
