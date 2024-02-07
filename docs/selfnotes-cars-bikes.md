@@ -25,7 +25,7 @@ BikeDo(nt)s
 
 ![image](https://gist.github.com/assets/11883023/de00ad50-6857-48e8-b473-5b911bf11664)
 
-esto banni rope bicycle tyre ko bike ko leg guard ma bann, pathao ko euta bhote le banya jasto
+esto banni (rope bicycle tyre ko or moto flexi dori ko) bike ko leg guard ma bann, pathao ko euta bhote le banya jasto
 
 ![image](https://gist.github.com/assets/11883023/b1a7cd83-4102-48c3-9959-df11d3b7a147)
 
