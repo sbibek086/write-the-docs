@@ -39,7 +39,7 @@ iii. baata sud have hooks so that I can tighten rope around it
 
 iv. bought thing sud be multipurpose like my BELOVED Leatherman
 
-v. [Force Traveller caravan van kin](https://www.youtube.com/watch?v=lQKpyY0uY_Y) but ok if i cant able to buy, jasko lagi misses lai 50k/m earn xa vane 25k xa vanera save gara, idiot vvek
+v. 3rd floor thap like pichhadi ko handpump gadya bhote le garyo, n farm berna tin lagauna kinna mony bacha
 
 ---
 PowMinimalism -
