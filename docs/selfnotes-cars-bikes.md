@@ -25,6 +25,10 @@ BikeDo(nt)s
 
 ![image](https://gist.github.com/assets/11883023/de00ad50-6857-48e8-b473-5b911bf11664)
 
+esto banni rope bicycle tyre ko bike ko leg guard ma bann, pathao ko euta bhote le banya jasto
+
+![image](https://gist.github.com/assets/11883023/b1a7cd83-4102-48c3-9959-df11d3b7a147)
+
 ---
 Arranging samaan while shifting room has tortured me, u know how many items u have to pack
 
@@ -53,6 +57,24 @@ Strong regret on Why I not bought Dish Antenna type Internet connection ,and hav
 some more notes along time.
 
 [VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+
+---
+Plants-
+
+papaya on chhat https://www.youtube.com/watch?v=93Mhr8ezp24
+
+
+
+
+
+
+not that necessary critical like swim verrry below
+
+
+
+
+
+
 
 ---
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
