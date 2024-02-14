@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Environment Vars Sys Vars, User Vars Explained
+title: Environment, Sys, User Vars Explained
 category: WindowsOS
 tags: [WindowsOS]
 ---
 ![SysVars](https://user-images.githubusercontent.com/11883023/155872097-7dae959d-a0bb-44ed-b66d-f9787bc0363b.jpg)
 How Environment Vars as shown by red bordered in above sceens can be accessed is shown in 1,2,3 step there. As can be seen in red bordered dialog box, there are two types of EnvironmentVars: 
+
 i)Sys Vars: These are wide accepted & doesnt vary from user to user (Like in one OS, you can create Admin user, Guest user etc.)
 
 ii)User Vars: (vary from user to user) You can add your variables under your user OS account so that it has got nothing to do with other users.
@@ -14,6 +15,7 @@ ii)User Vars: (vary from user to user) You can add your variables under your use
 
 Both vars work similar to registry in Windows ,and so such vars can be accessed directly with _regedit_ in cmd.
 i) are evaluated after ii), which means if we have got same name i) and ii), then it will be considered user vars.
+
 ---
 Also to notice is: The Path variable is generated in a different way. The effective Path will be the User Path variable appended to the System Path variable.
 
@@ -21,6 +23,9 @@ Also to notice is: The Path variable is generated in a different way. The effect
 Now, if I double click to add for eg, VScode paths as shown by orange bordered, after that if I want to run open VS code, open up Command Prompt and type in the name of the executable file that was in the folder. You can provide additional arguments if the program supports it. 
 
 The program will run from the command prompt without actually being in the directory from where you executed the command. That is the beauty of the Path variable.
+
+---
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b72d76f4-32e9-436e-86e2-793d333c082f)
 
 ---
 Some more information about files in Windows and why they are? *These informations are not related to above context.*
