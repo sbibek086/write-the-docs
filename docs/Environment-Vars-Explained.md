@@ -25,7 +25,7 @@ Now, if I double click to add for eg, VScode paths as shown by orange bordered, 
 The program will run from the command prompt without actually being in the directory from where you executed the command. That is the beauty of the Path variable.
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b72d76f4-32e9-436e-86e2-793d333c082f)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/004ec0ad-696a-444b-9d84-5868452cee08)
 
 ---
 Some more information about files in Windows and why they are? *These informations are not related to above context.*
