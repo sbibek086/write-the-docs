@@ -6,6 +6,11 @@ category: Software Development
 
 ![image](https://user-images.githubusercontent.com/11883023/274704954-2e9853a4-ee94-487f-9830-26b436742dbc.png)
 
+Some primer & loosely connected subcontext before I begin:
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/34671341-2904-4168-b874-145bab304e92)
+
+---
 So, today, I tried to create class.py in playwright such that another mainMightBeTest_anothername.py would call this class.py
 
 Day before, I had been simply creating test_TestThis1Scenario.py , test_TestThisAnotherScenario2.py and simply running this .py(s) with pytest test_TestThis..py
