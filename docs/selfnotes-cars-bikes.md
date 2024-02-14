@@ -29,6 +29,8 @@ esto banni (rope bicycle tyre ko or moto flexi dori ko) bike ko leg guard ma ban
 
 ![image](https://gist.github.com/assets/11883023/b1a7cd83-4102-48c3-9959-df11d3b7a147)
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e249e8bc-050e-4849-809b-ab80b2251121)
+
 ---
 Arranging samaan while shifting room has tortured me, u know how many items u have to pack
 
