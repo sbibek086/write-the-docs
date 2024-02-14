@@ -71,8 +71,8 @@ We got home garden home path etc. etc. manually setup in real soil == having buy
 
 Now, we got all these home garden, home path evrything to real thing now DELIVERED in truck and we rent evrything and set it up truck soil === AWS
 
----
-Some related context while aws labs
+---_
+Some related context while aws labs but no necessary to above article_
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/81548406-e3a1-41cb-ad4a-4317acc37068)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/043aeb2b-9c94-45bf-a59c-553dcbc0e32f)
 
