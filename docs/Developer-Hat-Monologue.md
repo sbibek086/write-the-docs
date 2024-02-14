@@ -12,8 +12,8 @@ tags: [Developer]
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/91c27dcb-fee0-40bf-9455-b64fff2580d2)
 
 Do it as religion & dont feel lazy to note (rough pen notes if hurry or fatigued) all lessons learnt, mistakes made, corrections- all when I solve some pgm challenge. This note will save me tons of time when I face similar situation challenges in future.
----
 
+---
 so, it doesnt always have to be npm docker pip that we install globally on computer.
 it can be VivekAwesomePkgs or even ElasticSearchPkgs- why not ?
 One of the whole OSS enthusiasm is also about bringing up with new elegant packages.
