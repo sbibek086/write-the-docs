@@ -29,6 +29,8 @@ Further narrowing context to being good programmer
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0fe0724e-23fd-4e94-ab39-2e16e06fcdd1)
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4b0dd7eb-3c1f-4eea-9e6c-8a3e195a6ae4)
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/91c27dcb-fee0-40bf-9455-b64fff2580d2)
 
 Do it as religion & dont feel lazy to note (rough pen notes if hurry or fatigued) all lessons learnt, mistakes made, corrections- all when I solve some pgm challenge. This note will save me tons of time when I face similar situation challenges in future.
