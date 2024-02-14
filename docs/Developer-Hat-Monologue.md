@@ -37,8 +37,9 @@ pip(btw it's Python's) install whatwhat
 
 hmmmmmmmmm, ok
 
-----
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5e87135a-1f6f-474c-b388-20c731c4e078)
 
+----
 So, in production aka development day yesterday morning , I had pulled from say predevelop branch, then deployed.
 now today evening, predevelop branch has been lot + - by now,
 then obviously, I need to 
