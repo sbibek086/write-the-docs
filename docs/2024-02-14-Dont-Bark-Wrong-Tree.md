@@ -1,8 +1,8 @@
+---
 layout: default
 title: DONT bark wrong tree for u - PREthink
 category: Developer
 tags: [Developer]
-
 ---
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1d960dfc-e359-4f77-b5c1-5ecd4ac92ae8)
