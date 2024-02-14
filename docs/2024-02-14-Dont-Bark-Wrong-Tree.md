@@ -22,8 +22,6 @@ Brain tends to forget things which it tends to find unimportant or disconnected 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9b769dd5-d2c2-4a46-8750-2ab8a73f5278)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0d58d766-814a-4c2f-9c02-5761c048742a)---
-
 ---
 Further narrowing context to being good programmer
 
