@@ -12,7 +12,7 @@ I must not had paid attention to kernel. otherwise how clear its to me now.
 
 kernel is middle tier which connects to hw resources. kernel doesnt always have to be terminal or bash CLI stuffs. It can be GUI (thanks to Linus who must have painstakingly written all those lines which lets you control w mouse). all those linux cmds like sudo, apt all these are recognized because Linus had written defined it as packages in C and assembly lang while writing Linux kernel. btw he didnt write it from scratch tho. he wrote on top of GNU framework, which was revolution against all proprietary locked Unix.
 
-As opposite, windows we see cant be said kernel. its OS. (idk what qualifies for kernel n what for OS, n idc ) (Linux is both kernel and OS). Windows is for handicapped layman, i breathe it
+As opposite, windows we see cant be said kernel. its OS. (idk what qualifies for kernel n what for OS, n idc ) ( (L I N U X)[https://www.youtube.com/watch?v=HbgzrKJvDRw] is both kernel and OS). Windows is for handicapped layman, i breathe it
 
 So, one thing I appreciate about Linux is: its file systems and naming, folder organization are implicitly such that what developers had to explicitly do while developing in IDE.
 Like in Linux, they say mounting while we are connecting to USB stick. Mounting is exactly dev language. Like we say MOUNT pgm output to say some docker container url.
