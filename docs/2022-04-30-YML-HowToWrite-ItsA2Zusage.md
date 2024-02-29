@@ -9,6 +9,8 @@ First of all, lets start with this docker-compose.yml of what we tried to do CLI
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/8e2de3fd-6c07-4be7-9b44-8aaef1b23510)
 
+[How does depends_on work?](https://stackoverflow.com/questions/73727944/when-depends-on-is-being-used-in-docker-compose-yml)
+
 _for more such docker-compose.yml, there's one privPost on DevPros_
 
 Now, lets explore usage of YML:
