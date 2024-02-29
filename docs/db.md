@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dev Hat Monologue
+title: db
 category: Developer
 tags: [Developer]
 ---
