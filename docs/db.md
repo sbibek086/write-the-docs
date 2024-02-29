@@ -30,6 +30,7 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 ---
 _aba database table haru sabai architecture anusar link vayepachhi ie. production ready vayepaxi vane cloud ma paxi upload garne ho ta? CONFIRM from naabin ji_
 
+---
 ![image](https://user-images.githubusercontent.com/11883023/217716248-a661201a-496a-4250-ac64-50d24c0c0430.png)
 
 mongoDb --  sb@g, db pw is 3.w8 without !
