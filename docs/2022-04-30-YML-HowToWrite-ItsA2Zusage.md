@@ -10,6 +10,7 @@ First of all, lets start with this docker-compose.yml of what we tried to do CLI
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/8e2de3fd-6c07-4be7-9b44-8aaef1b23510)
 
 [How does depends_on work?](https://stackoverflow.com/questions/73727944/when-depends-on-is-being-used-in-docker-compose-yml)
+[Line 30, idk? answered](https://stackoverflow.com/questions/54807762/docker-compose-meaning-of-in-volume-definition#:~:text=set%20%7B%7D%20%2C%20this%20is%20an%20empty%20mapping.)
 
 _for more such docker-compose.yml, there's one privPost on DevPros_
 
