@@ -7,7 +7,7 @@ First of all, lets start with this docker-compose.yml of what we tried to do CLI
 
  _some writes '3.3', some writes "3.3", its just matter of which format linting is in package.json. Thats all, nothing serious._
 
-![openARUN_MaileGarirako-ko-DockerComposeYML](https://user-images.githubusercontent.com/11883023/167805462-8c71bbf5-a2ba-4ffa-a6c9-b181f26b0ca9.jpg)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/8e2de3fd-6c07-4be7-9b44-8aaef1b23510)
 
 _for more such docker-compose.yml, there's one privPost on DevPros_
 
