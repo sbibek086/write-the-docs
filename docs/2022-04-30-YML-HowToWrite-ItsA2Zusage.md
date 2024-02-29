@@ -27,9 +27,9 @@ Now as soln, what IaC does is: it ensures that such dont happen by updating late
 
 bottomest screen shows how commonly, Terraform is used for Initial Infra setup to Appli setup while Ansible for ..
 
-PS: any valid json file is also valid yml [json is subset of yml] 
+PS: any valid json file is also valid yml [json is subset of yml]
 
-![1628264300549](https://user-images.githubusercontent.com/11883023/166114380-e0842ea6-2433-47c3-8d70-c9b1e1fe2892.jpg)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/bc1c3931-0d4e-491b-af75-abf7d8bec148)
 
 ---
 2nd gold nuggets from Techworld with Nana YT, not rel to above
