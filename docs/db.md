@@ -14,7 +14,7 @@ DBMS like pgAdmin is collection of programs which enables users to create/access
 
  --- 
  under RDBMS comes such below tables:
-![image](https://github.com/sbibek086/sbibek086.io/assets/11883023/a03ee02e-0f4f-4fb9-85e3-9ac6efa06302)---
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/fb76af26-25ec-4c02-b3fa-c7b156f2ce62)
 
 ![image](https://user-images.githubusercontent.com/11883023/217697986-53c01ff3-c486-4e13-a089-f8c8ec0e2476.png)
 this is ER dgm where primary key and (foreign key links one table to another) . other word, this is archiecture of db.
