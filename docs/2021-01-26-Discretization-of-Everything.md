@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discretization of Everything, Thanks to Pioneer Satoshi
+title: Discretization of Everything, tq Pioneer Satoshi
 category: Cryptography
 tags: [Cryptography]
 ---
