@@ -7,10 +7,10 @@ tags: [Cryptography]
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/2572a938-78be-4004-bc8c-66d728e4d06b)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/50939a02-3c5f-4401-b9c4-14997ee214f7)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5bb80efd-3096-41cd-9bbd-61191d52be5f)
 
----_
-This below img is 'Env vars Explained' bottomest img, now shifted here for more context uniformity_
+---
+_This below img is 'Env vars Explained' bottomest img, now shifted here for more context uniformity_
 
 Some more information about files in Windows and why they are? *These informations are not related to above context.*
 ![image](https://user-images.githubusercontent.com/11883023/168128647-21ed35dd-6d92-4bbe-afd1-bcec15aab700.png)
