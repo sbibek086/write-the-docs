@@ -26,7 +26,3 @@ The program will run from the command prompt without actually being in the direc
 
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/004ec0ad-696a-444b-9d84-5868452cee08)
-
----
-Some more information about files in Windows and why they are? *These informations are not related to above context.*
-![image](https://user-images.githubusercontent.com/11883023/168128647-21ed35dd-6d92-4bbe-afd1-bcec15aab700.png)
