@@ -11,6 +11,4 @@ tags: [Cryptography]
 
 ---
 _This below img is 'Env vars Explained' bottomest img, now shifted here for more context uniformity_
-
-Some more information about files in Windows and why they are? *These informations are not related to above context.*
 ![image](https://user-images.githubusercontent.com/11883023/168128647-21ed35dd-6d92-4bbe-afd1-bcec15aab700.png)
