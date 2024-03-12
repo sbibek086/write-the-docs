@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Understandg EnvFiles, & where Compiler saved when Pgm, eg Py Installed 
+title: Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled 
 category: Cryptography
 tags: [Cryptography]
 ---
