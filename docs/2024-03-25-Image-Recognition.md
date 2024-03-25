@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discretization of Everything, tq Pioneer Satoshi
+title: Converting Schematics of api, sdk to code
 category: Developer
 tags: [Developer]
 ---
