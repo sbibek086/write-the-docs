@@ -15,7 +15,7 @@ py
 
 ![image](https://user-images.githubusercontent.com/11883023/213872814-2ddf8c01-f52a-4c92-b253-58159f9975ac.png)
 
-[code snippets n env setup here](https://realpython.com/linear-programming-python/)[1](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html)  [2](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html)  [3](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html)
+[code snippets n env setup here - Vvek NoNeed EnvSetup, Just Run LinearPgmFromBlogPost GDrive in colab ](https://realpython.com/linear-programming-python/)[1](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html)  [2](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html)  [3](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html)   _I can do away wout 1 2 3_
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/569de4d2-faac-4ea5-9e85-77b2446fbca4)
 
