@@ -12,6 +12,9 @@ This above image is schematic diagram. Now below, I am turning this to code form
 code is now not in project repo- with environments, utils etc properly arranged structure but just as snippets.
 <script src="https://gist.github.com/sbibek086/2c505c6a7567c6bff8cc266e93b5472e.js"></script>
 
-Does it run directly in colab as I did with [this G-drive](https://colab.research.google.com/drive/1SssX3chbMkP1ybr2PwOrSM59uKEaa_Fa?usp=sharing)
+Can we make above code run directly in colab as I did with [this G-drive](https://colab.research.google.com/drive/1SssX3chbMkP1ybr2PwOrSM59uKEaa_Fa?usp=sharing)
 
 I hope it in some way, comes use to your map service, AMg.
+
+btw, [recommended read AMg](https://www.here.com/learn/blog/visual-recognition-with-ibm-watson-here-and-python-part-2)
+
