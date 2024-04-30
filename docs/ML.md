@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ML is not AI - my Journey soFar
+title: ml
 category: ML
 tags: [ML]
 ---
