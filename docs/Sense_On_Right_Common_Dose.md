@@ -17,7 +17,7 @@ And that intuition is built from observing A+ people in their A+ game.
 Do you think that we spend time watching every other soap operas or trends or what Shahrukh wife told on f**king Kapil Sharma show? 
 Nope. Thats none our business.
 
-We would rather hang out on clubs metting hots, chill on nature walk or just study whats useful to selves.
+We would rather sleep, chill on nature walk or just study whats useful to selves.
 We are different breeds. I will tell you.
 
 ---
