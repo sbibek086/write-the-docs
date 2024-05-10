@@ -32,34 +32,49 @@ c) Convert CSV to Parquet: Within the Dataproc cluster or Dataflow job, you can 
 perform any necessary transformations or analyses, and then write the processed data to Parquet format. 
 
 --start of code--
+
 from google.cloud import storage
+
 from pyspark.sql import SparkSession
 
 //Initialize Google Cloud Storage client
+
 storage_client = storage.Client()
 
 //Specify GCS paths
+
 input_bucket_name = 'your-input-bucket'
+
 input_blob_name = 'path/to/your/input.csv'
+
 output_bucket_name = 'your-output-bucket'
+
 output_blob_name = 'path/to/your/output.parquet'
 
 //Download CSV file from GCS
+
 input_bucket = storage_client.get_bucket(input_bucket_name)
+
 input_blob = input_bucket.blob(input_blob_name)
+
 input_blob.download_to_filename('input.csv')
 
 //Initialize SparkSession
+
 spark = SparkSession.builder.appName("CSV to Parquet").getOrCreate()
 
 //Read CSV file into DataFrame
+
 df = spark.read.csv('input.csv', header=True, inferSchema=True)
 
 //Perform any necessary transformations or analyses using DataFrame API or Spark SQL
+
 //Example:
+
 //transformed_df = df.withColumn([...])
 
 //Write transformed data to Parquet format on GCS
+
 transformed_df.write.parquet(f'gs://{output_bucket_name}/{output_blob_name}')
 
 spark.stop()
