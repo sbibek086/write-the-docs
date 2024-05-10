@@ -31,55 +31,7 @@ Google Cloud Dataflow is a fully managed service for stream and batch processing
 c) Convert CSV to Parquet: Within the Dataproc cluster or Dataflow job, you can use Apache Spark or Apache Beam to read the CSV data, 
 perform any necessary transformations or analyses, and then write the processed data to Parquet format. 
 
---start of code--
-
-from google.cloud import storage
-
-from pyspark.sql import SparkSession
-
-//Initialize Google Cloud Storage client
-
-storage_client = storage.Client()
-
-//Specify GCS paths
-
-input_bucket_name = 'your-input-bucket'
-
-input_blob_name = 'path/to/your/input.csv'
-
-output_bucket_name = 'your-output-bucket'
-
-output_blob_name = 'path/to/your/output.parquet'
-
-//Download CSV file from GCS
-
-input_bucket = storage_client.get_bucket(input_bucket_name)
-
-input_blob = input_bucket.blob(input_blob_name)
-
-input_blob.download_to_filename('input.csv')
-
-//Initialize SparkSession
-
-spark = SparkSession.builder.appName("CSV to Parquet").getOrCreate()
-
-//Read CSV file into DataFrame
-
-df = spark.read.csv('input.csv', header=True, inferSchema=True)
-
-//Perform any necessary transformations or analyses using DataFrame API or Spark SQL
-
-//Example:
-
-//transformed_df = df.withColumn([...])
-
-//Write transformed data to Parquet format on GCS
-
-transformed_df.write.parquet(f'gs://{output_bucket_name}/{output_blob_name}')
-
-spark.stop()
-
---End of code--
+<script src="https://gist.github.com/sbibek086/f6e41a7fa7d501fc4555de68808a6e72.js"></script>
 
 You'll need to set up authentication for Google Cloud Storage and Spark on Colab, and ensure that you have the necessary permissions to access GCS buckets. 
 Additionally, you may incur costs associated with using Google Cloud Platform services, so be mindful of that when working with large datasets.
