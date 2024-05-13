@@ -15,13 +15,11 @@ That is covariance matrix elements.
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/27244a2b-229c-4b00-a279-f9d6705900a0)
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/99f31dfe-ce81-4547-a5fd-8b323ad328a3)
-
 So, how do we decide which is principal component1 and which is principal component2?
 
 It is by:
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c49cfe9b-fba1-41c8-bfef-0397bd234663)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6416d09e-315f-4077-a11d-753e6ce26bae)
 
-Now, that eqn covariance matrix * lambda = sthg * lambda doesnt make sense, right?
+Hopefully, no math headache, code as below, however math process bujheko ramro
 
-[watch](https://www.youtube.com/watch?v=i8FukKfMKCI)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6a2427eb-9597-4a33-bddb-fc01e092ddf6)
