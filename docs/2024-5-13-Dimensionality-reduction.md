@@ -12,7 +12,7 @@ Now, in above image last, I ask- what might be that PCA component1 or component2
 
 That is covariance matrix elements.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/40e80dbb-b72c-4d16-aa03-b9f8975224c2)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/27244a2b-229c-4b00-a279-f9d6705900a0)
 
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/99f31dfe-ce81-4547-a5fd-8b323ad328a3)
@@ -22,3 +22,6 @@ So, how do we decide which is principal component1 and which is principal compon
 It is by:
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c49cfe9b-fba1-41c8-bfef-0397bd234663)
 
+Now, that eqn covariance matrix * lambda = sthg * lambda doesnt make sense, right?
+
+(watch)[https://www.youtube.com/watch?v=i8FukKfMKCI]
