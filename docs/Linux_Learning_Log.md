@@ -30,8 +30,8 @@ While Linux doesn't have a central registry, tools and utilities are available f
 a) Package Managers: Tools like apt, yum, dnf, etc., often handle configuration files as part of package installation and removal.
 
 b) Configuration Management Systems: Tools like Ansible, Puppet, Chef, and SaltStack provide ways to automate configuration management across multiple systems, enforcing desired states defined in configuration files.
----
 
+---
 while using remotes in aws job
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/08e2712a-ffaa-4602-b961-ec6be9ff5fcd)
