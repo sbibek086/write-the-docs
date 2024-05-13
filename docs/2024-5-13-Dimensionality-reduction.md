@@ -22,4 +22,4 @@ It is by:
 
 Hopefully, no math headache, code as below, however math process bujheko ramro
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6a2427eb-9597-4a33-bddb-fc01e092ddf6)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b5a6f20f-60fb-4555-a354-9eec8ecfa8a4)
