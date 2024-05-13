@@ -21,9 +21,9 @@ I must not had paid attention to kernel. otherwise how clear its to me now.
 
 kernel is middle tier which connects to hw resources. kernel doesnt always have to be terminal or bash CLI stuffs. It can be os (thanks to Linus who must have painstakingly written all those lines which lets you control w mouse). 
 
-all those linux cmds like sudo, apt are recognized because Linus had written defined it as packages in C and assembly lang while writing Linux kernel. btw he didnt write it from scratch tho. he wrote on top of GNU framework, which was revolution against all proprietary locked Unix. (very related my next article)[https://sbibek086.github.io/write-the-docs/2024-03-11-Understandg-Env-&-Engine-Files.html]
+all those linux cmds like sudo, apt are recognized because Linus had written defined it as packages in C and assembly lang while writing Linux kernel. btw he didnt write it from scratch tho. he wrote on top of GNU framework, which was revolution against all proprietary locked Unix. [very related my next article](https://sbibek086.github.io/write-the-docs/2024-03-11-Understandg-Env-&-Engine-Files.html)
 
-(Windows cant be said kernel but Linux is both kernel n os)[https://www.youtube.com/watch?v=HbgzrKJvDRw] is both kernel and OS).
+[Windows cant be said kernel but Linux is both kernel n os](https://www.youtube.com/watch?v=HbgzrKJvDRw) is both kernel and OS).
 
 While Linux doesn't have a central registry, tools and utilities are available for managing system configuration. These include:
 
