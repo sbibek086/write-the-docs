@@ -19,5 +19,7 @@ _This image is slight out of context from above, but I am putting here to show h
 ![image](https://user-images.githubusercontent.com/11883023/168128647-21ed35dd-6d92-4bbe-afd1-bcec15aab700.png)
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9b53e01f-1389-4ace-a0a9-c0f4bd34e97c)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f42dcea3-19a1-427c-8738-a8c20e03a565)
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3793d843-fee7-4025-b0f8-cffedd527db5)
 
