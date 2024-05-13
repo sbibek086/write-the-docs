@@ -24,4 +24,4 @@ It is by:
 
 Now, that eqn covariance matrix * lambda = sthg * lambda doesnt make sense, right?
 
-(watch)[https://www.youtube.com/watch?v=i8FukKfMKCI]
+[watch](https://www.youtube.com/watch?v=i8FukKfMKCI)
