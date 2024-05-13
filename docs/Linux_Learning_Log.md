@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linux
+title: linux
 category: Developer
 tags: [Developer]
 ---
