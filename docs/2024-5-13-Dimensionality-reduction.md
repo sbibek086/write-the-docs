@@ -20,6 +20,8 @@ So, how do we decide which is principal component1 and which is principal compon
 It is by:
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6416d09e-315f-4077-a11d-753e6ce26bae)
 
+euclidian vanya tye shortest distance ho 
+
 Hopefully, no math headache, code as below, however math process bujheko ramro
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b5a6f20f-60fb-4555-a354-9eec8ecfa8a4)
