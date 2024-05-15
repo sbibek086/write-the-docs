@@ -4,7 +4,7 @@ title: Dimensionality reduction- 1 way to deal w Big files by decreasing its siz
 category: ML
 tags: [ML]
 ---
-Dimensional reduction by removing negative correlated features (features which can be cols in csv or can be rows in parquet)
+Dimensional reduction 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6d1f50dd-88a2-459b-8c72-5f0b83485ba1)
 
@@ -27,6 +27,14 @@ Hopefully, no math headache, code as below, however math process bujheko ramro
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b5a6f20f-60fb-4555-a354-9eec8ecfa8a4)
 
 ---
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3c58abd1-09c5-4b3a-a809-b000f2359623)
+
+So, here, we see visually how pca reduces data. NOTE: dimensional redn is not cols reduction, which I thought
+
+teso vaye, ya ta principal component1 matra dekhax, feri stratum ko ma ta diuta PCA banayera khichirathyo. correct fix my this understandg loophole
+
 _PS: Heatmaps, t-SNE Plots, Multi-dimensional Scaling are just alternatives to Dimensional Reduction method
 
 yt Zach Star, Stratum_
+
