@@ -9,8 +9,7 @@ tags: [Life]
 
 Focus is important, but if you ignore some problems related to your business early they may come back later and explode in your face creating a lot of collateral damage in the process.
 
-As for the attention seeking media, their product is attention time and should be ignored while active time we have on life ,or say attention energy we have on 12 hr/day is very very scarce resource. As it is as IMPORTANT to not be distracted. because even if I have RIGHT priorities, if I get distracted by that, I will give time to that noise.
-n giving time to noise will not serve my goals.
+As for the attention seeking media, their product is attention time and should be ignored while active time we have on life ,or say attention energy we have on 12 hr/day is very very scarce resource. As IMPORTANT as it is to have RIGHT priortities, its EVEN IMPORTANT to not be distracted. because even if I have RIGHT priorities, if I get distracted by that, I will give time to that noise. n giving time to noise will not serve my goals.
 
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6e3bd964-12ee-4151-be35-a9c3a805b83f)
@@ -27,14 +26,15 @@ As Feyman says, 'Be teachable, you are not always right. Humility is necessary f
 
 As much problem is with illiterates, problem is also that people are educated just enough to believe what they have been taught, what society standards they observe are, and not analytical enough to question anything they have been taught.
 Our intelligence is not measured by numbers in certificates. They are many cases just record of our memory abilities. It is defined by our willingness to learn, solve problems, try new things.
----
 
-I like this Stoic quote:
+---
+I like these quotes:
+
 “You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can't control. These things are not asking to be judged by you. Leave them alone.”
 
 **"When someone is properly grounded in life, they shouldn't have to look outside themselves for approval."**
 
-"You have power over your mind—not outside events, which are out of your circle-of-control. Realize this, and you will find strength.” 
+"You have power over your mind— not outside events, which are out of your circle-of-control. Realize this, and you will find strength.” 
 
 “Luck is what happens when preparation meets opportunity. There is no such thing as luck.
 Fate is the endless chain of causation, whereby things are; the reason or formula by which the world goes on. There is no such thing as fate”
@@ -45,26 +45,20 @@ Fate is the endless chain of causation, whereby things are; the reason or formul
 
 **“It’s not enough to be busy; so are the ants. The question is: what are we busy about?” **
 
-“How long are you going to wait before you demand the best for yourself?”
-
-“More is lost by indecision than wrong decision.”
-
 "If it is not right, do not do it; if it is not true, do not say it.”
 
 “It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.”
 
 “When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they cannot tell good from evil.
-Be tolerant with others and strict with yourself.”
+Be tolerant with others and strict with yourself. Deal world the way it is, NOT the way you wish it should be.”
 
-"It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."
+"Difficulties strengthen the mind, as labor does the body. It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."
 
 “No person has the power to have everything they want, but it is in their power not to want what they don’t have, and to cheerfully put to good use what they do have.”
 
-"Difficulties strengthen the mind, as labor does the body."
-
 **“How does it help…to make troubles heavier by bemoaning them?”**
 
-“We suffer more in imagination than in reality.”
+“We suffer more in imagination than in reality. Men are disturbed not by things, but by the views which they take of them.”
 
 “Ignorance is the cause of fear.”
 
@@ -77,8 +71,6 @@ Be tolerant with others and strict with yourself.”
 “Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.”
 
 “In your actions, don't procrastinate. In your conversations, don't confuse. In your thoughts, don't wander. In your soul, don't be passive or aggressive. In your life, don't be all about business.”
-
-"Men are disturbed not by things, but by the views which they take of them."
 
 "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."
 
@@ -94,6 +86,6 @@ Be tolerant with others and strict with yourself.”
 
 "Well-being is realized by small steps, but it is truly no small thing."
 
-It takes a wise man to discover a wise man.”
+"It takes a wise man to discover a wise man.”
 
 “People who talk well but do nothing are like musical instruments; the sound is all they have to offer.
