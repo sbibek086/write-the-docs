@@ -5,8 +5,6 @@ category: Life
 tags: [Life]
 ---
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b45ec651-f449-4f59-ad95-6306ec00da48)
-
 Focus is important, but if you ignore some problems related to your business early they may come back later and explode in your face creating a lot of collateral damage in the process.
 
 As for the attention seeking media, their product is attention time and should be ignored while active time we have on life ,or say attention energy we have on 12 hr/day is very very scarce resource. As IMPORTANT as it is to have RIGHT priortities, its EVEN IMPORTANT to not be distracted. because even if I have RIGHT priorities, if I get distracted by that, I will give time to that noise. n giving time to noise will not serve my goals.
@@ -15,17 +13,6 @@ As for the attention seeking media, their product is attention time and should b
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6e3bd964-12ee-4151-be35-a9c3a805b83f)
 
 I remind myself, "Be skeptic. Have default skeptic mask over everything- friendship, new ICO etc, and if certain criterias meet, then only gradually unlock access acceptance gates"- easier said than done.
-
----
-On humbleness:
-I recall back times when I become boastful or proud of myself or pampered from appreciation, I lose ground for my self-evaluation. When I become proudy, I treat reality access as a monologue about my own skills rather than dialogue with reality or nature.
-Science, be it IT or any other, is not about us or making our image great. It's about trying to understand world (technology), It's meant to be learning experience where we take calc. risks, make mistakes along way and learn.
-So, humbleness is not only for moral show-off and if it's for show-off, we are catching snake at the wrong end but humbleness humility is required for self growth. 
-
-As Feyman says, 'Be teachable, you are not always right. Humility is necessary for self growth'.
-
-As much problem is with illiterates, problem is also that people are educated just enough to believe what they have been taught, what society standards they observe are, and not analytical enough to question anything they have been taught.
-Our intelligence is not measured by numbers in certificates. They are many cases just record of our memory abilities. It is defined by our willingness to learn, solve problems, try new things.
 
 ---
 I like these quotes:
@@ -89,3 +76,16 @@ Be tolerant with others and strict with yourself. Deal world the way it is, NOT 
 "It takes a wise man to discover a wise man.”
 
 “People who talk well but do nothing are like musical instruments; the sound is all they have to offer.
+
+---
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b45ec651-f449-4f59-ad95-6306ec00da48)
+
+On humbleness:
+I recall back times when I become boastful or proud of myself or pampered from appreciation, I lose ground for my self-evaluation. When I become proudy, I treat reality access as a monologue about my own skills rather than dialogue with reality or nature.
+Science, be it IT or any other, is not about us or making our image great. It's about trying to understand world (technology), It's meant to be learning experience where we take calc. risks, make mistakes along way and learn.
+So, humbleness is not only for moral show-off and if it's for show-off, we are catching snake at the wrong end but humbleness humility is required for self growth. 
+
+'Be teachable, you are not always right. Humility is necessary for self growth'.
+
+As much problem is with illiterates, problem is also that people are educated just enough to believe what they have been taught, what society standards they observe are, and not analytical enough to question anything they have been taught.
+Our intelligence is not measured by numbers in certificates. They are many cases just record of our memory abilities. It is defined by our willingness to learn, solve problems, try new things.
