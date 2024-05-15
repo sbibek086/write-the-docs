@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Focus
+title: 🎯
 category: Life
 tags: [Life]
 ---
