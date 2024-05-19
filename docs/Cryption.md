@@ -23,7 +23,11 @@ _{btw, there are asymm style aka AES and symm style. hunchha just thaha pairakh 
 -File Transfer: With SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol), SSH supports secure file transfers.
 
 -Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
+```
+Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from a local port to a remote server.  aka Forwards local port to remote destination.
 
+Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine. aka Forwards remote port to local destination.
+```
 -Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
 
 -Development and Deployment: A developer can use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
