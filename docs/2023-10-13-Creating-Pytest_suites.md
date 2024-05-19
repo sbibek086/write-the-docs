@@ -3,9 +3,6 @@ layout: page
 title: Pytest classes and main.py + ssh cloning from gitlab to localMachine
 category: Software Development
 ---
-
-![image](https://user-images.githubusercontent.com/11883023/274704954-2e9853a4-ee94-487f-9830-26b436742dbc.png)
-
 Some primer & loosely connected subcontext before I begin:
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/34671341-2904-4168-b874-145bab304e92)
@@ -49,6 +46,7 @@ Then,
 
 ![image](https://user-images.githubusercontent.com/11883023/274696566-8615885a-4e4d-4da5-8f2a-85cdad5f3ceb.png)
 
+_btw, in white rectangle note, cmds listed like git clone npm .. are list of terminal cmds that I retrieved from terminal history_
 
 with all this, also things wouldnt work. I was frustrated, asked Dipesh- FE ,and he would remind me to create and put .env as these are .gitignored
 
