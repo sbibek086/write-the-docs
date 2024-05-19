@@ -70,9 +70,3 @@ Think of it this way -
 We got home garden home path etc. etc. manually setup in real soil == having buying computer, giving IP, connecting to Internet.
 
 Now, we got all these home garden, home path evrything to real thing now DELIVERED in truck and we rent evrything and set it up truck soil === AWS
-
----_
-Some related context while aws labs but no necessary to above article_
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/043aeb2b-9c94-45bf-a59c-553dcbc0e32f)
-
