@@ -1,6 +1,6 @@
 ---
 layout: default
-title: F**k https, Go Full SSH
+title: F**k https way even when cloning git, Just Do ssh as ssh >> http by..
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
@@ -16,17 +16,19 @@ In SSH,
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0d2baa73-23ea-4430-8570-154023390893)
 
 -cryptographic hash functions (look 1st img above carefully) to verify **integrity** of data being transmitted.
-_{btw, there are asymm style aka AES, symm style}_
+_{btw, there are asymm style aka AES and symm style. hunchha just thaha pairakh sakyo kura}_
 
 -Remote Command Execution: allows for execution of commands on a remote machine, making it ideal for system administration and management tasks.
 
 -File Transfer: With SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol), SSH supports secure file transfers.
 
--Tunneling/Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
+-Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
 
--Interactive Shell Access: SSH provides direct, interactive shell access to the remote machine, enabling real-time command execution and troubleshooting.
+-Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
 
 -Development and Deployment: A developer can use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
+
+HOw to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
 
 ---
 Just for curiosity cat of how https ssl/ tsl certificate works?
@@ -50,3 +52,11 @@ d. browser then verifies ssl tls cert, ensuring it is valid and matches website 
 e. webserver then uses privKey to decrypt message and retrieve sessionkey. it then uses sessionkey to encrypt and send acknowledgement message to browser.
 
 f. finally both browser and webserver switch to using same session key to exchange message safely.
+
+---
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9dd9b438-7a2d-4919-85d1-34e2178d9ccc)
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/d870dee5-9d66-490f-b7ab-d8f314a27888)
+
+
+
