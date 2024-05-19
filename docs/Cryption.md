@@ -1,6 +1,6 @@
 ---
 layout: default
-title: F**k https way even when cloning git, Just Do ssh as ssh >> http by..
+title: F**k https way even when cloning git, Just Do ssh. WHs on ssh >> http
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
