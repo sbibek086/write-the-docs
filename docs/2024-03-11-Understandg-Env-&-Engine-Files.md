@@ -12,7 +12,7 @@ tags: [Programming]
 I can type below cmds on terminal after I install py
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/90b50ca3-7fc0-4a9a-848a-e2e6b2120a1c)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b562fc25-ecaf-47e8-adb2-0a9100da86a4)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c390188d-c77f-4eef-a167-999c3661bcce)
 
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f42dcea3-19a1-427c-8738-a8c20e03a565)
