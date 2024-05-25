@@ -18,7 +18,7 @@ from SomeLibrary import Certain2ndFunction as 2ndAliasComfortablyNamedFn
 
 class HouseCleaningActivity: 
 
-..def __init__(self, HowMuchAreaInSqMINeedToClean, WithInHowManyHrs, InputParametersNecessaryHere):
+..def _ _init_ _(self, HowMuchAreaInSqMINeedToClean, WithInHowManyHrs, InputParametersNecessaryHere):
 
 ....self.WithInHowManyHrs = WithInHowManyHrs
 
@@ -33,9 +33,8 @@ class HouseCleaningActivity:
 
 ....return sthgSthg
 
-/* InMathAlso, 2 add 2 =4 means add le two args liyee 4 return garxa tara negate 2 le kehi return garnu pardaina 
+/ * InMathAlso, 2 add 2 =4 means add le two args liyee 4 return garxa tara negate 2 le kehi return garnu pardaina 
 means kehi return garna pardaina- negative 2 ta garyo ni vanne kura auchha tara socha- kehi naya return garnu pardaina. programming ma ni tyesta duita situations hunchhan */
-
 
 HouseCleaningToDoThisSaturday = HouseCleaningActivity(10, 2)
 
@@ -45,9 +44,10 @@ HouseCleaningToDoThisSaturday.AliasComfortablyNamedFn.SomeImplicitAttributes
 
 ----
 
-/* Two pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below */
+/ * Two pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below * /
 
 from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 
 functionWhichAncientPeopleTakes1SemToLearn(ArgumentsThatThisFuncNeeds, Arg2, SomeAdditionalControlsLikeMakeThisCalcFiniteOrInfinite= True)
+
 ---
