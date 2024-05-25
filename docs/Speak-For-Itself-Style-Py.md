@@ -44,7 +44,8 @@ HouseCleaningToDoThisSaturday.AliasComfortablyNamedFn.SomeImplicitAttributes
 /* nothing to do w this pgm but as sideNote: being aware of datatypes (whether its numpy or dataFrame or list etc) that function or module is returning, and whether this datatype is same to LHS datatype prevents so many compiler errors  */
 
 ----
-# Two pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using 
+
+/* Two pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below */
 
 from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 
