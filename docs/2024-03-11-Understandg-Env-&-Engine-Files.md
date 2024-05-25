@@ -19,3 +19,10 @@ I can type below cmds on terminal after I install py
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3793d843-fee7-4025-b0f8-cffedd527db5)
 
+yo mathi ko image ma before compilation, k thyo, after compilation k vayo, her, tye ho runtime.
+
+When you run a Python script, the Python interpreter is loaded, along with any necessary libraries (runtime environment), before executing the script.
+
+db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay lai loading runtime data vanxa- aru context ma ni estai estai, kunai bela config file load hunu parla.
+
+ dherai curious cat scientist nabana, etti bujha, sakyo kura
