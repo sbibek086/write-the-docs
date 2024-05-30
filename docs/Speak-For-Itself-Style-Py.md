@@ -62,6 +62,8 @@ Think of py as somewhat like English Grammar
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/24d73a10-d964-4550-a5ba-439137dd8e59)
 
+Inheritance- idc much but saving anyway
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1e125b07-b00d-444a-84f3-f7afc5745302)
 
 
 
