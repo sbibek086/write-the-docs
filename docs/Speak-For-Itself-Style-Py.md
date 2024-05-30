@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speak for itself style Pycode
+title: Speak-for-itself-style Pycode + PyGrammar
 category: Programming
 tags: [Programming]
 ---
@@ -51,3 +51,18 @@ from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 functionWhichAncientPeopleTakes1SemToLearn(ArgumentsThatThisFuncNeeds, Arg2, SomeAdditionalControlsLikeMakeThisCalcFiniteOrInfinite= True)
 
 ---
+
+Py Grammar - list, dict etc etc
+
+Think of py as somewhat like English Grammar 
++ somewhere like Maths, where say (a+b)sq = a2 + 2ab + b2 where again a can be again some c+d or c*d ,or
++ even a can be logx with log's own rules doing inside w x. somewhat like that
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f60b17ce-658e-48bf-9ac8-6d94cb124612)
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/24d73a10-d964-4550-a5ba-439137dd8e59)
+
+
+
+
+
