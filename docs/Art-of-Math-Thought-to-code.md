@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Art of Math&Thought to Code + Py-List, Arrays..
-category: Cryptography
-tags: [Cryptography]
----
+title: Art of Math&Thought to Code 
+category: Programming
+tags: [Programming
 
 **Art of MathEquation to Code**
 
