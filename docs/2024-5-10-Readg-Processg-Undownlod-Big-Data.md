@@ -54,11 +54,14 @@ Compiler messages and their meanings explained:
 pip's dependency resolver does not currently take into account all the packages that are installed.
 
 means
+
 this error means that when pip is installing or upgrading a package, it may not fully consider the versions of already installed packages. This can lead to version conflicts or the installation of incompatible versions, as pip doesn't re-evaluate all dependencies of all installed packages during this process.
 
 The following packages were previously imported in this runtime:
   [cuda]
+
 means
+
 the listed packages, in this case, "cuda," have already been imported or loaded into the current runtime environment. This might indicate that the runtime environment has preloaded these packages, potentially affecting subsequent operations or dependencies that rely on them.
 
 ---
