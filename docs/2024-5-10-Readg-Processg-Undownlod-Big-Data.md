@@ -12,17 +12,23 @@ when I try to run
 import cudf
 codeblock confused killed me about from where to restart runtime to clean slate n then again-put local variables.
 
-It turns out
-I dont have to restart all the way from 
+It turns out I dont have to restart all the way from 
+
 apt-get update
+
 apt-get install nvidia-cuda-toolkit
+
 but JUST RESTART
+
 pip install cudf-cu11 --extra-index-url=https://pypi.nvidia.com
 wala cell
 
 lets understand why exactly that dependency conflict came?
+
 So, apt-get update updates package list in my colab VM by fetching latest version of package list from repo n updates also local package cache.
+
 n
+
 apt ... cuda toolkit installs nvidia CUDA toolkit, which provides development env (dev env includes GPU accel libraries, compiler for nvidia gpu n runtime libraries) for creating high performance GPU accelerated applications.
 
 ~~~
@@ -34,11 +40,19 @@ CUDA provides
 
 -runtime environment for executing programs on nvidia gpu. 
 
-Long story short: CUDA serves as foundational framework that enables both cuPy and cuDF to leverage the computational power of NVIDIA GPUs. Without CUDA, these libraries would not be able to execute operations on GPUs. cuPy and cuDF are complementary in the sense that cuPy is advanced gpu-compatible cousin library to NumPy, n cuDataFrame to pandas. 
+Long story short: CUDA serves as foundational framework that enables both cuPy and cuDF
+to leverage the computational power of NVIDIA GPUs.
+Without CUDA, these libraries would not be able to execute operations on GPUs.
+cuPy and cuDF are complementary in the sense that cuPy is advanced gpu-compatible cousin library to NumPy, n cuDataFrame to pandas. 
 ~~~
+
 So, it must have been that when I was running 
+
 pip install cudf-cu11 --extra-index-url=https://pypi.nvidia.com wala cell,
-it must have been disturbed by packages or variables just-before-installed-by apt-get update n apt .. toolkit wala cell block
+
+it must have been disturbed by packages or variables just-before-installed-by apt-get update 
+n apt .. toolkit wala cell block
+
 because similar packages n vars we are trying to install but specifically from cudf-cu11, so it is begging, "Restart session means Just rerun only this cell, IDIOT n not from the beginning"
 Primer is on my blog: What does restart session n again running certain cell do on memory clearance n library re initialization, when to do it n why its necessary
 
