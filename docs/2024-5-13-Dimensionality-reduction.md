@@ -38,3 +38,8 @@ _PS: Heatmaps, t-SNE Plots, Multi-dimensional Scaling are just alternatives to D
 
 yt Zach Star, Stratum_
 
+----
+another context - xgboostA2Z
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/2c546095-b073-4a2e-a088-ce88397c187e)
+
+
