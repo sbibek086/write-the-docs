@@ -66,6 +66,9 @@ Inheritance- idc much but saving anyway
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1e125b07-b00d-444a-84f3-f7afc5745302)
 
+---
+![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
+
 
 
 
