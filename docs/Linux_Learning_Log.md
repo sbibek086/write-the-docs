@@ -35,7 +35,9 @@ b) Configuration Management Systems: Tools like Ansible, Puppet, Chef, and SaltS
 Windows:
 registry is centralized hierrachical database of windows os which stores config, settings etc configuration. jasto maile aaja taskbar vertical align gare vane tespachi kholda vertical nai vayera basira hunchh -ho yestai yestai vividh, yi sbae kura registry ma store hunchh.
 
-HKLM= HKEY_LOCAL_MACHINE, is a Windows Registry tree that contains configuration data that is used by all users in Windows. This includes information about Windows services, drivers, programs that automatically run for every user, and general OS settings.---
+HKLM= HKEY_LOCAL_MACHINE, is a Windows Registry tree that contains configuration data that is used by all users in Windows. This includes information about Windows services, drivers, programs that automatically run for every user, and general OS settings.
+
+---
 while using remotes in aws job
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/08e2712a-ffaa-4602-b961-ec6be9ff5fcd)
