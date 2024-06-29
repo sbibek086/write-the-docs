@@ -7,7 +7,7 @@ tags: [Developer]
 
 Root directory path is simply (/). Everything in file system is organized under this root directory. meaning: if I access say one Linux OS machine, then its default path is /
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a5a55284-9ace-4888-a353-f29d29ab113a)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5d4d6889-2762-434d-8335-7b180a702a0e)
 
 _However, in above screenshot, my slight confusion is: I am confirmed that this screenshot is of inside- application, that means Is system configuration in another place?_
 
