@@ -28,7 +28,7 @@ _for eg, he gives course authentication api. course ma uthentication kina chahiy
 now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json parameter haru fE and ultimately UI le pauchh_ 
 
 ---
-_aba database table haru sabai architecture anusar link vayepachhi ie. production ready vayepaxi vane cloud ma paxi upload garne ho ta? CONFIRM from naabin ji_
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f0a79b56-e363-46da-8c95-4f812e780554)
 
 ---
 ![image](https://user-images.githubusercontent.com/11883023/217716248-a661201a-496a-4250-ac64-50d24c0c0430.png)
