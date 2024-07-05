@@ -10,6 +10,7 @@ my words- yes, doing docker way is 10step to 5step thing but need to know port m
 So, unless know, do localhost way primary way
 
 ![dockerWorkFlow](https://user-images.githubusercontent.com/11883023/209544204-48c30b20-48e6-47b5-972c-af4b98ddb45c.png)
+![dockerWFlow](https://github.com/sbibek086/write-the-docs/assets/11883023/7b4b7003-e40b-4a67-9cb3-3d9e7e18b875)
 
 ![dockerCmds](https://user-images.githubusercontent.com/11883023/226905071-689ef9cc-36be-4d97-8a29-fe38de12edba.png)
 
