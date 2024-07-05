@@ -13,7 +13,7 @@ _However, in above screenshot, my slight confusion is: I am confirmed that this 
 
 Notice striking similarity of above File Structure (starting from lib32 lib64) from above screenshot to that of below Kaggle's VM (ofcourse nobody uses windows, everybody uses Linux)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/ae84168b-8680-43ae-9f8f-9d90570148f2)
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e7235a4c-26b4-4ddb-8279-a40b46b3a638)
 
 ---
 I must not had paid attention to kernel. otherwise how clear its to me now.
@@ -36,6 +36,9 @@ Windows:
 registry is centralized hierrachical database of windows os which stores config, settings etc configuration. jasto maile aaja taskbar vertical align gare vane tespachi kholda vertical nai vayera basira hunchh -ho yestai yestai vividh, yi sbae kura registry ma store hunchh.
 
 HKLM= HKEY_LOCAL_MACHINE, is a Windows Registry tree that contains configuration data that is used by all users in Windows. This includes information about Windows services, drivers, programs that automatically run for every user, and general OS settings.
+
+---
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/846e352f-12b6-4726-b505-d1c6e1b6e694)
 
 ---
 while using remotes in aws job
