@@ -19,10 +19,6 @@ I like these quotes:
 
 “You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can't control. These things are not asking to be judged by you. Leave them alone.”
 
-**"When someone is properly grounded in life, they shouldn't have to look outside themselves for approval."**
-
-"You have power over your mind— not outside events, which are out of your circle-of-control. Realize this, and you will find strength.” 
-
 “Luck is what happens when preparation meets opportunity. There is no such thing as luck.
 Fate is the endless chain of causation, whereby things are; the reason or formula by which the world goes on. There is no such thing as fate”
 
@@ -36,8 +32,7 @@ Fate is the endless chain of causation, whereby things are; the reason or formul
 
 “It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.”
 
-“When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they cannot tell good from evil.
-Be tolerant with others and strict with yourself. Deal world the way it is, NOT the way you wish it should be.”
+“Deal world the way it is, NOT the way you wish it should be.”
 
 "Difficulties strengthen the mind, as labor does the body. It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."
 
@@ -55,19 +50,9 @@ Be tolerant with others and strict with yourself. Deal world the way it is, NOT 
 
 “If you really want to escape the things that harass you, what you're needing is not to be in a different place but to be a different person.”
 
-“Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.”
-
 “In your actions, don't procrastinate. In your conversations, don't confuse. In your thoughts, don't wander. In your soul, don't be passive or aggressive. In your life, don't be all about business.”
 
-"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."
-
 **“First say to yourself what you would be; and then do what you have to do.It’s not what happens to you, but how you react to it that matters. Curb your desire — don’t set your heart on so many things and you will get what you need.”**
-
-"If you want to improve, be content to be thought foolish and stupid."
-
-“Better to trip with the feet than with the tongue.”
-
-“Nothing is more hostile to a firm grasp on knowledge than self-deception and biased-full-of-fallacies thinking.”
 
 **“Follow where reason leads.”**
 
