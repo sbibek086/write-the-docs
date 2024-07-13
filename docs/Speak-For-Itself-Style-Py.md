@@ -57,6 +57,8 @@ Py Grammar - list, dict etc etc
 Think of py as somewhat like English Grammar 
 + somewhere like Maths, where say (a+b)sq = a2 + 2ab + b2 where again a can be again some c+d or c*d ,or
 + even a can be logx with log's own rules doing inside w x. somewhat like that
++ vivek, methodically process ideas to solve problem by creating suitable vars, creating suitable funcs or manytimes just mapping to (== import, export, API ) suitable funcsAkaMethods Or AutoFuncs (== constructors), vivek
+
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c8c6855a-5977-43b8-8d93-6670b65391ce)
 
