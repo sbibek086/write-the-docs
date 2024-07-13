@@ -1,7 +1,7 @@
 ---
 layout: default
 title: .
-tags: [Economics]
+tags: [Lifestyle]
 ---
 
 
@@ -63,7 +63,7 @@ some more notes along time.
 ---
 Plants-
 
-papaya on chhat https://www.youtube.com/watch?v=93Mhr8ezp24
+[papaya](https://www.youtube.com/watch?v=93Mhr8ezp24)
 
 
 ---
@@ -86,3 +86,6 @@ then when u r frontstroking w ur left hand like duck-paw under water pushing wat
 and same movement this time w alternate other side body parts - right hand, head tilted other way etc
 
 My biggest challenge was - when I paddle my foot in up down movement, my hands would also tend to do so. Hard was it to change it. tho I slowly improved.
+
+---
+[Foodrink alters brain thinking pattern, take care](https://www.youtube.com/watch?v=1W0YgWbWVZU)
