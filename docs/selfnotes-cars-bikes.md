@@ -34,8 +34,7 @@ esto banni (rope bicycle tyre ko or moto flexi dori ko) bike ko leg guard ma ban
 ---
 Arranging samaan while shifting room has tortured me, u know how many items u have to pack
 
-So, w lesson learnt,
-Things I buy should follow
+So, w lesson learnt, Things I buy should follow
 
 i. Matryoshka dolls principle
 
@@ -61,12 +60,6 @@ some more notes along time.
 [VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
 
 ---
-Plants-
-
-[papaya](https://www.youtube.com/watch?v=93Mhr8ezp24)
-
-
----
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
 
 Let me remember- my main challenge was keeping body horizontal to water as I always tend to have vertical body stand even in water.
@@ -89,3 +82,7 @@ My biggest challenge was - when I paddle my foot in up down movement, my hands w
 
 ---
 [Foodrink alters brain thinking pattern, take care](https://www.youtube.com/watch?v=1W0YgWbWVZU)
+
+![image](https://github.com/user-attachments/assets/1f366441-d0df-4f70-b2de-9d0c5b036028)
+
+Mangsir20TiraRopyaAluMaghMaHarvest,nSomeSeedAlu2RopnaKartik
