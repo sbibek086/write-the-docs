@@ -86,3 +86,5 @@ My biggest challenge was - when I paddle my foot in up down movement, my hands w
 ![image](https://github.com/user-attachments/assets/1f366441-d0df-4f70-b2de-9d0c5b036028)
 
 Mangsir20TiraRopyaAluMaghMaHarvest,nSomeSeedAlu2RopnaKartik
+
+[seeds](https://youtu.be/p_h5PlitBOA?si=4XQL1elRFGAq_6y6&t=128) [soil](https://www.youtube.com/watch?v=gUCgUmpASlM)
