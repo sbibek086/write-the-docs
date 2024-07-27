@@ -69,10 +69,6 @@ Inheritance- idc much but saving anyway
 ![image](https://github.com/user-attachments/assets/974971eb-57cd-4dd6-9e87-b51c1abf1384)
 
 ---
-![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
-
----
-
 ![image](https://user-images.githubusercontent.com/11883023/213872814-2ddf8c01-f52a-4c92-b253-58159f9975ac.png)
 
 [code snippets n env setup here - Vvek NoNeed EnvSetup, Just Run LinearPgmFromBlogPost GDrive in colab](https://realpython.com/linear-programming-python/) [1](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html)  [2](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html)  [3](https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html)   _I can do away wout 1 2 3_
