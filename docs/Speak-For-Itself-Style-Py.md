@@ -62,11 +62,11 @@ Think of py as somewhat like English Grammar
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c8c6855a-5977-43b8-8d93-6670b65391ce)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/24d73a10-d964-4550-a5ba-439137dd8e59)
+![image](https://github.com/user-attachments/assets/bdf9c537-3624-42b2-be04-2dac35a6c1e3)
 
 Inheritance- idc much but saving anyway
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/1e125b07-b00d-444a-84f3-f7afc5745302)
+![image](https://github.com/user-attachments/assets/974971eb-57cd-4dd6-9e87-b51c1abf1384)
 
 ---
 ![py-automation](https://github.com/sbibek086/write-the-docs/assets/109033173/38231016-2a12-42a4-92ec-58b3591b6685)
