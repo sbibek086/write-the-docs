@@ -37,5 +37,7 @@ never open clb file in two tab, no matter how hard to scroll top-to-bottom-to-bo
 - VM keeps notifying in small rectangular bottom, 'Do you want to change runtime to standard type? do you want to change runtype to standard type'- does this mean standard runtime would be cheaper ,and now I am being charged every hr 0.8$- if so, holy****, i should learn to change it to std runtime - bookmarked that fast-disappearing notification btw
 
 ---
+![image](https://github.com/user-attachments/assets/4992edb5-6a74-4ee6-80c0-4f68775a692a)
+
 
 
