@@ -43,4 +43,10 @@ another context - xgboostA2Z
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/2c546095-b073-4a2e-a088-ce88397c187e)
 
+---
+stratification means breaking down population to smaller subsets ie samples such that based on certain criteria/ features, each subset almost proportionately reflects similar distribution of criteria/ features.
+
+eg. if I have more red about 90%, less green about 10% balls, then in smaller bowl I put red n green bowls in similar ratio. Stra s'ud be done when population is v disproportionately distributed.
+
+
 
