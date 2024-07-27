@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dimensionality reduction- 1 way to deal w Big files by decreasing its size
+title: Dimension redn-1 way to deal w Big files by dec. its size
 category: ML
 tags: [ML]
 ---
@@ -12,7 +12,7 @@ Now, in above image last, I ask- what might be that PCA component1 or component2
 
 That is covariance matrix elements.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/27244a2b-229c-4b00-a279-f9d6705900a0)
+![image](https://github.com/user-attachments/assets/4838595f-2142-4cc9-b270-63065e8d18b8)
 
 ---
 So, how do we decide which is principal component1 and which is principal component2?
