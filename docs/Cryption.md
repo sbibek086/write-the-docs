@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSH way >> https way even when cloning git...
+title: SSH >>https way even when cloning git...
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
