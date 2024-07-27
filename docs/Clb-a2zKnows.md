@@ -1,6 +1,6 @@
 ---
 layout: default
-title: clb-a2z
+title: clb
 category: ml
 tags: [ml]
 
