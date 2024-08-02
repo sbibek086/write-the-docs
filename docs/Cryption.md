@@ -7,9 +7,7 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a3acafa4-3716-4cb8-8626-65cc01f14ada)
 
-In SSH,
-
--SSH can be used across various operating systems (Linux, macOS, Windows with appropriate software). 
+In SSH (runs on Linux, macOS, Windows with appropriate software),
 
 -strong **authentication** methods, including password-based authentication and public key authentication, which are more secure than standard HTTP authentication mechanisms.
 
@@ -30,9 +28,9 @@ Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port 
 ```
 -Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
 
--Development and Deployment: A developer can use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
+- use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
 
-HOw to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
+How to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
 
 ---
 Just for curiosity cat of how https ssl/ tsl certificate works?
@@ -45,17 +43,7 @@ welcome to SSL/TLS certificate stds that are set by Public.Key.Infrastructure bo
 
 ssl tsl certificate works below while on ssl tsl handshake betn s and c:
 
-a. browser opens ssl tsl secure website aka https website n connects to webserver when we open say amazon.com
-
-b. browser attempts to verify authenticity of web server by requesting identifiable information.
-
-c. web server sends ssl tsl certificate that contains pubKey as reply
-
-d. browser then verifies ssl tls cert, ensuring it is valid and matches website domain. and once browser is satisfied w ssl tsl cert, it uses pubKey to encrypt n send message that contains secret sessionkey.
-
-e. webserver then uses privKey to decrypt message and retrieve sessionkey. it then uses sessionkey to encrypt and send acknowledgement message to browser.
-
-f. finally both browser and webserver switch to using same session key to exchange message safely.
+![image](https://github.com/user-attachments/assets/462a3a5c-e4e0-45e0-bc57-1fd9a052f5ed)
 
 ---
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9dd9b438-7a2d-4919-85d1-34e2178d9ccc)
