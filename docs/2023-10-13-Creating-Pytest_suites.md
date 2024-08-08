@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pytest classes and main.py + ssh cloning from gitlab to localMachine
+title: (P)Pytest classes n main.py + ssh cloning from gitlab to localMachine
 category: Software Development
 ---
-Some primer & loosely connected subcontext before I begin:
+Some primer & loosely connected subcontext of testing-cohort before I begin:
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/34671341-2904-4168-b874-145bab304e92)
 
@@ -36,11 +36,7 @@ So, RajanG- BE dev fren advised - why not SSH clone as its more effiient than ht
 
 So, we did- 
 
-![image](https://user-images.githubusercontent.com/109033173/274687718-3b0e5134-595b-4ede-b9e6-6d65b3350894.png)
-
-Then,
-
-![image](https://user-images.githubusercontent.com/109033173/274688099-510d0f35-9f02-4600-8ccb-3b933861e33c.png)
+![ssh](https://github.com/user-attachments/assets/db650212-e1d4-445c-9ff2-d2c6ef58d4e8)
 
 Then,
 
