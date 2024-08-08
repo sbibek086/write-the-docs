@@ -1,6 +1,6 @@
 ---
 layout: default
-title:(P)Dimension redn-1 way to deal w Big files by dec. its size
+title: (P)Dimension redn-1 way to deal w Big files by dec. its size
 category: ML
 tags: [ML]
 ---
