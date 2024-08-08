@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dimension redn-1 way to deal w Big files by dec. its size
+title:(P)Dimension redn-1 way to deal w Big files by dec. its size
 category: ML
 tags: [ML]
 ---
@@ -18,7 +18,7 @@ That is covariance matrix elements.
 So, how do we decide which is principal component1 and which is principal component2?
 
 It is by:
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6416d09e-315f-4077-a11d-753e6ce26bae)
+![image](https://github.com/user-attachments/assets/555d0ef3-f1a3-485f-bed6-357628404b12)
 
 euclidian vanya tye shortest distance ho 
 
