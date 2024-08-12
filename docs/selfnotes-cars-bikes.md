@@ -4,7 +4,42 @@ title: .
 tags: [Lifestyle]
 ---
 
+![image](https://github.com/user-attachments/assets/089ac655-ce1a-46ab-aaa0-5f7616473f97)
 
+PowMinimalism - not that extreme crazy minimalist or any cult-ist but I am simplifying. 
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
+
+some agri tools like hammer, kodalo etc for my farm.
+
+Buy Dish Antenna type Internet connection ,no need to buy wires, connect it again again when I change rooms. 
+
+[VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
+
+---
+Agri-
+[Foodrink alters brain thinking pattern, take care](https://www.youtube.com/watch?v=1W0YgWbWVZU)
+
+![image](https://github.com/user-attachments/assets/1f366441-d0df-4f70-b2de-9d0c5b036028)
+
+Mangsir 20 Tira Ropya Alu Magh Ma Harvest,n Some Seed Alu 2 Ropna Kartik
+
+[seeds](https://youtu.be/p_h5PlitBOA?si=4XQL1elRFGAq_6y6&t=128) [soil](https://www.youtube.com/watch?v=gUCgUmpASlM)
+
+![image](https://github.com/user-attachments/assets/d753ac46-20c5-4f05-9f12-c132a86c0a1e)
+
+---
+BikeDo(nt)s 
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/ac288cda-a051-4a30-b402-cb313f82340c)
+
+esto banni (rope bicycle tyre ko or moto flexi dori ko) bike ko leg guard ma bann, pathao ko euta bhote le banya jasto
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9881edf2-20f3-4819-9ecf-a91dd9e2c5d7)
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e249e8bc-050e-4849-809b-ab80b2251121)
+
+---
 Car-
 _This journal is recollection of how I learnt to car in Brookings,south dakota; swim just to kick start all memory._
 
@@ -21,17 +56,6 @@ Then again that right junction (yes that junction where main highway cuts right 
 And BCA in America car.  IE.  Brake clutch accelerator. BCA in Np car too? write after know
 
 ---
-BikeDo(nt)s 
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/ac288cda-a051-4a30-b402-cb313f82340c)
-
-esto banni (rope bicycle tyre ko or moto flexi dori ko) bike ko leg guard ma bann, pathao ko euta bhote le banya jasto
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9881edf2-20f3-4819-9ecf-a91dd9e2c5d7)
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e249e8bc-050e-4849-809b-ab80b2251121)
-
----
 Arranging samaan while shifting room has tortured me, u know how many items u have to pack
 
 So, w lesson learnt, Things I buy should follow
@@ -45,19 +69,6 @@ iii. baata sud have hooks so that I can tighten rope around it
 iv. bought thing sud be multipurpose like my BELOVED Leatherman
 
 v. 3rd floor thap like pichhadi ko handpump gadya bhote le garyo, n farm berna tin lagauna kinna mony bacha
-
----
-PowMinimalism -
-I am not that extreme crazy minimalist or any cult-ist but I am simplifying. 
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
-
-some agri tools like hammer, kodalo etc for my farm.
-
-Strong regret on Why I not bought Dish Antenna type Internet connection ,and have to buy wires, connect it again again when I change rooms. Do Dish Type Internet, vivek.
-some more notes along time.
-
-[VB's PowMin](https://vitalik.eth.limo/general/2022/06/20/backpack.html) [.l](https://www.youtube.com/watch?v=FqTkiLxIE9Y)[.](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
 
 ---
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
@@ -81,10 +92,3 @@ and same movement this time w alternate other side body parts - right hand, head
 My biggest challenge was - when I paddle my foot in up down movement, my hands would also tend to do so. Hard was it to change it. tho I slowly improved.
 
 ---
-[Foodrink alters brain thinking pattern, take care](https://www.youtube.com/watch?v=1W0YgWbWVZU)
-
-![image](https://github.com/user-attachments/assets/1f366441-d0df-4f70-b2de-9d0c5b036028)
-
-Mangsir20TiraRopyaAluMaghMaHarvest,nSomeSeedAlu2RopnaKartik
-
-[seeds](https://youtu.be/p_h5PlitBOA?si=4XQL1elRFGAq_6y6&t=128) [soil](https://www.youtube.com/watch?v=gUCgUmpASlM)
