@@ -5,20 +5,20 @@ title: Tags
 
 <div class="tags-expo"> {% comment %} container for tags n their associated posts.{% endcomment %}
   <div class="tags-expo-list"> {% comment %} holds list of tags, which are displayed as clickable links {% endcomment %}
-    {% for tag in site.tags %} {%comment} loop iterates over all tags. Each tag is key-value pair;tag[0]=tag name, tag[1]=list of posts associated with that tag {%endcomment}
-       <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a> {%comment} href is set to anchor corresponding to name (processed by slugify, which converts tagname to URL-friendly string).Tag name is displayed as link text {%endcomment}
+    {% for tag in site.tags %} {% comment %} loop iterates over all tags. Each tag is key-value pair;tag[0]=tag name, tag[1]=list of posts associated with that tag {% endcomment %}
+       <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a> {% comment %} href is set to anchor corresponding to name (processed by slugify, which converts tagname to URL-friendly string).Tag name is displayed as link text {% endcomment %}
     {% endfor %}  
   </div>
   <hr/>
   <div class="tags-expo-section">
     {% for tag in site.tags %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2> {%comment} creates heading for each tag section.'id' is set to slugified tag name sothat it can be linked to from list above. tag name itself is displayed as heading text {%endcomment}
-    <ul class="tags-expo-posts">  {%comment} This unordered list contain titles of posts associated with current tag {%endcomment}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2> {% comment %} creates heading for each tag section.'id' is set to slugified tag name sothat it can be linked to from list above. tag name itself is displayed as heading text {% endcomment %}
+    <ul class="tags-expo-posts">  {% comment %} This unordered list contain titles of posts associated with current tag {% endcomment %}
       {% for post in tag[1] %}
         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
       <li>
         {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small> {%comment} displays post's date in small fontsize next to title, formatted as string using date_to_string {%endcomment}
+      <small class="post-date">{{ post.date | date_to_string }}</small> {% comment %} displays post's date in small fontsize next to title, formatted as string using date_to_string {% endcomment %}
       </li>
       </a>
       {% endfor %}
