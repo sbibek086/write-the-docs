@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Google-Account-Mgmt
-category: Google Mgmt
-tags: [Google Mgmt]
+title: Google-Account's-Adwords +..
+category: Tech
+tags: [Tech]
 ---
 
 Here, I will explore explored-by-few territories of google account: google adwords, google play, security and settings, and account syncing across multiple devices.
@@ -15,11 +15,7 @@ Below, I will break down and try to make sense of overall integration and right 
 ![image](https://user-images.githubusercontent.com/11883023/152491914-ae798da1-18d6-484e-8113-fc2669e77edf.png)
 
 ---
-Google Adwords ads.google.com Billing Cycle, THreshold etc explained:
-
-[Excerpt and credits Source but dont look at it, below is its simplified form](https://www.prospectgenius.com/blog/google-adwords-billing/)
-
-For that its summarized as below:
+Google Adwords ads.google.com Billing Cycle, Threshold etc simply explained:
 
 **“Daily” Budget Is Not What It Seems**
 
@@ -60,8 +56,6 @@ Either it stopped at 47.89$ at March and 14.xx$ at April because I removed this 
 ---
 **What If You Don’t Want to Pay More Than “X” Amount Each Month?**
 One obstacle many businesses face is the fact that they have their own monthly budgets in the real world, outside of AdWords. Often, they don’t want to be billed beyond a certain amount in the same calendar month for fiscal reasons. When this is the case, you have to manually pause your campaign as soon as you reach your limit. Otherwise, your charges will continue to accumulate and you might be billed again at the next threshold. 
-
-If Prospect Genius ((888) 488-9011) is managing your account, we are happy to do this on your behalf. We closely monitor all of the accounts we run, so we will watch your spending and pause your campaign as soon as it gets too close to your personal limit. Then, we’ll resume your campaign once the billing cycle resets. Google AdWords billing is extremely difficult to understand, and that’s probably not an accident. 
 
 **Where I messed up in my last promoted youtube ads of Edmark Consultancy**
 ![image](https://user-images.githubusercontent.com/11883023/152506156-d8aca02b-c3fc-4717-a820-c05fc91b8135.png)
