@@ -3,7 +3,7 @@ title: Vivek Stha n team written weblog
 description: (P) matters DownTo ToJustDoIt, (T)-theory curiousCat Incase.
 
 # Set the production website URL when previewing
-baseurl: 
+baseurl: https://sbibek086.github.io/write-the-docs/
 
 # Markdown parser and theme settings
 markdown: kramdown
