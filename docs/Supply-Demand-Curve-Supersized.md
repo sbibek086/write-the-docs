@@ -48,3 +48,6 @@ Prices Rise When the Government Prints Too Much Money: When too much money is fl
 
 Society Faces a Short-Run Tradeoff Between Inflation and Unemployment: In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. However, this is not the case in the long-run.
 
+---
+![eco-adv-concept-simply-xplain](https://github.com/user-attachments/assets/3c49bc4b-87e0-4d6d-bf01-14b674a20867)
+
