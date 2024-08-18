@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Environment, Sys, User Vars Explained
+title: Env, Sys, User Vars Explained
 category: WindowsOS
 tags: [WindowsOS]
 ---
@@ -25,4 +25,8 @@ Now, if I double click to add for eg, VScode paths as shown by orange bordered, 
 The program will run from the command prompt without actually being in the directory from where you executed the command. That is the beauty of the Path variable.
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/004ec0ad-696a-444b-9d84-5868452cee08)
+C:/ program files path is default saved by windows as sys path. so, thats recognized globally from any path. so, nodejs git curl should be prioritized saved that location. 
+  
+w similar reasoning, .bash history should be in c drive program.  if some pgms installed elsewhere, then we s'ud put that non default path in system or env vars, going to sys or env var in cmd.
+
+dyk that windows kernel is written in dotnet
