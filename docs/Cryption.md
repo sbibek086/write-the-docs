@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSH >>https way even when cloning git...
+title: (t) SSH >>https way even when cloning git...
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
@@ -14,7 +14,9 @@ In SSH (runs on Linux, macOS, Windows with appropriate software),
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0d2baa73-23ea-4430-8570-154023390893)
 
 -cryptographic hash functions (look 1st img above carefully) to verify **integrity** of data being transmitted.
-_{btw, there are asymm style aka AES and symm style. hunchha just thaha pairakh sakyo kura}_
+_{btw, there are asymm style aka AES and symm style as below_
+![image](https://github.com/user-attachments/assets/5cc2ae44-70d9-413f-8f8d-e9f7bbe4d28a)
+
 
 -Remote Command Execution: allows for execution of commands on a remote machine, making it ideal for system administration and management tasks.
 
@@ -22,9 +24,11 @@ _{btw, there are asymm style aka AES and symm style. hunchha just thaha pairakh 
 
 -Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
 ```
-Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from a local port to a remote server.  aka Forwards local port to remote destination.
+Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from a local port to a remote server.
+aka Forwards local port to remote destination.
 
-Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine. aka Forwards remote port to local destination.
+Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
+aka Forwards remote port to local destination.
 ```
 -Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
 
