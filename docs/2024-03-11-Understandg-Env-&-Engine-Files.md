@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled 
+title: Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + Lib n Framework Diff
 category: Programming
 tags: [Programming]
 ---
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/2572a938-78be-4004-bc8c-66d728e4d06b)
+![image](https://github.com/user-attachments/assets/50e02731-7c16-4781-8ccd-da93ce1de499)
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b9cd3484-1216-49a6-9736-7ac89709cf2e)
 
@@ -26,3 +26,6 @@ When you run a Python script, the Python interpreter is loaded, along with any n
 db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay lai loading runtime data vanxa- aru context ma ni estai estai, kunai bela config file load hunu parla.
 
  dherai curious cat scientist nabana, etti bujha, sakyo kura
+ 
+---
+![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
