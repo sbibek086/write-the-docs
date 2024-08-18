@@ -3,26 +3,41 @@ layout: page
 title: Categories
 ---
 
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <hr/>
-  <div class="tags-expo-section">
-    {% for tag in site.categories %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small>
-      </li>
-      </a>
+---
+layout: page
+title: Categories
+---
+{% if site.category %}
+  <div class="category-expo">
+    <div class="category-expo-list">
+      {% comment %} holds list of tags, which are displayed as clickable links {%endcomment %} 
+      {% for categori in site.category %} 
+        <a href="#{{ categori[0] | slugify }}" class="post-tag">{{ categori[0] }}</a>
+        {% comment %} href is set to anchor corresponding to name processed by slugify, which converts tagname to URL-friendly string. Tag name is displayed as link text {% endcomment %} 
       {% endfor %}
-    </ul>
-    {% endfor %}
+    </div>
+    <hr />
+    <div class="category-expo-section">
+      {% for category in site.category %}
+      <h2 id="{{ categori[0] | slugify }}">{{ categori[0] }}</h2>
+      {% comment %} creates heading for each tag section.'id' is set to slugified
+      tag name sothat it can be linked to from list above. tag name itself is
+      displayed as heading text {% endcomment %}
+      <ul class="category-expo-posts">
+        {% comment %} This unordered list contain titles of posts associated with
+        current tag {% endcomment %} 
+        {% for post in categori[1] %}        
+          <li>
+            <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+              <small class="post-date">{{ post.date | date_to_string }}</small>
+              {% comment %} displays post's date in small fontsize next to title,
+              formatted as string using date_to_string {% endcomment %}
+            </a>
+          </li>        
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </div>
   </div>
-</div>
+{% endif %}
