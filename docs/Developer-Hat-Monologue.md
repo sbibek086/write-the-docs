@@ -7,7 +7,7 @@ tags: [Developer]
 
 Tho cheat sheet concise to-knows, but again cheatsheet unnecessarily overwhelms. why would cheatsheet be needed btw when methods infos are just Ctrl+Space click away in VScode. n some codewithHarry vids are unnecessary imo.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/91c27dcb-fee0-40bf-9455-b64fff2580d2)
+good coder able to pull out every arsenal tools that language has to offer (for that read docu in Zen focus - hey, its okay to read it in flow of solving, we dont have to know it beforehand) n be able to employ such tools as extension of our consciousness. one fear that was impeding me was- what if it messe with already written code but hey, versioning is for exactly this scenario.
 
 Do it as religion & dont feel lazy to note (rough pen notes if hurry or fatigued) all lessons learnt, mistakes made, corrections- all when I solve some pgm challenge. This note will save me tons of time when I face similar situation challenges in future.
 
@@ -29,7 +29,7 @@ or  curl whatWhat whatwhat  or gweth (btw it's ethereumPackages) createWallet
 
 or  pip(btw it's Python's) install whatwhat
 
-hmmmmmmmmm, ok
+hmm, ok
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5e87135a-1f6f-474c-b388-20c731c4e078)
 
@@ -37,4 +37,4 @@ hmmmmmmmmm, ok
 
 Pains of Elastic Search & lessons (Pains & lessons arent here but scattered in suitable context in different posts)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f8b61f14-1df5-4581-b68d-528183218778)
+When we import certain module from library, its should-be-standard-practice-consistent-named function may not be so name.  Eg, SearchBox component from elasticsearch library has InputChangeProps (name sthg like this ), while mui library's Search component has not 'I' but inputChangeProps.  - and it killed me a lot of time, whe that package wasnt simply identified by Compiler.
