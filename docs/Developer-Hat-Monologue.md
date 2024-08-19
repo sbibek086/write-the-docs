@@ -5,7 +5,7 @@ category: Developer
 tags: [Developer]
 ---
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0fe0724e-23fd-4e94-ab39-2e16e06fcdd1)
+Tho cheat sheet concise to-knows, but again cheatsheet unnecessarily overwhelms. why would cheatsheet be needed btw when methods infos are just Ctrl+Space click away in VScode. n some codewithHarry vids are unnecessary imo.
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/91c27dcb-fee0-40bf-9455-b64fff2580d2)
 
@@ -34,41 +34,7 @@ hmmmmmmmmm, ok
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5e87135a-1f6f-474c-b388-20c731c4e078)
 
 ----
-So, in production aka development day yesterday morning , I had pulled from say predevelop branch, then deployed.
-now today evening, predevelop branch has been lot + - by now,
-then obviously, I need to 
 
-git pull origin predevelop
-
-today too
-
-/*so, i wasnt aware that predevelop develop etc branch exists in my local universe as is in remote universe, which I thought to only exist. silly me} .
-ANYWAY more on that lateron but 1thing for sure- when I do git status, it is showing which branch I am on, in local universe*/
-
-So, today I do as i mentioned earlier
-
-git pull origin predevelop
-
-lots more packages might have been added by production devs //by today
-
-so, we will get all warning loose like-INCORRECT PEER DEPENDENCY
-
-WHY? because packages that i had pulled yesterday, lots packages might have been added by production devs
-
-So dont worry- Just remove old package-lock.json , NOT package.json tho. Then do
-
-yarn
-
-It will freshly install packages
-
---
-package.json - I understand why should be there because it shows packages versioning that my program is using
-
-[WHY this package-lock.json?](https://www.geeksforgeeks.org/difference-between-package-json-and-package-lock-json-files/)
-
-![devScreens](https://user-images.githubusercontent.com/11883023/267171117-c2518bd4-3fbd-49de-bbca-99325e2d22d6.jpeg)
-
----
 Pains of Elastic Search & lessons (Pains & lessons arent here but scattered in suitable context in different posts)
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f8b61f14-1df5-4581-b68d-528183218778)
