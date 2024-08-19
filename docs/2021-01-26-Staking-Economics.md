@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staking Economics, EtherScan-Knows
-category: Economics
+category: Crpytography
 tags: [Cryptography]
 ---
 
