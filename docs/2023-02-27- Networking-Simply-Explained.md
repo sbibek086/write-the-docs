@@ -61,7 +61,7 @@ Accurately put, DMZ is subnet that exposes device to outside WAN.
 d. now to disable Firewall, we can also do 'PORT FORWARDING' rules on firewall. This is equivalent to AWS security group rules. This statement was about setting up 
 port forwarding rules for incoming traffic in device of our LAN.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a946a931-c4d3-4bf4-95e2-30db5b4c8cf6)
+![vvv(1)](https://github.com/user-attachments/assets/dcc232d6-97f3-4746-99e1-131e0f95db33)
 
 NOTICED, how all this above concept is what is setup in AWS itself. There might be new terminologies, but it is recreating all this.
 
@@ -70,3 +70,13 @@ Think of it this way -
 We got home garden home path etc. etc. manually setup in real soil == having buying computer, giving IP, connecting to Internet.
 
 Now, we got all these home garden, home path evrything to real thing now DELIVERED in truck and we rent evrything and set it up truck soil === AWS
+
+---
+Dessert concept: hmm, why not extend to btc n eth
+
+![ipv4 data format](https://github.com/user-attachments/assets/c4629ed9-c99c-4abd-9d72-bfe573ba92e0)
+
+so, btc nw works on port 8333. said another way, btc application of how to handle incoming request of joining to compete (yes, that prerequisite of u having to donload whole upto now ledger, also whether u will be awarded reward based on if u r first to come w next block by coming up w verifiction of 25 next txs) all are writen in btc codebase such that they are catered in 8333.
+
+[on eth](https://ethereum.org/en/developers/docs/networking-layer/network-addresses/)
+n extrapolating it to inkie if free time
