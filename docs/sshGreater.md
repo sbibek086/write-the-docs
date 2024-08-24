@@ -24,7 +24,7 @@ _{btw, there are asymm style aka AES and symm style as below_
 
 -Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
 ```
-Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from a local port to a remote server.
+Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from local port to remote server.
 aka Forwards local port to remote destination.
 
 Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
@@ -50,9 +50,6 @@ ssl tsl certificate works below while on ssl tsl handshake betn s and c:
 ![image](https://github.com/user-attachments/assets/462a3a5c-e4e0-45e0-bc57-1fd9a052f5ed)
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9dd9b438-7a2d-4919-85d1-34e2178d9ccc)
+![ssh](https://github.com/user-attachments/assets/b0f61f4b-215f-4b45-9e96-0b6bd22e4250)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/d870dee5-9d66-490f-b7ab-d8f314a27888)
-
-
-
+![pem](https://github.com/user-attachments/assets/93d364e1-2929-4083-9a7a-ea5d6dff7d17)
