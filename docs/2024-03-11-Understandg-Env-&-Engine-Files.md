@@ -7,7 +7,8 @@ tags: [Programming]
 
 ![image](https://github.com/user-attachments/assets/50e02731-7c16-4781-8ccd-da93ce1de499)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b9cd3484-1216-49a6-9736-7ac89709cf2e)
+![pyMachine](https://github.com/user-attachments/assets/597fb277-942f-4d1c-a4c7-638ff73b7eb3)
+
 
 I can type below cmds on terminal after I install py
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/90b50ca3-7fc0-4a9a-848a-e2e6b2120a1c)
@@ -29,3 +30,6 @@ db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay la
  
 ---
 ![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
+
+so, jun sukai karyakram ko lagi stage banaye tyo BOOTSRAP vayo,
+karyakram ma pani aja specific vayera manaau sarswati pooja karyakram ko lagi maile stage tayar pardai xu, tyo chai BOILERPLATE vayo. ie. Django framework euta boilerplate nai vayo
