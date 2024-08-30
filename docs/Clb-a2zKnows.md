@@ -14,7 +14,7 @@ then colab runtime is disconnected n on restart, UNFORTUNATELY colab doesnt rest
 
 What I can do:
 
--I can save datasets n trained models on G Drive; Mount it n use it as required. 
+- I can save datasets n trained models on G Drive; Mount it n use it as required. 
 Only runtime local variables and program data for that session are destroyed.
 
 - I can use "Connect to hosted runtime" and "Manage Sessions" to use free resources effectively.
