@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Google-Account's-Adwords +..
+title: G's-Adwords +..
 category: Tech
 tags: [Tech]
 ---
