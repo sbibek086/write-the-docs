@@ -5,8 +5,6 @@ category: SoftwareDev
 tags: [SoftwareDev]
 ---
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/beb2beb7-e2b4-4fb7-b6b6-06e5f75a1adf)
-
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3cf6a54b-c284-4508-a95e-5a64e3c1d2be)
 
 ---
@@ -58,4 +56,7 @@ dyk that Fe developers that among breakpoints like that of tablet, mobile, compu
 
 dyk that git fetch --all fetches or pulls updates not only from current branch but from all branches in that repo. - as far as I remember, but have to confirm edit on next version of writing here.
 
+---
+Its implementation in Elastic-Search I did;
 
+![Untitledddddddddd](https://user-images.githubusercontent.com/11883023/265220150-7a64d2ea-75b5-4dc4-9d05-5c247750e63c.png)
