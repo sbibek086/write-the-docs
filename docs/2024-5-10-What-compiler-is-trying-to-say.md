@@ -80,3 +80,13 @@ the listed packages, in this case, "cuda," have already been imported or loaded 
 
 ![ggFg](https://github.com/user-attachments/assets/b0332186-d3af-4632-9081-05d1ffd92fde)
 
+---
+---
+how not getting driver runtime matching mess things up?
+
+![image](https://github.com/user-attachments/assets/1a118aa8-460d-439c-a013-0e86e1580be1)
+
+---
+![image](https://gist.github.com/user-attachments/assets/c9d3afa9-7147-4dde-b013-379c9a51ad7a)
+
+
