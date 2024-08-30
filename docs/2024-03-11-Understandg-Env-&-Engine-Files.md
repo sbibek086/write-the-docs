@@ -16,9 +16,7 @@ I can type below cmds on terminal after I install py
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9f1b228a-3e92-4ec3-89c1-88d2bdff3ded)
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f42dcea3-19a1-427c-8738-a8c20e03a565)
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3793d843-fee7-4025-b0f8-cffedd527db5)
+![image](https://github.com/user-attachments/assets/5ae22f6e-f02e-4703-8a00-7fb1a4d66878)
 
 yo mathi ko image ma before compilation, k thyo, after compilation k vayo, her, tye ho runtime.
 
