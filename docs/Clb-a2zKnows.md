@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (clb) Restart session can mess up vars state, tc!
+title: 🔥 (clb) Restart session can mess up vars state, tc!
 category: ml
 tags: [ml]
 
