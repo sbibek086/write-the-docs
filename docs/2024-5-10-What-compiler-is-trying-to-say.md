@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (clb)what compiler is trying to say Explained
+title: 🔥 (clb)what compiler is trying to say Explained
 category: Programming
 tags: [Programming]
 ---
