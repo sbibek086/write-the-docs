@@ -9,11 +9,7 @@ Root directory path is simply (/). Everything in file system is organized under 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/5d4d6889-2762-434d-8335-7b180a702a0e)
 
-_However, in above screenshot, my slight confusion is: I am confirmed that this screenshot is of inside- application, that means Is system configuration in another place?_
-
-Notice striking similarity of above File Structure (starting from lib32 lib64) from above screenshot to that of below Kaggle's VM (ofcourse nobody uses windows, everybody uses Linux)
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e7235a4c-26b4-4ddb-8279-a40b46b3a638)
+![image](https://github.com/user-attachments/assets/7775b3d3-3210-4016-8bb4-4aa17bf9c4f3)
 
 ---
 I must not had paid attention to kernel. otherwise how clear its to me now.
