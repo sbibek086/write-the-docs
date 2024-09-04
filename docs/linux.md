@@ -8,6 +8,7 @@ tags: [Developer]
 Root directory path is simply (/). Everything in file system is organized under this root directory. meaning: if I access say one Linux OS machine, then its default path is /
 
 ![image](https://github.com/user-attachments/assets/134ff627-5c7d-4115-b7a0-803542d68f34)
+![image](https://github.com/user-attachments/assets/b51f03f5-4c37-42fe-82ec-daf71d24d397) 
 
 ---
 I must not had paid attention to kernel. otherwise how clear its to me now.
