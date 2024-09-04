@@ -81,6 +81,7 @@ def initialize_db():
     conn = connect_db()
     cursor = conn.cursor()
 
+    # Database Schema: now,We’ll define products table, customers table & sales table 1by1 in our SQLite database: 
     # Create products table
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS products (
