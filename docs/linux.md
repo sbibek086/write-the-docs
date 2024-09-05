@@ -253,5 +253,14 @@ Ctrl Shift V to paste clipboard to terminal
 ---
 ![image](https://github.com/user-attachments/assets/82ea1ac9-98ee-491a-b187-306186a5fdb4)
 
-
-
+these are ubuntu file manager called Nautilus symbols- others are:
+- Gray X Icon: broken symlink, meaning target of symlink no longer exists.
+- Lock Icon: Restricted access. file or folder is owned by another user (often root), n u don't have permissions to modify it unless you have superuser privileges.
+- Orange or Yellow Exclamation Mark: Warning or attention reqd. Often used by cloud services or VCS to show that there is issue (e.g., sync error, or uncommitted changes in a repository).
+- Padlock (for Encrypted Files): may appear if a file or folder is encrypted or has special protection mechanisms.
+- Purple Folder: Specific directories, such as Documents, Downloads, etc., might have colored icons in some themes to distinguish them as system or special directories.
+- Folder with a Person Icon: shared folders that are accessible to other users or systems on the network.
+- Red Background with White Slash Symbol: folder that is not mounted (commonly used for external drives or partitions).
+- Dot (.) in Front of File/Folder Name: hidden file or folder
+- Green Checkmark: Commonly used by version control systems (VCS) or cloud sync services (e.g., Dropbox) to indicate that a file or folder is up-to-date or has been successfully synced with the cloud or repository.
+- Blue Circle with Two Arrows: file or folder is synchronizing (e.g., syncing with a cloud service like Dropbox)
