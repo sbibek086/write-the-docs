@@ -250,5 +250,8 @@ shortcuts for bash:
 Ctrl Alt T to bring bash aka terminal
 Ctrl Shift V to paste clipboard to terminal
 
+---
+![image](https://github.com/user-attachments/assets/82ea1ac9-98ee-491a-b187-306186a5fdb4)
+
 
 
