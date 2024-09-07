@@ -261,8 +261,11 @@ Also, shop.db pani create vayera baseko chh tyo path ma ie. home/educare ma in m
 
 ---
 shortcuts for bash:
-Ctrl Alt T to bring bash aka terminal
-Ctrl Shift V to paste clipboard to terminal
+- Ctrl Alt T to bring bash aka terminal
+- Ctrl Shift V to paste clipboard to terminal
+
+![image](https://github.com/user-attachments/assets/a671fbc0-41e7-41a0-833d-4c51758b2c90)
+
 
 ---
 ![image](https://github.com/user-attachments/assets/82ea1ac9-98ee-491a-b187-306186a5fdb4)
