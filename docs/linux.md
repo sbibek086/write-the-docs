@@ -8,6 +8,11 @@ tags: [Developer]
 Root directory path is simply (/). Everything in file system is organized under this root directory. meaning: if I access say one Linux OS machine, then its default path is /
 
 ![image](https://github.com/user-attachments/assets/134ff627-5c7d-4115-b7a0-803542d68f34)
+
+above dgm is not 100% accurate as I had 5yr old understanding but is not wrong either to del.
+So, understanding more to how linux adds files - yes, its kind of fractal, look below:
+![image](https://github.com/user-attachments/assets/788e629f-fdf9-4e86-aa36-02555f5a5e54)
+
 ![image](https://github.com/user-attachments/assets/b51f03f5-4c37-42fe-82ec-daf71d24d397) 
 
 ---
