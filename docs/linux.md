@@ -13,6 +13,15 @@ above dgm is not 100% accurate as I had 5yr old understanding but is not wrong e
 So, understanding more to how linux adds files - yes, its kind of fractal, look below:
 ![image](https://github.com/user-attachments/assets/788e629f-fdf9-4e86-aa36-02555f5a5e54)
 
+```
+Also, note:  Permissions: Since /usr/local is typically a system-wide directory,
+using sudo is necessary for creating files and directories there.
+Be cautious with permissions to avoid affecting system files.
+
+System-Wide Implications: Creating a virtual environment in /usr/local makes it accessible system-wide,
+BUT THIS MIGHT NOT BE ideal if you're managing project-specific dependencies.
+Consider creating virtual environments in home directory unless you have specific reason for using /usr/local.
+```
 ![image](https://github.com/user-attachments/assets/b51f03f5-4c37-42fe-82ec-daf71d24d397) 
 
 ---
