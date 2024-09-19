@@ -9,7 +9,6 @@ consult stuffs:
 Let me write remember as much as I can. 
 so, k vanda kheri unlike aus, uk ma chai just 25 lakh (confirm) matra student kai bank khata ma dekhaye vayo. Ani coventry uni hit chh esp given GPA 2.4 above ra eng ma B aaxa vane +2 ma. also, barista aadi siknu parxa stu le. aru thapdai ja
 
-![image](https://github.com/user-attachments/assets/089ac655-ce1a-46ab-aaa0-5f7616473f97)
 
 ---
 all banks are broke. because banks have system called fractional reserve banking, means bank can lend money they actually dont have. Its a criminal scandal going on for long. 
@@ -23,6 +22,7 @@ How world capitalism works
 ![image](https://gist.github.com/user-attachments/assets/3340ddbe-b69c-4ab0-bb01-d8cd2aac75d5)
 
 ---
+![image](https://github.com/user-attachments/assets/089ac655-ce1a-46ab-aaa0-5f7616473f97)
 PowMinimalism - not that extreme crazy minimalist or any cult-ist but I am simplifying. 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/e2f1ce30-344c-4780-80d7-1fb59ca33841)
