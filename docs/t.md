@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ~~
 category: Economics
 tags: [Economics]
