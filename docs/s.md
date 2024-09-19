@@ -9,6 +9,12 @@ consult stuffs:
 Let me write remember as much as I can. 
 so, k vanda kheri unlike aus, uk ma chai just 25 lakh (confirm) matra student kai bank khata ma dekhaye vayo. Ani coventry uni hit chh esp given GPA 2.4 above ra eng ma B aaxa vane +2 ma. also, barista aadi siknu parxa stu le. aru thapdai ja
 
+---
+![image](https://github.com/user-attachments/assets/4d191553-0f25-41f1-8e16-4919000e20f9)
+
+<script src="https://gist.github.com/AWScommunity/3391060fd97504427dd8fa74f951dd5c.js"></script>
+
+![image](https://github.com/user-attachments/assets/153412e4-e4b4-4c52-82ae-897b1d526c2a)
 
 ---
 all banks are broke. because banks have system called fractional reserve banking, means bank can lend money they actually dont have. Its a criminal scandal going on for long. 
