@@ -9,6 +9,15 @@ consult stuffs:
 Let me write remember as much as I can. 
 so, k vanda kheri unlike aus, uk ma chai just 25 lakh (confirm) matra student kai bank khata ma dekhaye vayo. Ani coventry uni hit chh esp given GPA 2.4 above ra eng ma B aaxa vane +2 ma. also, barista aadi siknu parxa stu le. aru thapdai ja
 
+So, Aus ma chai 60 lakh nai dekhai rana paryo until student gets admisssion, esle byaaj badi paryo
+UK ma chai 8 lakh matra dekhaye vayo.
+
+---
+PAPER SKILLS STRONG bana sik sik sik sik
+- euta sanstha office darta gar like KPaudel sstrong at it
+- 
+- 
+
 ---
 ![image](https://github.com/user-attachments/assets/4d191553-0f25-41f1-8e16-4919000e20f9)
 
@@ -79,19 +88,12 @@ Then again that right junction (yes that junction where main highway cuts right 
 And BCA in America car.  IE.  Brake clutch accelerator. BCA in Np car too? write after know
 
 ---
-Arranging samaan while shifting room has tortured me, u know how many items u have to pack
-
-So, w lesson learnt, Things I buy should follow
-
-i. Matryoshka dolls principle
-
-ii. different items sud have cog-fitting principle, like nanglo I buy sud fit as lid to circumference to baata  bought
-
-iii. baata sud have hooks so that I can tighten rope around it
-
-iv. bought thing sud be multipurpose like my BELOVED Leatherman
-
-v. 3rd floor thap like pichhadi ko handpump gadya bhote le garyo, n farm berna tin lagauna kinna mony bacha
+Arranging samaan while shifting room has tortured me, u know how many items u have to pack. So, w lesson learnt, Things I buy should follow
+- Matryoshka dolls principle
+- different items sud have cog-fitting principle, like nanglo I buy sud fit as lid to circumference to baata  bought
+- baata sud have hooks so that I can tighten rope around it
+- bought thing sud be multipurpose like my BELOVED Leatherman
+- 3rd floor thap like pichhadi ko handpump gadya bhote le garyo, n farm berna tin lagauna kinna mony bacha
 
 ---
 Swim - So, I used to go to swimming hall in SouthDakota University, whenever I have spare time.
