@@ -30,9 +30,7 @@ in console, Network is where we can see which url is requested when we click Act
 and in LHS, we can see what to response with when {certain URL is called} aka {API endpoint}. So, LHS here is backend API docs built in Django by Backend-ers
 
 ---
-Pow-It's-enof-for-daily-job-notes of What different status codes mean?
-
-![image](https://user-images.githubusercontent.com/109033173/230772640-9839acaf-09ca-4bcf-9596-3aa68777275f.png)
+![WsmabeY](https://github.com/user-attachments/assets/9e489c39-1c9c-47ce-8efd-677b341b5f0b)
 
 ---
 .env folder lets you default-ize what path we want our tail URL to append with base path URL. That base path url is menioned in .env folder.
