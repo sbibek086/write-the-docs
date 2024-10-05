@@ -115,3 +115,4 @@ then when u r frontstroking w ur left hand like duck-paw under water pushing wat
 and same movement this time w alternate other side body parts - right hand, head tilted other way etc
 
 My biggest challenge was - when I paddle my foot in up down movement, my hands would also tend to do so. Hard was it to change it. tho I slowly improved.
+![ssss(1)(1)](https://github.com/user-attachments/assets/9595479e-2ca8-4e0a-9e3f-bb88ab293585)
