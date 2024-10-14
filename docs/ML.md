@@ -5,7 +5,7 @@ category: ML
 tags: [ML]
 ---
 
-Dimensionality reduction- One way to deal w Big files by dec. its size
+**Dimensionality reduction- One way to deal w Big files by dec. its size**
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/6d1f50dd-88a2-459b-8c72-5f0b83485ba1)
 
@@ -52,17 +52,6 @@ another context - xgboostA2Z
 ---
 ![logistic-Regressn-2](https://github.com/user-attachments/assets/41420ee9-b15c-4f9d-8a36-192b2958ca70)
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/ca8a7fd7-c315-4849-9f57-9745be10d70a)
-
-These above algos are present in Scikit-learn libraries, which I stick to. so, idc about alternate libraries like keras, pyTorch etc.
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b214a15b-29a2-4acf-af0d-962413271751)
-
-Compiler mai sabai lekhya hunchh ta. Patiently padha Vivek
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4f573144-e2a7-4067-957e-cc930257076d)
-
----
-
 ![Logistic-Regressn-moreThan2](https://github.com/user-attachments/assets/cddd97e4-aa4e-4f77-9944-9daa3ca9639b)
 
 ---
@@ -94,6 +83,18 @@ btw, our 2019 mistake was, as far as I could infer was: leaking info from future
 other leakage causes are:    
 -  leaking test data in to training data. btw, who would make such silly mistakes , haha
 -  any of above-mentioned faults in 3rd party data joined to training set. rational mistake
+
+---
+---
+another context:
+![image](https://github.com/user-attachments/assets/aceb28c7-c2d8-4039-be67-1191a42b0497)
+
+These above algos are present in Scikit-learn libraries, which I stick to. so, idc about alternate libraries like keras, pyTorch etc.
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b214a15b-29a2-4acf-af0d-962413271751)
+
+Compiler mai sabai lekhya hunchh ta. Patiently padha Vivek
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4f573144-e2a7-4067-957e-cc930257076d)
 
 
 
