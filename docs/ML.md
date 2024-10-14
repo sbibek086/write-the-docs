@@ -27,8 +27,6 @@ _Hopefully, no math headache, code as below, however math process bujheko ramro_
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b5a6f20f-60fb-4555-a354-9eec8ecfa8a4)
 
----
-
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3c58abd1-09c5-4b3a-a809-b000f2359623)
 
 So, here, we see visually how pca reduces data. NOTE: dimensional redn is not cols reduction, which I thought
@@ -39,6 +37,7 @@ _PS: Heatmaps, t-SNE Plots, Multi-dimensional Scaling are just alternatives to D
 
 yt Zach Star, Stratum_
 
+---
 ---
 Nothing to do w above context are posts from below on:
 stratification means breaking down population to smaller subsets ie samples such that based on certain criteria/ features, each subset almost proportionately reflects similar distribution of criteria/ features.
@@ -59,15 +58,16 @@ These above algos are present in Scikit-learn libraries, which I stick to. so, i
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/b214a15b-29a2-4acf-af0d-962413271751)
 
----
 Compiler mai sabai lekhya hunchh ta. Patiently padha Vivek
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/4f573144-e2a7-4067-957e-cc930257076d)
 
+---
 
 ![Logistic-Regressn-moreThan2](https://github.com/user-attachments/assets/cddd97e4-aa4e-4f77-9944-9daa3ca9639b)
 
 ---
-data leakages in models fools one in such bad way that you are proud, about to yell that model is 90% accurate this, that
+---
+**data leakages in models** fools one in such bad way that you are proud, about to yell that model is 90% accurate this, that
 
 but in-fact 90% accuracy was not because of ml accurately tracing underlyling functions aka eqn that is mapping x to y.
 
@@ -91,8 +91,7 @@ so, knowing that this feature can be x not y ,or knowing that this feature can o
 
 btw, our 2019 mistake was, as far as I could infer was: leaking info from future into past- it was time series data
 
-other leakage causes are:  
-  
+other leakage causes are:    
 -  leaking test data in to training data. btw, who would make such silly mistakes , haha
 -  any of above-mentioned faults in 3rd party data joined to training set. rational mistake
 
