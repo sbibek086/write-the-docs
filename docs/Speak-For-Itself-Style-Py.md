@@ -14,8 +14,6 @@ from SomeLibrary.(OnlyParticularModuleIWantFromThatLibrary) import CertainFuncti
 
 from SomeLibrary import Certain2ndFunction as 2ndAliasComfortablyNamedFn
 
-
-
 class HouseCleaningActivity: 
 
 ..def _ _init_ _(self, HowMuchAreaInSqMINeedToClean, WithInHowManyHrs, InputParametersNecessaryHere):
