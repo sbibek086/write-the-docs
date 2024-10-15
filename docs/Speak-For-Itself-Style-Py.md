@@ -59,9 +59,7 @@ Think of py as somewhat like English Grammar
 + even a can be logx with log's own rules doing inside w x. somewhat like that
 + vivek, methodically process ideas to solve problem by creating suitable vars, creating suitable funcs or manytimes just mapping to (== import, export, API ) suitable funcsAkaMethods Or AutoFuncs (== constructors), vivek
 
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/c8c6855a-5977-43b8-8d93-6670b65391ce)
-
+![image](https://github.com/user-attachments/assets/4f71dbcb-2a6b-401b-a30d-da17c7a83106)
 ![image](https://github.com/user-attachments/assets/bdf9c537-3624-42b2-be04-2dac35a6c1e3)
 
 Inheritance- idc much but saving anyway
