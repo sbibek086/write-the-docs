@@ -31,6 +31,11 @@ def log_of_sine_squared(x):
 def integrand(x):
     return log_of_sine_squared(x)
 
+#1shot ma below lekhnu better. 
+#just want2show how args passed in above
+#def integrand(x):
+ #   return np.log(np.sin(x)**
+
 lower_limit = 3
 upper_limit = 4
 
