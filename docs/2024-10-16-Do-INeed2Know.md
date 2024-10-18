@@ -12,9 +12,33 @@ We are victims of our own faulty habits and thought patterns. So, I spent most o
 ![image](https://github.com/user-attachments/assets/e10752ee-bbde-478a-bc96-397f9880b849)
 
 ---
-**Abstraction aka encapsulation difference in math & cs**
+integrate from x =3 to 4 the log(sinx^2) dx
 
->> http://dillingers.com/blog/2013/07/03/mathematical-abstraction-is-not-computer-abstraction-at-least-not-yet/
+lai pgm ma lekhda tala esto:
+
+import numpy as np
+import scipy.integrate as integrate
+
+def sine_of_x(x):
+    return np.sin(x)
+
+def sine_squared(x):
+    return sine_of_x(x) ** 2
+
+def log_of_sine_squared(x):
+    return np.log(sine_squared(x))
+
+def integrand(x):
+    return log_of_sine_squared(x)
+
+lower_limit = 3
+upper_limit = 4
+
+result, error = integrate.quad(integrand, lower_limit, upper_limit)
+
+# Output the result and error margin
+print(f"The result of the integral is: {result}")
+print(f"The error margin is: {error}")
 
 ---
 passing above my brain - what its trying to say; please help me with PR-ing explanation below this image:
