@@ -5,7 +5,7 @@ category: Programming
 tags: [Programming] 
 ---
 
-DOCKER is My First GoTo when building app or sthg. Below shows WHY HOW :)
+hub.docker.com >>3.6.76. pw: 3..8 is My First GoTo when building app or sthg. Below shows WHY HOW :)
 my words- yes, doing docker way is 10step to 5step thing but need to know port mapping etc concept expertly. so not recommended unless know these.
 So, unless know, do localhost way primary way
 
@@ -23,7 +23,6 @@ docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASS
 docker pull wordpress
 docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
 ```
-[Do all this wholesome in DockerCompose.yml way](https://sbibek086.github.io/write-the-docs/2022-04-30-YML-HowToWrite-ItsA2Zusage.html)
 
 ---
 https://www.docker.com/blog/how-to-build-and-test-your-docker-images-in-the-cloud-with-docker-hub/
