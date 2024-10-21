@@ -35,7 +35,7 @@ teso vaye, ya ta principal component1 matra dekhax, feri stratum ko ma ta diuta 
 
 _PS: Heatmaps, t-SNE Plots, Multi-dimensional Scaling are just alternatives to Dimensional Reduction method
 
-yt Zach Star, Stratum_
+yt Zach Star, Josh Starmer_
 
 ---
 ---
