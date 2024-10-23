@@ -1,10 +1,12 @@
 ---
 layout: default
-title: 🔥 (clb) Restart session can mess up vars state, tc!
+title: 🔥 clb 
 category: ml
 tags: [ml]
 
 ---
+
+**Restart session can mess up vars state, tc!**
 
  ![image](https://github.com/user-attachments/assets/3074ce13-c5a5-4740-9e2f-848b1505a220)
 
@@ -13,10 +15,8 @@ tags: [ml]
 then colab runtime is disconnected n on restart, UNFORTUNATELY colab doesnt restore local variable, code outputs (tho previous run code output is saved, n also stays when importing such files to new platform) and all previous program data (time-consuming to load dataset every time n PAIN-lot-of-time-FUL when I have to load GB data)
 
 What I can do:
-
 - I can save datasets n trained models on G Drive; Mount it n use it as required. 
 Only runtime local variables and program data for that session are destroyed.
-
 - I can use "Connect to hosted runtime" and "Manage Sessions" to use free resources effectively.
 
 ---
@@ -33,6 +33,20 @@ DO(NT)s:
 
 ---
 ![image](https://github.com/user-attachments/assets/4992edb5-6a74-4ee6-80c0-4f68775a692a)
+
+---
+---
+![image](https://github.com/user-attachments/assets/693010cc-33cb-4b31-bb64-36a07355cb1b)
+
+means:
+
+![image](https://github.com/user-attachments/assets/b8f709d2-f24c-43ab-8d20-1e7859a98262)
+
+gist:
+
+![image](https://github.com/user-attachments/assets/1d2312da-fbe3-41a3-8eba-b72dfaabed54)
+
+
 
 
 
