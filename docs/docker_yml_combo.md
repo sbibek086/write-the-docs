@@ -9,6 +9,8 @@ hub.docker.com >>3.6.76. pw: 3..8 is My First GoTo when building app or sthg. Be
 my words- yes, doing docker way is 10step to 5step thing but need to know port mapping etc concept expertly. so not recommended unless know these.
 So, unless know, do localhost way primary way
 
+[yo sab gareko WordpressCamp'sTut](https://www.facebook.com/mishra.aananta/videos/307497993616073)
+
 ![dockerWorkFlow](https://user-images.githubusercontent.com/11883023/209544204-48c30b20-48e6-47b5-972c-af4b98ddb45c.png)
 ![dockerWFlow](https://github.com/sbibek086/write-the-docs/assets/11883023/7b4b7003-e40b-4a67-9cb3-3d9e7e18b875)
 
@@ -23,20 +25,13 @@ docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASS
 docker pull wordpress
 docker run -d -e WORDPRESS_DB_NAME=mysite -e WORDPRESS_DB_USER=mysite -e WORDPRESS_DB_PASSWORD=password --name wordpress --link mysitedb -p 80:80 -v "$PWD/html":/var/www/html wordpress
 ```
+IdontKnow why but while doing, mathi ko command rakhda athena tara tala ko
+```
+docker run -d --name wordpress --link mysitedb -p 81:80 -v "$PWD/html":/var/www/html wordpress
+```
+rakhda chai aathyo
 
----
-https://www.docker.com/blog/how-to-build-and-test-your-docker-images-in-the-cloud-with-docker-hub/
-
-![image](https://user-images.githubusercontent.com/11883023/129465953-70a13d01-e17f-4399-8774-22ab70b19f5c.png)
-What it does is- It pulls docker host of url tutum/hello-world from its port 80 and maps it to port 3000 of my local machine {-p is for portmapping }, so that after this command, when I open localhost://3000, I can look at its webpage. Tutum/hello-world has written this fantastic code of web server inside it, which maynot be true for others.
-Take for eg, another docker host which just throws to terminal itself
-
-![image](https://user-images.githubusercontent.com/11883023/129466016-ea8a5dcd-ca41-44a0-a127-e05020c5f333.png)
-
----
-1st, lets start with this docker-compose.yml of what we tried to do CLI way of docker in github.com/sbibek086 
-
- _some writes '3.3', some writes "3.3", its just matter of which format linting is in package.json. Thats all, nothing serious._
+Now, alternatively, lets do w docker-compose.yml way of what we tried to do CLI way of docker in github.com/sbibek086 
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/8e2de3fd-6c07-4be7-9b44-8aaef1b23510)
 
@@ -50,7 +45,28 @@ by RPyi- breakdown in gpt
 ![image](https://github.com/sbibek086/sbibek086.io/assets/11883023/202fe845-0d23-4264-a884-d5a282692304)
 
 ---
-2nd gold nuggets from Techworld with Nana YT, not rel to above
+---
+A)Additional notes: 
+https://www.docker.com/blog/how-to-build-and-test-your-docker-images-in-the-cloud-with-docker-hub/
+
+![image](https://user-images.githubusercontent.com/11883023/129465953-70a13d01-e17f-4399-8774-22ab70b19f5c.png)
+What it does is- It pulls docker host of url tutum/hello-world from its port 80 and maps it to port 3000 of my local machine {-p is for portmapping }, so that after this command, when I open localhost://3000, I can look at its webpage. 
+
+Tutum/hello-world has written this fantastic code of web server inside it, which maynot be true for others.
+Take for eg, another docker host which just throws to terminal itself
+
+![image](https://user-images.githubusercontent.com/11883023/129466016-ea8a5dcd-ca41-44a0-a127-e05020c5f333.png)
+
+B) Making docker image persistent on url no matter my dockerDektop is Off:
+If I want such that -when I turn off docker, which I had to start app n run it. I mean that docker image of website always coming on URL no matter I switch off my machine, termed persistency.   If I want such, [then look here](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes)
+as AB suggested me, I should make batch .bat file of that docker commands and save it as .bat So that All i need to do is go to its location from terminal ,and then ThatFile.bat ENTER
+
+C) [dockerTut](https://www.slideshare.net/vincenzoferme/using-docker-containers-to-improve-reproducibility-in-software-and-web-engineering)
+
+---
+---
+---
+CI/CD aka devOps from Techworld with Nana YT not rel to above
 
 ![gitActions](https://user-images.githubusercontent.com/11883023/120933150-82a62080-c718-11eb-9667-0ede1aad1b33.jpg)
 [thisYT](https://www.youtube.com/watch?v=R8_veQiYBjI) powerGist
