@@ -183,6 +183,8 @@ so that you can clone git remote urls docs inside htdocs.
 
 So, after that you can change it to see its compilation result in browser,
 at the same time, can change, commit etc to reflect changes in git ready docs.*
+
+One thing Now Pro me have to suggest to this amateur me's this paragraph is: I dont need to put it in xampp htdocs to init server for every language (its necessary for php developing). Eg. In react, to initialize server, i just have to write: npm start as server initialization is implicitly handled by package.
 ```
 
 # Bootcamp Day 4- Whats upstream policy and why its used in IT workplace + Why Gitlab, NOT github is used in Nepal?
@@ -205,11 +207,9 @@ today too
 /*so, i wasnt aware that predevelop develop etc branch exists in my local universe as is in remote universe, which I thought to only exist. silly me} .
 ANYWAY more on that lateron but 1thing for sure- when I do git status, it is showing which branch I am on, in local universe*/
 
-So, today I do as i mentioned earlier
+So, today I do as I mentioned earlier  `git pull origin predevelop`
 
-git pull origin predevelop
-
-lots more packages might have been added by production devs //by today
+lots more packages might have been added by production devs by today
 
 so, we will get all warnings like-INCORRECT PEER DEPENDENCY
 
@@ -255,11 +255,26 @@ Most of the assets in Github repo are either in .tar or .Linux or .mvcc.zip or g
 
 ---
 # Bootcamp Day 8 - Developer Settings in Github
-Here, we are not talking about plain GUI settings like how your github profile theme would look -dark or white? ,or what your SSH or GPG keys of your github account should be
+Here, we are not talking about what your SSH or GPG keys of your github account should be?
+
 But for now, we are talking about settings that you can adjust lot wholesome way like with scripts, rightly called Developer Settings, for which we have to go github_com/settings/apps | developers | tokens for github apps, OAuth *stands for Open Authorization* and Personal Access tokens respectively.
 Let's start with Personal Access tokens:
 ![image](https://user-images.githubusercontent.com/11883023/168462058-c3739a7f-ab5e-4e83-b38e-720e0b928b79.png)
 [This Video](https://www.youtube.com/watch?v=kHkQnuYzwoo) would help too. 
+
+a)Secret Key: Used to sign/encrypt data for secure communication. Its type:
+  -  Access Token: Grants temporary access to protected resources (e.g., OAuth 2.0).
+  -  Refresh Token: Used to obtain a new access token without re-authenticating.
+  -  JWT (JSON Web Token): A specific type of token that contains claims and is signed for integrity.
+b) Token: Authenticates users or sessions for resource access. eg. esewa euta tab ma login garda arko tab ma ni send mony etc garna painxa wa yei PAT jasto
+c) API keys: yo prasanga ra a) ra b) vanda alag ho but IKnowIt
+
+For eg: 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37 is my sbib Personal.Access.Tokens of github acc as github has stopped supporting acc passwords. Now it requires token-based authentication (for example, a personal access, OAuth, or GitHub App installation token) for all authenticated Git operations.  
+
+e39de365649162ec365f7a88b0f6e571e6d23c7268 is my sbib github package personal access token with read write and repo rights.
+_tara yo pani after certain time expire hunxa I think because email ma yo expire vayo vanee aairako hunxa_
+
+.github folder vitra ka kura localMachine bata git transfer hudaina. myMachine secret keys, local environment vars haru hunxa es vitra
 
 ---
 # Bootcamp Day 9 - Setting up Public template as new repo template, Speed vs Inflexibility, which to opt for?
@@ -274,7 +289,7 @@ Currently, my understanding is: boilerplates are like templates which already ha
 
 Stuck with this Host key verification failed error
 
-**Problems:** I was quite lost with whether github username password that I have passed in my machine is still stored in cache an thats creating trouble as i have changed github.com password ever since between.
+**Problems:** I was quite lost with whether github username password that I have passed in my machine is still stored in cache & whether thats creating trouble as I have changed github.com password ever since between.
 `git config --global username.password <>` do not seem to be much of rescue tho. My intention was to so that I could feed my newly github password to my machine.
 
 Above, I was doing the way of git clone <https://> way but SSH way is better
