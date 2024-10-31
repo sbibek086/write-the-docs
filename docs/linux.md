@@ -11,8 +11,7 @@ Root directory path is simply (/). Everything in file system is organized under 
 
 above dgm is not 100% accurate as I had 5yr old understanding but is not wrong either to del.
 So, understanding more to how linux adds files - yes, its kind of fractal, look below:
-_minor typo below in 6: README in usr/share/doc n man(ual) in usr/share/man_
-![image](https://github.com/user-attachments/assets/788e629f-fdf9-4e86-aa36-02555f5a5e54)
+![image](https://github.com/user-attachments/assets/e083cfff-3e62-4dcc-98ae-a9459db66ab2)
 
 ```
 Also, note:  Permissions: Since /usr/local is typically a system-wide directory,
