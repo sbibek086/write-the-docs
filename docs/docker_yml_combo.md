@@ -46,10 +46,7 @@ by RPyi- breakdown in gpt
 
 ---
 ---
-A)Additional notes: 
-https://www.docker.com/blog/how-to-build-and-test-your-docker-images-in-the-cloud-with-docker-hub/
-
-![image](https://user-images.githubusercontent.com/11883023/129465953-70a13d01-e17f-4399-8774-22ab70b19f5c.png)
+A)![image](https://user-images.githubusercontent.com/11883023/129465953-70a13d01-e17f-4399-8774-22ab70b19f5c.png)
 What it does is- It pulls docker host of url tutum/hello-world from its port 80 and maps it to port 3000 of my local machine {-p is for portmapping }, so that after this command, when I open localhost://3000, I can look at its webpage. 
 
 Tutum/hello-world has written this fantastic code of web server inside it, which maynot be true for others.
@@ -59,11 +56,7 @@ Take for eg, another docker host which just throws to terminal itself
 
 B) Making docker image persistent on url no matter my dockerDektop is Off:
 If I want such that -when I turn off docker, which I had to start app n run it. I mean that docker image of website always coming on URL no matter I switch off my machine, termed persistency.   If I want such, [then look here](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes)
-as AB suggested me, I should make batch .bat file of that docker commands and save it as .bat So that All i need to do is go to its location from terminal ,and then ThatFile.bat ENTER
 
-C) [dockerTut](https://www.slideshare.net/vincenzoferme/using-docker-containers-to-improve-reproducibility-in-software-and-web-engineering)
-
----
 ---
 ---
 CI/CD aka devOps from Techworld with Nana YT not rel to above
