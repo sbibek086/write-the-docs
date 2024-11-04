@@ -14,12 +14,11 @@ So, unless know, do localhost way primary way
 ![dockerWorkFlow](https://user-images.githubusercontent.com/11883023/209544204-48c30b20-48e6-47b5-972c-af4b98ddb45c.png)
 ![dockerWFlow](https://github.com/sbibek086/write-the-docs/assets/11883023/7b4b7003-e40b-4a67-9cb3-3d9e7e18b875)
 
-![dockerCmds](https://user-images.githubusercontent.com/11883023/226905071-689ef9cc-36be-4d97-8a29-fe38de12edba.png)
+![image](https://github.com/user-attachments/assets/efef7f6a-d0ba-496c-882b-ee6ed1803ecf)
 
 ```
 docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
 ```
-![docker2](https://user-images.githubusercontent.com/11883023/192002125-893e6b7e-eaf9-4f3e-a16d-b5e5a70b3fe7.png)
 
 ```
 docker pull wordpress
@@ -33,37 +32,81 @@ rakhda chai aathyo
 
 Now, alternatively, lets do w docker-compose.yml way of what we tried to do CLI way of docker in github.com/sbibek086 
 
-![image](https://github.com/user-attachments/assets/943e01f7-a93e-4872-a451-f80adeed6ab1)
-
+![image](https://github.com/user-attachments/assets/55f68371-31ac-4127-8606-5ab17f159a51)
 
 [How does depends_on work?](https://stackoverflow.com/questions/73727944/when-depends-on-is-being-used-in-docker-compose-yml)
 
-![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
-
 ---
-by RPyi- breakdown in gpt
-![image](https://github.com/sbibek086/sbibek086.io/assets/11883023/202fe845-0d23-4264-a884-d5a282692304)
+**Doing more Grand Project than earlier, using docker-compose**
 
+So, docker-compose.yml is LHS-of-4th-pic-from-top and lets see how it compiles:
+![image](https://github.com/user-attachments/assets/19211432-a5d3-4921-a5b7-71f4993ded67)
+
+Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
+```
+from flask import Flask, request, jsonify
+import mysql.connector
+import os
+
+app = Flask(__name__)
+
+# Connect to MySQL
+def get_db_connection():
+    connection = mysql.connector.connect(
+        host=os.getenv("MYSQL_HOST", "db"),
+        user=os.getenv("MYSQL_USER", "root"),
+        password=os.getenv("MYSQL_PASSWORD", "example"),
+        database=os.getenv("MYSQL_DB", "test_db")
+    )
+    return connection
+
+# Endpoint to add a new record
+@app.route('/api/add', methods=['POST'])
+def add_record():
+    data = request.json
+    name = data.get("name")
+    
+    connection = get_db_connection()
+    cursor = connection.cursor()
+    cursor.execute("INSERT INTO users (name) VALUES (%s)", (name,))
+    connection.commit()
+    cursor.close()
+    connection.close()
+    
+    return jsonify({"message": "Record added successfully"}), 201
+
+# Endpoint to retrieve all records
+@app.route('/api/users', methods=['GET'])
+def get_users():
+    connection = get_db_connection()
+    cursor = connection.cursor()
+    cursor.execute("SELECT id, name FROM users")
+    users = [{"id": row[0], "name": row[1]} for row in cursor.fetchall()]
+    cursor.close()
+    connection.close()
+    
+    return jsonify(users)
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
+```
 ---
----
-A)![image](https://user-images.githubusercontent.com/11883023/129465953-70a13d01-e17f-4399-8774-22ab70b19f5c.png)
-What it does is- It pulls docker host of url tutum/hello-world from its port 80 and maps it to port 3000 of my local machine {-p is for portmapping }, so that after this command, when I open localhost://3000, I can look at its webpage. 
-
-Tutum/hello-world has written this fantastic code of web server inside it, which maynot be true for others.
-Take for eg, another docker host which just throws to terminal itself
-
-![image](https://user-images.githubusercontent.com/11883023/129466016-ea8a5dcd-ca41-44a0-a127-e05020c5f333.png)
+ ![image](https://github.com/user-attachments/assets/240d4d26-411d-46d4-8890-7d9f63a4109a)
 
 B) Making docker image persistent on url no matter my dockerDektop is Off:
 If I want such that -when I turn off docker, which I had to start app n run it. I mean that docker image of website always coming on URL no matter I switch off my machine, termed persistency.   If I want such, [then look here](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes)
 
 ---
+But why is docker-compose.yml (can be said more Infrastructure as code) more seeked n practical efficient than docker way
+
+![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
+
 ---
 CI/CD aka devOps from Techworld with Nana YT not rel to above
 
 ![gitActions](https://user-images.githubusercontent.com/11883023/120933150-82a62080-c718-11eb-9667-0ede1aad1b33.jpg)
 [thisYT](https://www.youtube.com/watch?v=R8_veQiYBjI) powerGist
-Open source prj are mostly agile (means there is no such thing as 100% final; there's always improvement- relate that with facebook, it improves even to this day) ,and there can be 1000+ contributors as it grows big.
+Open source prj are mostly agile (means there is no such thing as 100% final; there's always improvement ,and there can be 1000+ contributors as it grows big.
 
 So, its practically impossible to accept every pull req. (PR) code, edit with issues , check its validity(TEST), merge it etc etc. as written by Merged Code, Test, Build, Deploy in above pic. Every incoming PR to your open source repo is called EVENTS and things you do in its response (Mer., T, B, D is act of Continuous Integration/ Continuous Deployment = CI/CD) is called ACTIONS, which can be automated. Hence, the name Actions with CI/CD pipeline.
 
@@ -79,3 +122,4 @@ These all can be automated writing few lines code in .YAML file (superset of jso
 
 Mind you! Github Actions run on github server itself.
 
+---
