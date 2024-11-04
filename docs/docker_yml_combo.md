@@ -40,7 +40,7 @@ Now, alternatively, lets do w docker-compose.yml way of what we tried to do CLI 
 **Doing more Grand Project than earlier, using docker-compose**
 
 So, docker-compose.yml is LHS-of-4th-pic-from-top and lets see how it compiles:
-![image](https://github.com/user-attachments/assets/19211432-a5d3-4921-a5b7-71f4993ded67)
+![image](https://github.com/user-attachments/assets/7638cc70-33ca-4b71-a380-31fcb5b8d059)
 
 Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
 ```
