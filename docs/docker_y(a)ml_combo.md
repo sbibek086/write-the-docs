@@ -1,20 +1,17 @@
 ---
 layout: page
-title: 🐳 + y(a)ml combo
+title: 🐳
 category: Programming
 tags: [Programming] 
 ---
 
-hub.docker.com >>3.6.76. pw: 3..8 is My First GoTo when building app or sthg. Below shows WHY HOW :)
-my words- yes, doing docker way is 10step to 5step thing but need to know port mapping etc concept expertly. so not recommended unless know these.
-So, unless know, do localhost way primary way
+hub.docker.com >>3.6.76. pw: 3..8 
 
 [yo sab gareko WordpressCamp'sTut](https://www.facebook.com/mishra.aananta/videos/307497993616073)
 
 ![dockerWorkFlow](https://user-images.githubusercontent.com/11883023/209544204-48c30b20-48e6-47b5-972c-af4b98ddb45c.png)
-![dockerWFlow](https://github.com/sbibek086/write-the-docs/assets/11883023/7b4b7003-e40b-4a67-9cb3-3d9e7e18b875)
-
-![image](https://github.com/user-attachments/assets/efef7f6a-d0ba-496c-882b-ee6ed1803ecf)
+![image](https://github.com/user-attachments/assets/c19bf5b6-ca81-4e79-ad85-3dd2e729da3c)
+![image](https://github.com/user-attachments/assets/1cbe6318-c1cc-4d54-bbeb-e26aba1deb13)
 
 ```
 docker run -d -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mysite -e MYSQL_PASSWORD=password --name mysitedb -v "$PWD/database":/var/lib/mysql mysql
@@ -32,9 +29,8 @@ rakhda chai aathyo
 
 Now, alternatively, lets do w docker-compose.yml way of what we tried to do CLI way of docker in github.com/sbibek086 
 
-![image](https://github.com/user-attachments/assets/55f68371-31ac-4127-8606-5ab17f159a51)
-
-[How does depends_on work?](https://stackoverflow.com/questions/73727944/when-depends-on-is-being-used-in-docker-compose-yml)
+![image](https://github.com/user-attachments/assets/58b33a3b-db98-4347-95aa-a7143d54a951)
+![image](https://github.com/user-attachments/assets/61d23796-746d-4605-82c7-d5e9d95aaa62)
 
 ---
 **Doing more Grand Project than earlier, using docker-compose**
@@ -91,10 +87,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 ```
 ---
- ![image](https://github.com/user-attachments/assets/240d4d26-411d-46d4-8890-7d9f63a4109a)
-
-B) Making docker image persistent on url no matter my dockerDektop is Off:
-If I want such that -when I turn off docker, which I had to start app n run it. I mean that docker image of website always coming on URL no matter I switch off my machine, termed persistency.   If I want such, [then look here](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes)
+   Making docker image persistent on url -meaning I dont need to have sudo docker-compose up in my machine to come in browser, [then look here even tho I have to find another way to put sudo docker-compose up everytime ON in cloud](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes) 
 
 ---
 But why is docker-compose.yml (can be said more Infrastructure as code) more seeked n practical efficient than docker way
@@ -122,4 +115,3 @@ These all can be automated writing few lines code in .YAML file (superset of jso
 
 Mind you! Github Actions run on github server itself.
 
----
