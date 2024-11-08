@@ -39,53 +39,8 @@ So, docker-compose.yml is LHS-of-4th-pic-from-top and lets see how it compiles:
 ![image](https://github.com/user-attachments/assets/7638cc70-33ca-4b71-a380-31fcb5b8d059)
 
 Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
-```
-from flask import Flask, request, jsonify
-import mysql.connector
-import os
+![image](https://github.com/user-attachments/assets/f0ed5f60-a87c-4065-a457-ced9afeab4e7)
 
-app = Flask(__name__)
-
-# Connect to MySQL
-def get_db_connection():
-    connection = mysql.connector.connect(
-        host=os.getenv("MYSQL_HOST", "db"),
-        user=os.getenv("MYSQL_USER", "root"),
-        password=os.getenv("MYSQL_PASSWORD", "example"),
-        database=os.getenv("MYSQL_DB", "test_db")
-    )
-    return connection
-
-# Endpoint to add a new record
-@app.route('/api/add', methods=['POST'])
-def add_record():
-    data = request.json
-    name = data.get("name")
-    
-    connection = get_db_connection()
-    cursor = connection.cursor()
-    cursor.execute("INSERT INTO users (name) VALUES (%s)", (name,))
-    connection.commit()
-    cursor.close()
-    connection.close()
-    
-    return jsonify({"message": "Record added successfully"}), 201
-
-# Endpoint to retrieve all records
-@app.route('/api/users', methods=['GET'])
-def get_users():
-    connection = get_db_connection()
-    cursor = connection.cursor()
-    cursor.execute("SELECT id, name FROM users")
-    users = [{"id": row[0], "name": row[1]} for row in cursor.fetchall()]
-    cursor.close()
-    connection.close()
-    
-    return jsonify(users)
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
-```
 ---
    Making docker image persistent on url -meaning I dont need to have sudo docker-compose up in my machine to come in browser, [then look here even tho I have to find another way to put sudo docker-compose up everytime ON in cloud](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes) 
 
