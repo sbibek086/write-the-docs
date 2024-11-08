@@ -1,6 +1,6 @@
 ---
 layout: default
-title: db
+title: db, sql, schema
 category: Developer
 tags: [Developer]
 ---
@@ -31,6 +31,15 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f0a79b56-e363-46da-8c95-4f812e780554)
 
 ---
-![image](https://user-images.githubusercontent.com/11883023/217716248-a661201a-496a-4250-ac64-50d24c0c0430.png)
+![image](https://github.com/user-attachments/assets/71e38d5c-5d87-4191-990c-219d11d348b1)
+![image](https://github.com/user-attachments/assets/af681a56-314a-45c0-9a4c-c03c81b4caa7)
+![mongodb](https://github.com/user-attachments/assets/f780ba33-a361-4a70-8beb-10086768b0e1)
 
-mongoDb --  sb@g, db pw is 3.w8 without !
+---
+schema is just table metadata
+
+![image](https://github.com/user-attachments/assets/182f280d-e8df-4b46-97fd-d551a9b4782b)
+![image](https://github.com/user-attachments/assets/8dd9c615-4097-4cc3-986f-68af49b8ed68)
+
+
+
