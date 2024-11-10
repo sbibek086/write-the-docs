@@ -32,8 +32,7 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 
 ---
 ![image](https://github.com/user-attachments/assets/71e38d5c-5d87-4191-990c-219d11d348b1)
-![image](https://github.com/user-attachments/assets/af681a56-314a-45c0-9a4c-c03c81b4caa7)
-![mongodb](https://github.com/user-attachments/assets/f780ba33-a361-4a70-8beb-10086768b0e1)
+![image](https://github.com/user-attachments/assets/5fecb842-bcd5-4a4a-8796-506acf72dea3)
 
 ---
 schema is just table metadata
