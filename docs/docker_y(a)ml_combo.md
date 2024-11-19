@@ -11,12 +11,52 @@ hub.docker.com >>3.6.76. pw: 3..8
 ![image](https://github.com/user-attachments/assets/c19bf5b6-ca81-4e79-ad85-3dd2e729da3c)
 
 docker-compose.yml way as below: 
-
-![image](https://github.com/user-attachments/assets/2ab83bf4-ac89-4478-a686-151e65aa560b)
-![image](https://github.com/user-attachments/assets/61d23796-746d-4605-82c7-d5e9d95aaa62)
+![image](https://github.com/user-attachments/assets/575479b6-21b4-4804-9098-8ab07e4ee0dc)
 
 ---
 **Doing more Grand Project than earlier, using docker-compose**
+
+A.  Problems faced & debug-how:  So, when 404 error came on localhost:5000, I did  docker-compose logs app
+
+then it showed below error:
+
+```
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 497, in _make_request
+    conn.request(
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 395, in request
+    self.endheaders()
+  File "/usr/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/docker/transport/unixconn.py", line 27, in connect
+    sock.connect(self.unix_socket)
+PermissionError: [Errno 13] Permission denied
+```
+is /usr/lib/python3.12/http/client.py referring to path inside container?
+
+Chatgpt: So, /usr/lib/python3.12/http/client.py in the error message is not referring to a path inside the Docker container. It’s actually a path on your host machine (Ubuntu) where Python’s standard library files are located.
+Breakdown of the Error
+
+This error occurs because:
+
+    PermissionError: [Errno 13] Permission denied: This indicates that a process on your host (not inside the container) is trying to access a Unix socket without the necessary permissions.
+
+    Docker Unix Socket: The line sock.connect(self.unix_socket) in docker/transport/unixconn.py shows that this process is trying to connect to Docker’s Unix socket (usually located at /var/run/docker.sock). The Unix socket allows the Docker client to communicate with the Docker daemon, and the permission error means the user trying to access it doesn’t have permission to use this socket.
+
+Why This Happens in Docker Compose ? - In Docker Compose, if your application code (or some package it depends on) tries to interact with the Docker API or other Docker services, it needs permission to access the Docker socket. When running Docker commands or interacting with Docker from a process, permissions are required for /var/run/docker.sock
+
+![image](https://github.com/user-attachments/assets/5449073e-4d17-488d-962d-fb03f07948db)
+
+now, we can see above, docker-compose logs app RESULT is lot cleaner
+
+B. Then after, 
 
 So, docker-compose.yml is LHS-of-3rd-pic-from-top and lets see how it compiles:
 ![image](https://github.com/user-attachments/assets/7638cc70-33ca-4b71-a380-31fcb5b8d059)
@@ -43,7 +83,8 @@ So, its practically impossible to accept every pull req. (PR) code, edit with is
 cicd pipeline:
 
 1. Merge code by git --2.Test -- 3. Build -- 4.Deploy (I can do it thru. XAMPP to localhost but other ways too) _{amateur me understood, deploy to server is always thru xampp, which is true for php dev. But it can be facilitated entirely from packages which in turn is called by terminal scripts. Eg. Xxxxxx in create-react-app}_
- 5. Then I will push to repo
+ 
+5. Then I will push to repo
 
 These all can be automated writing few lines code in .yml
 
