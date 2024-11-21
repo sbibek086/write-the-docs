@@ -1,11 +1,11 @@
 ---
 layout: default
-title: (P)Pytest classes n main.py + ssh cloning from gitlab to localMachine
+title: (P)Pytest classes n main.py + ssh connecting, forget http downloadWay etc
 category: Software Development
 ---
-Some primer & loosely connected subcontext of testing-cohort before I begin:
+Some primer & loosely connected subcontext of testing-cohort aka confusion matrix before I begin:
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/34671341-2904-4168-b874-145bab304e92)
+![image](https://github.com/user-attachments/assets/0f70d191-4969-4486-b636-80bbd46b1091)
 
 ---
 So, today, I tried to create class.py in playwright such that another mainMightBeTest_anothername.py would call this class.py
@@ -25,19 +25,22 @@ So, here's what I did:
 First, it would terminal as 'No test ran in xxx sec'. It turned out that I slow_mo ed to little time as 2000 ms, when I changed it to little longer at 10,000 ms, browser would open long enof for whole test to actually carry out.
 
 ___
-
 Now, before all this POM thing, I wanted to test localhost files of ndrrma.yilab.org - ndrrma website which yilab contracted to build, so, I used to do w https way , its cmd would look like
 
 git clone ndrrmaGitLabRemoteRepoURL AlsoGIveUserNamePasswordOfMyGitlabWhichHasBeenAccessedNdrrmaRepo 
 
-but today, I downloaded zip and extracted- which is bad practice. Why? idc but there are strong reasons why its bad practice
+but today, I downloaded zip and extracted- which is bad practice. 
 
-So, RajanG- BE dev fren advised - why not SSH clone as its more effiient than http cloning as its better than https way.
-
-So, we did- 
+Just Secure.SHell my machine's repo (by generating that path ssh-key) n pasting it in gitlab general setting>>ssh key as below: 
 
 ![ssh](https://github.com/user-attachments/assets/db650212-e1d4-445c-9ff2-d2c6ef58d4e8)
 
+---
+not related to this problemSolving n done on another problemSolving just to show ssh connecting my linuxHome to github
+
+![image](https://github.com/user-attachments/assets/01958afc-c8d9-412d-b023-d19b36d6d095)
+
+---
 Then,
 
 ![image](https://user-images.githubusercontent.com/11883023/274696566-8615885a-4e4d-4da5-8f2a-85cdad5f3ceb.png)
