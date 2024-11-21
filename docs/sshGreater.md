@@ -1,38 +1,41 @@
 ---
 layout: default
-title: (t) SSH >>https way even when cloning git...
+title: (t) prev ssh post is ssh-ing localMachine to RepoUrl, thisPost is sshing one machine to another by ip
 category: SoftwareDev
 tags: [SoftwareDev]
+
 ---
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a3acafa4-3716-4cb8-8626-65cc01f14ada)
 
-In SSH (runs on Linux, macOS, Windows with appropriate software),
+SSH (runs on Linux, macOS, Windows with appropriate software) is:
 
--strong **authentication** methods, including password-based authentication and public key authentication, which are more secure than standard HTTP authentication mechanisms.
+a) strong **authentication** method is more secure than standard HTTP authentication mechanisms.
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0d2baa73-23ea-4430-8570-154023390893)
+![image](https://github.com/user-attachments/assets/58b636cd-6201-4654-8a7c-e3e624f8a869)
 
--cryptographic hash functions (look 1st img above carefully) to verify **integrity** of data being transmitted.
+b) cryptographic hash functions (look 1st img above carefully) to verify **integrity** of data being transmitted.
 _{btw, there are asymm style aka AES and symm style as below_
+
 ![image](https://github.com/user-attachments/assets/5cc2ae44-70d9-413f-8f8d-e9f7bbe4d28a)
 
+c) Remote Command Execution: allows for execution of commands on a remote machine, making it ideal for system administration and management tasks.
 
--Remote Command Execution: allows for execution of commands on a remote machine, making it ideal for system administration and management tasks.
+d) File Transfer: With SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol), SSH supports secure file transfers.
 
--File Transfer: With SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol), SSH supports secure file transfers.
-
--Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
+e) Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
 ```
-Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from local port to remote server.
+Local Port Forwarding aka (Standard or default understood Tunneling) : 
+Forwards traffic from local port to remote server. 
 aka Forwards local port to remote destination.
 
-Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
+Remote Port Forwarding (Reverse Tunneling): 
+Forwards traffic from a remote port to a local machine.
 aka Forwards remote port to local destination.
 ```
--Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
+f) Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
 
-- use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
+g) use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
 
 How to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
 
@@ -50,7 +53,7 @@ ssl tsl certificate works below while on ssl tsl handshake betn s and c:
 ![image](https://github.com/user-attachments/assets/462a3a5c-e4e0-45e0-bc57-1fd9a052f5ed)
 
 ---
-![ssh](https://github.com/user-attachments/assets/b0f61f4b-215f-4b45-9e96-0b6bd22e4250)
+![image](https://github.com/user-attachments/assets/3060aaca-13bf-47e4-80b5-8c2e5a3964a0)
 
 ![pem](https://github.com/user-attachments/assets/93d364e1-2929-4083-9a7a-ea5d6dff7d17)
 ![F-permission](https://github.com/user-attachments/assets/31b5d8cf-6a73-4ad0-a1fb-35f710c87646)
