@@ -61,32 +61,17 @@ B. Then after,
 So, docker-compose.yml is LHS-of-3rd-pic-from-top and lets see how it compiles:
 ![image](https://github.com/user-attachments/assets/7638cc70-33ca-4b71-a380-31fcb5b8d059)
 
-Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
+_btw, dockerfile, app.py wa index.html kunai change garepaxi tesko effect dekhna docker-compose lai down garera feri up garna pardaina, just refresh gare hunxa; for deeper changes ko effect herna chai rarely matra garnu parna sakxa,_
+
+ Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
 ![image](https://github.com/user-attachments/assets/b4f88e17-c468-49a4-a320-858e3ea8be61)
 
 ---
-   Making docker image persistent on url -meaning I dont need to have sudo docker-compose up in my machine to come in browser, [then look here even tho I have to find another way to put sudo docker-compose up everytime ON in cloud](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes) 
+  oh, btw:
+  sudo docker-compose ps   // to check if my container services are running
+  ![image](https://github.com/user-attachments/assets/2333b688-ab8f-4344-8e00-f4d0c69095a3)
 
----
-But why is docker-compose.yml (can be said more Infrastructure as code) more seeked n practical efficient than docker way
-
-![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
-
----
-CI/CD aka devOps not rel to above:
-
-![gitActions](https://user-images.githubusercontent.com/11883023/120933150-82a62080-c718-11eb-9667-0ede1aad1b33.jpg)
-
-there can be 1000+ contributors on one project as it grows big. 
-So, its practically impossible to accept every pull req. (PR) code, edit with issues , check its validity(TEST), merge it etc etc. as written by Merged Code, Test, Build, Deploy in above pic. Every incoming PR to your open source repo is called EVENTS and things you do in its response (Mer., T, B, D is act of Continuous Integration/ Continuous Deployment = CI/CD) is called ACTIONS, which can be automated. Hence, the name Actions with CI/CD pipeline, altho ci cd is superset of action.
-
-cicd pipeline:
-
-1. Merge code by git --2.Test -- 3. Build -- 4.Deploy (I can do it thru. XAMPP to localhost but other ways too) _{amateur me understood, deploy to server is always thru xampp, which is true for php dev. But it can be facilitated entirely from packages which in turn is called by terminal scripts. Eg. Xxxxxx in create-react-app}_
- 
-5. Then I will push to repo
-
-These all can be automated writing few lines code in .yml
-
-Mind you! Github Actions run on github server itself.
+   sudo docker-compose down // if only I want to stop services n remove containers
+   
+  &, Making docker image persistent on url -meaning I dont need to have sudo docker-compose up in my machine to come in browser, [then look here even tho I have to find another way to put sudo docker-compose up everytime ON in cloud](https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes) 
 
