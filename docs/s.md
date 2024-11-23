@@ -5,11 +5,6 @@ category: Economics
 tags: [Economics]
 ---
 
-consult stuffs:
-Let me write remember as much as I can. 
-so, k vanda kheri 
-![AUSukDoxStu](https://github.com/user-attachments/assets/33a5d5f0-8239-4755-a2d1-1e2100452ba6)
-
 PAPER SKILLS STRONG bana sik sik sik sik
 - euta sanstha office darta gar like kp sstrong at it
 - 
