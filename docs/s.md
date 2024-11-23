@@ -7,14 +7,9 @@ tags: [Economics]
 
 consult stuffs:
 Let me write remember as much as I can. 
-so, k vanda kheri unlike aus, uk ma chai just 25 lakh (confirm) matra student kai bank khata ma dekhaye vayo. Ani coventry uni hit chh esp given GPA 2.4 above ra eng ma B aaxa vane +2 ma. also, barista aadi siknu parxa stu le. aru thapdai ja
-
-So, Aus ma chai 60 lakh nai dekhai rana paryo until student gets admisssion, esle byaaj badi paryo
-UK ma chai 8 lakh matra dekhaye vayo.
+so, k vanda kheri 
 ![AUSukDoxStu](https://github.com/user-attachments/assets/33a5d5f0-8239-4755-a2d1-1e2100452ba6)
 
-
----
 PAPER SKILLS STRONG bana sik sik sik sik
 - euta sanstha office darta gar like kp sstrong at it
 - 
