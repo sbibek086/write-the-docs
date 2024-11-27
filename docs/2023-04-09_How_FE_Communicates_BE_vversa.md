@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How F-E communicates w B-E & vversa
+title: client ↔ server
 category: SoftwareDev
 tags: [SoftwareDev]
 ---
@@ -10,14 +10,7 @@ tags: [SoftwareDev]
 ---
 ![image](https://user-images.githubusercontent.com/11883023/204149982-9e96a0fd-e659-4d83-adcb-b93332af2aff.png)
 
-```
-HTTP HEAD method is also there but not used day to day. So dont bother about it too much. Anyway, HEAD method requests the headers that would be returned if the HEAD request's URL was instead requested with the HTTP GET method. For example, if a URL might produce a large download, a HEAD request could read its Content-Length header to check the filesize without actually downloading the file.
-```
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/440543e3-a898-4afe-bbb8-3005eb0169e0)
-
-In above double-arrows req-resp image, I thought: REQ is always in search params, apikeys AND RESPONSE is always in json. But json and other content types are just body in RESPONSE. RESPONSE also has its header.
-
-In REST APIs, request or response message has method, URL endpoint, authentication in different formats like basic, saml, encrypted aka salted aka hashed, aws keys etc (in header) & data content-type(in Body).
+![image](https://github.com/user-attachments/assets/e4f465b3-8188-41af-bd8d-3d83423c0dff)
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f538f281-a4e0-4e47-b72f-d68191ddfdb5)
 
