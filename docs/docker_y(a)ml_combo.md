@@ -64,7 +64,7 @@ So, docker-compose.yml is LHS-of-3rd-pic-from-top and lets see how it compiles:
 _btw, dockerfile, app.py wa index.html kunai change garepaxi tesko effect dekhna docker-compose lai down garera feri up garna pardaina, just refresh gare hunxa; for deeper changes ko effect herna chai rarely matra garnu parna sakxa,_
 
  Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
-![image](https://github.com/user-attachments/assets/20d1903e-a145-40f2-b916-f8d251d8e514)
+![image](https://github.com/user-attachments/assets/754bd698-2b5c-40ed-a0dc-b8d634cf3685)
 
 ---
   oh, btw:
