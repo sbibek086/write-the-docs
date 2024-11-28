@@ -28,16 +28,16 @@ If the response does not include the Content-Type header in the Access-Control-A
 The error "Request header field Content-Type is not allowed by Access-Control-Allow-Headers in preflight response" occurs because the server's CORS configuration does not explicitly permit the Content-Type header in its response to the preflight OPTIONS request.
 
 ---Breaking Down the Error---
+
 Request Header Field: The header being sent by your frontend. In this case, it's Content-Type: application/json.
 Access-Control-Allow-Headers: A response header from the backend server indicating which request headers are allowed. If Content-Type is missing here, the browser will block the request.
 
 ---How to Fix It?---
+
 You need to update your backend to explicitly allow the Content-Type header in its CORS configuration.
 
 For Flask:
-pip install flask-cors
-
-in bash if you haven't already:
+pip install flask-cors  //in bash if you haven't already:
 
 --Update your Flask app---
 ```python
