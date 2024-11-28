@@ -12,6 +12,58 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/user-attachments/assets/acb5519d-adbe-4c76-b1a0-9311a5596d35)
 
+Nightmare of Cross.Origin.Resource.Sharing (blocked) error:
+
+Why Does CORS Error Occur?
+When you make a POST request to http://localhost:5000/api/add with a Content-Type header set to application/json, the browser performs a CORS preflight request before making the actual POST request.
+
+Preflight Request is an OPTIONS request sent by the browser to the server to check if the actual request is allowed. 
+It ensures: HTTP method (POST, PUT, etc.) is permitted.
+The headers (e.g., Content-Type) used in the request are allowed.
+
+In your case:
+The browser sends an OPTIONS request to http://localhost:5000/api/add.
+The server responds to this OPTIONS request.
+If the response does not include the Content-Type header in the Access-Control-Allow-Headers response, the browser blocks the actual request.
+The error "Request header field Content-Type is not allowed by Access-Control-Allow-Headers in preflight response" occurs because the server's CORS configuration does not explicitly permit the Content-Type header in its response to the preflight OPTIONS request.
+
+---Breaking Down the Error---
+Request Header Field: The header being sent by your frontend. In this case, it's Content-Type: application/json.
+Access-Control-Allow-Headers: A response header from the backend server indicating which request headers are allowed. If Content-Type is missing here, the browser will block the request.
+
+---How to Fix It?---
+You need to update your backend to explicitly allow the Content-Type header in its CORS configuration.
+
+For Flask:
+pip install flask-cors
+
+in bash if you haven't already:
+
+--Update your Flask app---
+```python
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "*"}}, headers=["Content-Type"])
+
+@app.route('/api/add', methods=['POST'])
+def add():
+    data = request.get_json()  # Parse incoming JSON data
+    if not data or 'username' not in data:
+        return jsonify({"error": "Invalid data"}), 400
+    username = data['username']
+    # Process data (e.g., save to database)
+    return jsonify({"status": "success", "username": username}), 200
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
+```
+Explanation:
+CORS(app, resources={r"/*": {"origins": "*"}}, headers=["Content-Type"]) enables CORS for all routes (/*) and allows the Content-Type header.  
+
+---
+Tools to check or debug api
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f538f281-a4e0-4e47-b72f-d68191ddfdb5)
 
 But its much more: [PostmanTuts](https://www.youtube.com/watch?v=LafF2-k45v0)
