@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🐳
+title: `
 category: Programming
 tags: [Programming] 
 ---
