@@ -14,9 +14,10 @@ tags: [SoftwareDev]
 
 ---
 Tools to check or debug api
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f538f281-a4e0-4e47-b72f-d68191ddfdb5)
 
-![image](https://github.com/user-attachments/assets/c59b96d8-6d5c-4f49-bfed-c4d43b0b30b3)
+![image](https://github.com/user-attachments/assets/c3f478e1-8f3c-461d-8cbb-399a25f9469d)
 
 ---
 ![1672472687948](https://user-images.githubusercontent.com/11883023/235312765-84dc496e-1eea-4642-8a4a-53d9f1f1f0b9.jpg)
