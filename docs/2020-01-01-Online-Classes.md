@@ -124,6 +124,8 @@ git pull A B means pull from A to B [.](https://youtu.be/lR_hYwCAaH4?si=JIZ2LMIt
 
 ![image](https://github.com/user-attachments/assets/24eb0c28-ff86-42c6-a732-556fee8871af)
 
+![image](https://github.com/user-attachments/assets/1ef3db20-a2f5-4abc-afbf-2633bdb88996)
+
 # Bootcamp Day 3- How Tester uses git?
 
 अबको तलको प्रसङग्, मैले IT कम्पनी -YIlab मा परीक्षणकर्ता या नि की 'टेस्टर'को रूपमा काम गर्न थालेपछि लेखें। त्यसैले, यो टेस्टरको दृषटिबाट तल अनुसार गर्नुपर्छ:
