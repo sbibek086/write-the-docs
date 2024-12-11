@@ -26,9 +26,10 @@ Things that I notice, admire and try to embody from him:
 15. morphy was relevant in 18th century NOT now. now we have computer n compiler to play
     
 --
+
 ![image](https://github.com/user-attachments/assets/fc73c800-4e94-4043-a2bb-3dac5acb9395)
 
-![image](https://github.com/user-attachments/assets/a10132f5-803e-467d-a5ee-a4d19fe90d1c)
+![image](https://github.com/user-attachments/assets/4bf2da7a-aeaf-4965-bee0-81802a0dce4a)
 
     
  
