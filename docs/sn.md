@@ -23,8 +23,8 @@ Things that I notice, admire and try to embody from him:
 12. Dont be versatile for the sake of it or false sense of pride by Wow from others but bother being divergent. in his case, he studied economics too besides programming cause economics is intertwined when one sets to make such economic product.
 13. Watching other fairy tale story is just time pass. Put self arse to work n believe me, its enjoyable - knowing what I'm doing has real impact n implication. 
 14. leaving code open source leverages community input to code. *tho may unsuitmyprj
+15. morphy was relevant in 18th century NOT now. now we have computer n compiler to play
     
-
 --
 ![image](https://github.com/user-attachments/assets/fc73c800-4e94-4043-a2bb-3dac5acb9395)
 
