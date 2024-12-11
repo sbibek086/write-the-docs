@@ -16,7 +16,7 @@ Things that I notice, admire and try to embody from him:
 5. dont change language for the sake of it. he was using C++ to write all headers, libraries, not even using py. Maybe out of compulsion cause he had to write all libraries, headers as well.
 6. Stay low-key: world will ultimately have to come down to whats FUNDAMENTAL. hype is short-term. n other is I, who have to mic post when I solve little hard problem or have little more doh'.
 7. Sometimes, you solve problems for betterment of world, not for name-ego. satoshi is anonymous and will forever.
-8. whats FUNDAMENTAl? - In my case, today, I dissected X-ray'ed all request and response headers, payloads, inititators etc etc. I went down to the very cells of things- this is what I can make impact on.
+8. whats FUNDAMENTAl? - In my case, today, I dissected X-ray'ed all request and response headers, payloads, inititators etc etc. I went down to the very cells of things- this is what I can make impact on from.
 9. Being able to come up w schematics of things n then after coding accordingly is right.
 10. Boring is NOT boring- real math equation n real science journal are not blood pumping as Avengers: Infinity but it will be enjoyable, if I understand - whats important. Satoshi bothered to dust away n pick up all 1990s failed b-money papers and continually think study about it for 2 years before he actually begaan coding.
 11. He did not look for complicated solutions when simple could do the job, but he also did not avoid them, which really is the correct way of coding, thinking or even living.
