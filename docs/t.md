@@ -9,7 +9,7 @@ tags: [Cryptography]
 DipeshMan-YI robust symbol; move ahead always balancing all forces- IQ, EQ, money, time, sex
 ![image](https://github.com/user-attachments/assets/dcf67c0b-a969-4779-82da-cf9a6fdcefb1)
 
-![image](https://github.com/user-attachments/assets/7077644f-3dd7-4304-a160-405aa0f0460e) 
+![image](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
 Integrate, my midpath betn Specialize & Generalize
 
