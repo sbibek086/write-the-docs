@@ -12,7 +12,8 @@ hub.docker.com >>3.6.76. pw: 3..8
 ![image](https://github.com/user-attachments/assets/c19bf5b6-ca81-4e79-ad85-3dd2e729da3c)
 
 docker-compose.yml way as below: 
-![image](https://github.com/user-attachments/assets/575479b6-21b4-4804-9098-8ab07e4ee0dc)
+
+![image](https://github.com/user-attachments/assets/1ed007d7-da59-4b91-af69-c3ea864b20cb)
 
 ---
 **Doing more Grand Project than earlier, using docker-compose**
@@ -65,7 +66,7 @@ So, docker-compose.yml is LHS-of-3rd-pic-from-top and lets see how it compiles:
 _btw, dockerfile, app.py wa index.html kunai change garepaxi tesko effect dekhna docker-compose lai down garera feri up garna pardaina, just refresh gare hunxa; for deeper changes ko effect herna chai rarely matra garnu parna sakxa,_
 
  Then, how does app.py as client interacts w mysql server & also about how port expose is co-ordinated
-![image](https://github.com/user-attachments/assets/754bd698-2b5c-40ed-a0dc-b8d634cf3685)
+![image](https://github.com/user-attachments/assets/21689ea9-ef8d-4048-bd0f-e1d511e417c5)
 
 ---
   oh, btw:
