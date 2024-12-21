@@ -31,5 +31,28 @@ Things that I notice, admire and try to embody from him:
 
 ![image](https://github.com/user-attachments/assets/4bf2da7a-aeaf-4965-bee0-81802a0dce4a)
 
-    
- 
+---
+By default, Django looks for templates in several predefined locations:
+
+1. App-specific templates:  Django automatically looks for templates in a subdirectory named templates within each app's directory.
+eg, if our app is called blog, we would place our templates under:
+```
+myproject/
+    blog/
+        templates/
+            blog/
+                our_template.html
+```
+Each app in our project can have its own templates folder. This allows us to keep app-specific templates separate from templates used across the entire project.
+
+2. Project-level templates: Django also looks for templates in directories listed in the DIRS option of the TEMPLATES setting in settings.py.
+```
+myproject/
+    templates/
+        base.html
+        navbar.html
+        footer.html
+```
+Note: The search order matters. Django will use the first matching template it finds.
+
+![image](https://github.com/user-attachments/assets/146d1a04-ae15-4d17-8eba-9444ddef8e97) 
