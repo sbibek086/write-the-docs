@@ -29,7 +29,9 @@ Things that I notice, admire and try to embody from him:
 
 ![image](https://github.com/user-attachments/assets/fc73c800-4e94-4043-a2bb-3dac5acb9395)
 
-![image](https://github.com/user-attachments/assets/4bf2da7a-aeaf-4965-bee0-81802a0dce4a)
+![image](https://github.com/user-attachments/assets/5c0935ff-d2b4-4ad9-b388-aee030205e9c)
+
+![image](https://github.com/user-attachments/assets/640ac0d8-6ced-45bb-b997-203dbd0af089)
 
 ---
 By default, Django looks for templates in several predefined locations:
@@ -56,3 +58,5 @@ myproject/
 Note: The search order matters. Django will use the first matching template it finds.
 
 ![image](https://github.com/user-attachments/assets/146d1a04-ae15-4d17-8eba-9444ddef8e97) 
+
+
