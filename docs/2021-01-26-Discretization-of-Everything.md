@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discretization of Everything, tq Pioneer Satoshi +..
+title: ~
 category: Cryptography
 tags: [Cryptography]
 ---
