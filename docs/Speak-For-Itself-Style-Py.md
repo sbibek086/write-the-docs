@@ -3,6 +3,7 @@ layout: page
 title: Better n easier code py like this
 category: Programming
 tags: [Programming]
+
 ---
 
 **Speak-for-itself-style Py-grammar**
@@ -59,8 +60,9 @@ I have been desperately trying to delete toilet facebook and read One Book - "Pr
 Anyway, back to the point 
 
 In the heat of coding, which tests your observation, creativity, each and every concept to the T,
-I found some really pragmatic advice coming from horse doer's mouth, which I had felt but not been attentive it to arctculate myself.
+I found some really pragmatic advice coming from horse doer's mouth, which I had felt but not been attentive it to articulate myself.
 They are:
+
 ![image](https://github.com/user-attachments/assets/8a493c27-180c-4236-a427-201fc150e7e7)
 
 ---
@@ -68,10 +70,10 @@ metaclasses—the fascinating "classes of classes" that grant you remarkable con
 In the realm of Python, everything is an object, even classes themselves! When you conjure a new class, behind the scenes, Python employs a metaclass to weave its magic. The default metaclass is type, but the true power lies in your ability to create custom metaclasses, allowing you to shape and define the very framework of your classes.
 
 Meta lets you:
-🎨 Class Customization: Dynamically modify class attributes and methods, tailoring them to your needs.
-🔒 Enforcement of Constraints: Guarantee that essential conditions are met before a class springs to life (think: mandatory methods).
-📜 Automatic Registration: Eliminate manual registration by automatically signing classes up in a registry.
-📌 A Sneak Peek into Metaclasses:
+  -  Class Customization: Dynamically modify class attributes and methods, tailoring them to your needs.
+  -  Enforcement of Constraints: Guarantee that essential conditions are met before a class springs to life (think: mandatory methods).
+  -  Automatic Registration: Eliminate manual registration by automatically signing classes up in a registry.
+
 Defining a metaclass is like scripting the blueprint of your classes! Here's a delightful snippet to illustrate:
 
 ![image](https://github.com/user-attachments/assets/146dae43-8dfc-4890-8ca5-3985856c99e7)
