@@ -80,6 +80,7 @@ Defining a metaclass is like scripting the blueprint of your classes! Here's a d
 
 
 🔗 ORM: Powerful Object-Relational Mapping libraries leverage metaclasses to seamlessly link classes to database tables.
+
 🌐 Frameworks: Renowned web frameworks like Django utilize metaclasses to forge model classes and uphold business logic with ease.
 
 ---
