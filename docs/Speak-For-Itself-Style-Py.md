@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Speak-for-itself-style Py-grammar
+title: Better n easier code py like this
 category: Programming
 tags: [Programming]
 ---
+
+**Speak-for-itself-style Py-grammar**
 
 #Best viewed on widescreen comp. .. for 1 indent, ....for 2 indents
 
@@ -49,6 +51,8 @@ from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 functionWhichAncientPeopleTakes1SemToLearn(ArgumentsThatThisFuncNeeds, Arg2, SomeAdditionalControlsLikeMakeThisCalcFiniteOrInfinite= True)
 
 ---
+
+**Good-Practice Isnt Just Rules, They make your life easier later**
 
 I have been desperately trying to delete toilet facebook and read One Book - "Pragmatic Programmer". F**k all 'How to win friends CommonSense etc etc BS written by mouthers beta people' just because say someFamousPeople says he read it.
 
