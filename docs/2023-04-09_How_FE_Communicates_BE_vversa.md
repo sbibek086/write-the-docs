@@ -12,6 +12,10 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/user-attachments/assets/acb5519d-adbe-4c76-b1a0-9311a5596d35)
 
+![image](https://github.com/user-attachments/assets/3fd075cb-f99f-4335-9855-cb2970740630)
+
+API pings if data is ready from server, and then gives it to mobile app, desktop app or web app
+
 ---
 Tools to check or debug api
 
