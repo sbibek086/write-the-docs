@@ -42,7 +42,7 @@ HouseCleaningToDoThisSaturday.AliasComfortablyNamedFn.SomeImplicitAttributes
 
 ----
 
-/ * Two pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below * /
+/ *2 pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below * /
 
 from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 
@@ -50,6 +50,33 @@ functionWhichAncientPeopleTakes1SemToLearn(ArgumentsThatThisFuncNeeds, Arg2, Som
 
 ---
 
+I have been desperately trying to delete toilet facebook and read One Book - "Pragmatic Programmer". F**k all 'How to win friends CommonSense etc etc BS written by mouthers beta people' just because say someFamousPeople says he read it.
+
+Anyway, back to the point 
+
+In the heat of coding, which tests your observation, creativity, each and every concept to the T,
+I found some really pragmatic advice coming from horse doer's mouth, which I had felt but not been attentive it to arctculate myself.
+They are:
+![image](https://github.com/user-attachments/assets/8a493c27-180c-4236-a427-201fc150e7e7)
+
+---
+metaclasses—the fascinating "classes of classes" that grant you remarkable control over how classes are created and behave!
+In the realm of Python, everything is an object, even classes themselves! When you conjure a new class, behind the scenes, Python employs a metaclass to weave its magic. The default metaclass is type, but the true power lies in your ability to create custom metaclasses, allowing you to shape and define the very framework of your classes.
+
+Meta lets you:
+🎨 Class Customization: Dynamically modify class attributes and methods, tailoring them to your needs.
+🔒 Enforcement of Constraints: Guarantee that essential conditions are met before a class springs to life (think: mandatory methods).
+📜 Automatic Registration: Eliminate manual registration by automatically signing classes up in a registry.
+📌 A Sneak Peek into Metaclasses:
+Defining a metaclass is like scripting the blueprint of your classes! Here's a delightful snippet to illustrate:
+
+![image](https://github.com/user-attachments/assets/146dae43-8dfc-4890-8ca5-3985856c99e7)
+
+
+🔗 ORM: Powerful Object-Relational Mapping libraries leverage metaclasses to seamlessly link classes to database tables.
+🌐 Frameworks: Renowned web frameworks like Django utilize metaclasses to forge model classes and uphold business logic with ease.
+
+---
 Py Grammar - list, dict etc etc
 
 Think of py as somewhat like English Grammar 
