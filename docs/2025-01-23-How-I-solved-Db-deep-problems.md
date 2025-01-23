@@ -17,6 +17,7 @@ c)Under this me-User, I had earlier django_db database which was f**ked up becau
 and as in below screenshot, I created afresh virgin postgres database out of 10s-other-can-be-created databases
 
 
+docker exec -it vivekproject2_db_1 bash before psql -U , to enter inside db container
 ![image](https://github.com/user-attachments/assets/c1264ea6-1c02-4793-a137-c45af072dc55)
 
 
