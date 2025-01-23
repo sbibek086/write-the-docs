@@ -13,8 +13,9 @@ Db is collection of data while DBMS is management sys. n helps in managing n org
 DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. It also provides protection n security to db
 
  --- 
- under RDBMS comes such below tables:
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/fb76af26-25ec-4c02-b3fa-c7b156f2ce62)
+![image](https://github.com/user-attachments/assets/2a5ccf6f-3aa5-4e1d-b5b0-94abf58f6845)
+
+![image](https://github.com/user-attachments/assets/c573fe32-86b6-423f-80ce-0da46d504f05)
 
 ![image](https://github.com/user-attachments/assets/5bb92fa0-ed15-400c-8c01-3ce3f38bd9c3)
 
