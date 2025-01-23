@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Better n easier code py like this
+title: Betterify n easify coding py like this
 category: Programming
 tags: [Programming]
 
@@ -45,7 +45,7 @@ HouseCleaningToDoThisSaturday.AliasComfortablyNamedFn.SomeImplicitAttributes
 
 ----
 
-/ *2 pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below * /
+/ *2pages of derivation in 'Signals n Systems' might be in some libraries for programmers to pirate it in his program using as below * /
 
 from ThatLibraryUHunt import functionWhichAncientPeopleTakes1SemToLearn
 
@@ -55,7 +55,7 @@ functionWhichAncientPeopleTakes1SemToLearn(ArgumentsThatThisFuncNeeds, Arg2, Som
 
 **Good-Practice Isnt Just Rules, They make your life easier later**
 
-I have been desperately trying to delete toilet facebook and read One Book - "Pragmatic Programmer". F**k all 'How to win friends CommonSense etc etc BS written by mouthers beta people' just because say someFamousPeople says he read it.
+I have been desperately trying to delete f toilet and make sense of rp-links n integrate all of understanding here n there from books I started, and NOT read any new books. F**k all 'How to win friends CommonSense etc etc BS' written by mouthers beta people. Just because say someFamousPeople says he read it doesnt mean I need to, NOO, I dont need to.
 
 Anyway, back to the point 
 
