@@ -6,10 +6,17 @@ tags: [Cryptography]
 
 ---
 
-_This does not need a seperate post - I think. Infact most of the things below are old concepts in new bottle (for eg, most of the things are already in db post, and some in django), I hope I will merge this post tids bits into those posts._
-
 Problem:
-In Django, migrations let us reflect changes in models from models.py all the way deep into database table's schema.
+My problem was python manage.py makemigrations invoked by Dockerfile was failing to migrate my current dir into container, as \dt in postgresql container's psql -U django_pass -d django_db's django_pass meUser django_db further confirmed it - as I was having none of latest models.py's customuser model as migrated in tables form.
+
+So, I had to make migrations/ folder inside VivekProject2/app , and also create empty _ _init_ _.py. Thanks to one time python manage.py makemigrations, 0001_initial.py was automatica created as-a-result.  
+
+
+But the pity was - 
+![image](https://github.com/user-attachments/assets/78eb101d-d10b-4f9a-b1ea-2c6bddc15980)
+
+btw, little trivia-
+ migrations let us reflect changes in models from models.py all the way deep into database table's schema.
 done by enter of command: python manage.py makemigrations n migrate
 {in my case, I am trying to execute my command inside database container - that's why I couldn't see all that app.0001_initial, app.0002_initial (migration logs) inside migrations/ folder in app folder}
 
