@@ -35,7 +35,9 @@ So if I find that some particular thing is causing me to have stress, that’s a
 People get stress wrong all the time in my opinion. Stress doesn’t come from hard work, for example, you know you can be working incredibly hard and loving it.
 
 ---
--IsFormalEduNecessary?-  NOOO. Coming after Kishore kumar live singing bbc ONLY WHICH I WATCH, {coz singer bannu sannu xaina} but still what a phenom. I observed that altho he had no formal education in singing, why he exceled? Its because - lot of times, formal education framework has unnecessarily elements taught, so much elements which are not organs to actual components of WHAT MAKES THINGS WORK, but are just there for academic inheritance and passing of knowledge bodies. For eg, I got ielts R 9 once I dared to quit all Masters in Education Classes and just resort to my intelligence of problem solving. Yes, that simultaneous attack all, I didnt learn from another but came up on my own. So, extrapolating similar reasoning, Kishore Da tho didnt formally train, he accumulated all those playback singing element - doing justice to words from soul, at same time justifying each music beat - all integrating- LETS NOT FORGET, he justifies each word from soul, adjust every word rhyme pitch etc in accordance to each beat. No unnecessary element forced upon as academic formal educationality ,and it fact it gave room for his brain understanding observation to other subtle elements like pumping soul to every words beat. So, didnt he have fundamental of lyrics structure, didnt he have fundamental of music octave structure? of course, he had from hither tither guidance mentoring from 'O nadi re' singer guru BUT EDGE FACTOR he could understand - that singing from soul justifying beats words, which formal trained werent trained - THAAT he infused from common sense observation standing on solid fundamentals. BUT I had none to be playback singing but I will integrate similarly on acting and writing JUST like sylvester did {even SLY had no formal university training on script writing!} those who do not understand all those INSIDE INTRICACIES but just feel difference in output, they call it MAGIC done by MAGICIAN.
+-IsFormalEduNecessary?-  NOOO. Coming after Kishore kumar live singing bbc ONLY WHICH I WATCH, {coz singer bannu sannu xaina} but still what a phenom. I observed that altho he had no formal education in singing, why he exceled? Its because - lot of times, formal education framework has unnecessarily elements taught, so much elements which are not organs to actual components of WHAT MAKES THINGS WORK, but are just there for academic inheritance and passing of knowledge bodies. For eg, I got ielts R 9 once I dared to quit all Masters in Education Classes and just resort to my intelligence of problem solving. Yes, that simultaneous attack all, I didnt learn from another but came up on my own. 
+
+So, extrapolating similar reasoning, Kishore Da tho didnt formally train, he accumulated all those playback singing element - doing justice to words from soul, at same time justifying each music beat - all integrating- LETS NOT FORGET, he justifies each word from soul, adjust every word rhyme pitch etc in accordance to each beat. No unnecessary element forced upon as academic formal educationality ,and it fact it gave room for his brain understanding observation to other subtle elements like pumping soul to every words beat. So, didnt he have fundamental of lyrics structure, didnt he have fundamental of music octave structure? of course, he had from hither tither guidance mentoring from 'O nadi re' singer guru BUT EDGE FACTOR he could understand - that singing from soul justifying beats words, which formal trained werent trained - THAAT he infused from common sense observation standing on solid fundamentals. BUT I had none to be playback singing but I will integrate similarly on my all work - what may come before} those who do not understand all those INSIDE INTRICACIES but just feel difference in output, they call it MAGIC done by MAGICIAN.
 
 ---
 Art of BigMoneyPulling Negotiation- 10 lakh chahinxa vane 1crore bata deal suru gar: also susma karki le kina dhaak lauxe ta lakh ko shopping ko, ta ki 40,000 vaye ni pay garxa ni t uslai :: BIG MONY kunai euta garera fodna sakiyo vane arko ta xod de na, mero dimaag dahi vaaxa eso garera, I have to leave one.
@@ -50,6 +52,21 @@ Getting inspired from right person is always good but there is a thin line. When
 ---
 RELATIONSHIP
 if I have to sugarcoat relationship eg when I have to talk or m talking, then it is just indirect hint that that relationship is bitter one surface scratch below. DONT STAND ON SUCH thin ice relation, I can plunge down on its bitter below anytime. - BEWARE OF all red flags when entering relationship- dont CONSIDER IT ok etti ko red flag kehi ni hudaina vanera, cut silently. 
+
+CONFLICT - PROACTIVELY DEFUSE IT BEFORE IT BECOMES B  I   G
+Contlict resolution is one of the biggest soft life skills I realized. In a small world where one has to co-exist with people of different ideologies, nature aka personalities, different horoscopes, realizing potential-to-come conflict early on, and doing something about it --either defuse it or just walk away without letting other know that you walk away is tricky but damn necessary so that such situations wont come when almost headaches come in the morning when one realizes that one has to meet the other, and there can be nothing done to avoid it. Infact this is the dilemma when anything you do - either meet that person or not, will just make relationship sour to one next level.
+
+I found some interesting piece below:
+
+![image](https://github.com/user-attachments/assets/54173006-4938-41e4-8c80-8244595f63cf)
+
+![image](https://github.com/user-attachments/assets/e2515bf4-32b6-446d-9913-45c59e1703ef)
+
+![image](https://github.com/user-attachments/assets/bae32b61-7f08-4440-afba-8cf09261e3b7)
+ 
+![image](https://github.com/user-attachments/assets/43c87766-8493-4517-92cc-7bf99c503bbe)
+
+
 
 ---
 mistake w BJ dai. I overpitched. Then there was this moment when I was cashing out w BIkash dai, I should have tehn cashed out but I pur hold on ok, I have to wait for sometime n then m raadi ko xora sanga fase.
