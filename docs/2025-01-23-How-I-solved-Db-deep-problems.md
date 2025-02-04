@@ -7,7 +7,7 @@ tags: [Programming]
 ---
 
 Problem:
-My problem was python manage.py makemigrations invoked by Dockerfile was failing to migrate my current dir into container, as \dt in postgresql container's psql -U django_pass -d django_db's django_pass meUser django_db further confirmed it - as I was having none of latest models.py's customuser model as migrated in tables form.
+My problem was python manage.py makemigrations invoked by Dockerfile was failing to migrate my current dir into container, as \dt in postgresql container after psql -U django_pass -d django_db {where django_pass is meUserName n django_db is db-Name} further confirmed it - as I was having none of latest models.py's customuser model as migrated in tables form.
 
 So, I had to make migrations/ folder inside VivekProject2/app , and also create empty _ _init_ _.py. Thanks to one time python manage.py makemigrations, 0001_initial.py was automatica created as-a-result.  
 
