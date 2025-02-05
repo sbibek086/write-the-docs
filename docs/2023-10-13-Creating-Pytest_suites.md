@@ -38,7 +38,7 @@ Just Secure.SHell my machine's repo (by generating that path ssh-key) n pasting 
 ---
 not related to this problemSolving n done on another problemSolving just to show ssh connecting my linuxHome to github
 
-![image](https://github.com/user-attachments/assets/01958afc-c8d9-412d-b023-d19b36d6d095)
+![image](https://github.com/user-attachments/assets/11fa473e-4f11-45d5-8799-7457b8fd4773)
 
 ---
 Then,
