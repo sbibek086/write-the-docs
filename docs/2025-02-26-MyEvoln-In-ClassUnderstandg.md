@@ -24,7 +24,7 @@ Anyway, context now here is in django language:
 In above, now that I have created CustomUser, there are limitless possibilities just like in English language, after you write Alex, you can go to V O language or is Adj format- its upto me.
 
 Anyway, after CustomUser is created, I can go:
-
+```
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     ROLE_CHOICES = [
@@ -32,7 +32,7 @@ class Profile(models.Model):
         ('Manager', 'Manager'),
     ]
     role = models.CharField(max_length=20, choices=ROLE_CHOICES, default='Customer')
-
+```
 
 sothat I can then access role via the Profile as below:
 role = user.profile.role
