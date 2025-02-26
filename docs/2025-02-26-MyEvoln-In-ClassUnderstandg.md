@@ -27,6 +27,7 @@ Anyway, after CustomUser is created, I can go:
 ```
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
+    # ya oneToOneField laako chai Account ka sabai fields UserProfile ma satta tanna ho. 1to1 field ka more useCase lai gpt
     ROLE_CHOICES = [
         ('Customer', 'Customer'),
         ('Manager', 'Manager'),
@@ -149,8 +150,7 @@ class Account(AbstractBaseUser):
         return True
 
 class UserProfile(models.Model):
-    user = models.OneToOneField(Account, on_delete = models.CASCADE)
-    # ya oneToOneField laako chai Account ka sabai fields UserProfile ma satta tanna ho. 1to1 field ka more useCase lai gpt
+    user = models.OneToOneField(Account, on_delete = models.CASCADE)    
     address_line_1 = models.CharField(max_length=100, blank=True)
     address_line_2 = models.CharField(max_length=100, blank=True)
     profile_pics = models.ImageField(blank=True, upload_to='pics/profile_pics')
