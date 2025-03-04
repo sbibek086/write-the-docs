@@ -4,17 +4,6 @@ title: (T) Evolution In my understanding of classes
 category: Software Development
 
 ---
-A.
-
-(No need to read this) Back to C++ BE-days, where I had understanding that class is what you create when you have to codify staff persona.
-
-OOP4pillars img below:
-
-![image](https://github.com/user-attachments/assets/19cc0d28-ce51-42ec-85a2-00615acb5a86)
-
-Idiot me! -It was just example of real life so that we can relate easily. Classes are used in all sorts of core files development, like if we have to inherit parent driver classes to more specific childs
-
----
 B.
 
 Anyway, context now here is in django language:
@@ -164,6 +153,19 @@ class UserProfile(models.Model):
     def full_address(self):
         return f'{self.address_line_1} {address_line_2}'
 ```
+
+---
+A.
+
+(you can skip this) Back to C++ BE-days, where I had understanding that class is what you create when you have to codify staff persona.
+
+OOP4pillars img below:
+
+![image](https://github.com/user-attachments/assets/19cc0d28-ce51-42ec-85a2-00615acb5a86)
+
+Idiot me! -It was just example of real life so that we can relate easily. Classes are used in all sorts of core files development, like if we have to inherit parent driver classes to more specific childs
+
+---
 
 
 
