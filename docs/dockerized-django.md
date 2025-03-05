@@ -100,6 +100,7 @@ To find what files are generated inside the <app_container>
 
 ----
 docker exec -it vivekproject2_web_1 python manage.py makemigrations  #NOTICE GAR web ma ho, db ma haina
+
 docker exec -it vivekproject2_web_1 python manage.py migrate 
 #le models.py ma va lai database ma actual table haru banaidini ho
 
