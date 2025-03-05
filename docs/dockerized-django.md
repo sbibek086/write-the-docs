@@ -60,7 +60,7 @@ B. Then after,
 So, docker-compose.yml is LHS-of-3rd-pic-from-top and lets see how it compiles:
 ![image](https://github.com/user-attachments/assets/7638cc70-33ca-4b71-a380-31fcb5b8d059)
 
-yei mathi ko fig lai ramrari heryo vane, yo blog-post ko sab vanda tala ko schematic dgm ta bujhihalxa ni, 
+yei mathi ko fig lai ramrari herema yo blog-post ko sabse tala ko schematicDgm le ni bujhauna nasalne kura bujhaux, schemticDgm bullshit hernai pardaina!
 
 _btw, dockerfile, app.py wa index.html kunai change garepaxi tesko effect dekhna docker-compose lai down garera feri up garna pardaina, just refresh gare hunxa; for deeper changes ko effect herna chai rarely matra garnu parna sakxa,_
 
