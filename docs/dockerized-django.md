@@ -90,7 +90,7 @@ there I have to:  psql -U django_user -d django_db
 
 then comes django_db=#,
 
-![sssss](https://gist.github.com/user-attachments/assets/fa4dcd94-a37d-4de5-8b09-4fb721c89f2e)
+![image](https://github.com/user-attachments/assets/f5bfd473-3a98-49e8-a0c3-fee90ce73a77)
 
 \q from exiting from postgresql-inside
 
