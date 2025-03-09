@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I solved postgres Container deep problem
+title: InconsistentMigrationHistory Problem in Postgres DockerContainer how2solve
 category: Programming
 tags: [Programming]
 
