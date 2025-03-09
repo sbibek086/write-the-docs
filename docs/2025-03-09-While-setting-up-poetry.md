@@ -59,8 +59,8 @@ while installing postgres locally on my machine:
 ![image](https://github.com/user-attachments/assets/5a2409ea-7ec8-4dda-b7a5-49c6eb08f3f3)
 
 ---
-.gitignore as below:
-
+.gitignore as below so as to not put these devOps file to git:
+```
 # Virtual environments
 myenv/
 
@@ -98,7 +98,7 @@ wheels/
 # IDE specific files
 .vscode/
 .idea/
-
+```
 
 
 
