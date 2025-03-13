@@ -1,10 +1,12 @@
 ---
 layout: default
-title: 🔥 setting up poetry +.env & .gitinoring it + Dbeaver(db client)+ vscode syncing these envConfiguration 
+title: 🔥 setting up poetry&.env n .gitinoring it + Dbeaver(db client)+ vscode syncing these envConfiguration 
 category: Programming
 tags: [Programming]
 
 ---
+
+recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
 _these below screenshots are continuation while prooblem-solving one after another:_
 
