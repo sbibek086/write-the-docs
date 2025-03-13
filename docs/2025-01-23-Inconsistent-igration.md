@@ -23,22 +23,23 @@ done by enter of command: python manage.py makemigrations n migrate
 THIS ALL ARE MY SPECULATION, might not be true
 now comes admin.0001_initial.
 
-Since admin.0001_initial depends on app.0001_initial, and since most of the times generating up-to-date version of latest
+Since admin.0001_initial depends on app.0001_initial, and since most of the times 
+generating up-to-date version of latest
 
-app.000x_initial happens under the hood {If we think carefully, then we can infer: auth.000x_initial latest version is 
-
-auto-generated w every latest app.000x_initial in order to keep up with the changes and make sure every such tables - of app.000x,
-
-admin.000x,.. are in sync}
+app.000x_initial happens under the hood {If we think carefully, then we can infer:
+auth.000x_initial latest version is auto-generated w every latest 
+app.000x_initial in order to keep up with the changes and make sure 
+every such tables - of app.000x,admin.000x,.. are in sync}
 
 Now problem would obviously occur if I forcefully reset only:
 python manage.py migrate zero 
 because I INFER THAT
-this command has ONLY reset app.0001_initial all the way to initial state
+this cmd has ONLY reset app.0001_initial all the way to initial state
 
 and other like admin.0001_initial are still on earlier latest version.
 
-So, I SENSE that I have to reset back admin.0001_initial all the way to initial state.
+So, I SENSE that I have to reset back admin.0001_initial 
+all the way to initial state.
 ```
 
 I think this explains below error:
