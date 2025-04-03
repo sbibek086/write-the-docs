@@ -25,6 +25,9 @@ So, here's what I did:
 
 First, it would terminal as 'No test ran in xxx sec'. It turned out that I slow_mo ed to little time as 2000 ms, when I changed it to little longer at 10,000 ms, browser would open long enof for whole test to actually carry out.
 
+Some more pytest-Codes below:
+<script src="https://gist.github.com/AWScommunity/f6bfb504275e143955701118f08aa34f.js"></script>
+
 ___
 C. Now, before all this POM thing, I wanted to test localhost files of ndrrma.yilab.org - ndrrma website which yilab contracted to build, so, I used to do w https way , its cmd would look like
 
