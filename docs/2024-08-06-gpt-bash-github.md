@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Gpt; Bash; githubGUI
-category: Cryptography
-tags: [Cryptography]
+category: Software
+tags: [Software]
 
 ---
 gpt:
@@ -47,29 +47,27 @@ The big new features are sub-issues, issue types and boolean operators in search
 
 Sub-issues look to be a more robust formalization of the existing feature where you could create a - [ ] #123 Markdown list of issues in the issue description to relate issue together and track a 3/5 progress bar. There are now explicit buttons for creating a sub-issue and managing the parent relationship of such, and clicking a sub-issue opens it in a side panel on top of the parent.
 
-Issue types took me a moment to track down: it turns out they are an organization level feature, so they won't show up on repos that belong to a specific user.
+Issue turn out to be organization level feature, so they won't show up on repos that belong to a specific user.
 
 Organizations can define issue types that will be available across all of their repos. I created a "Research" one to classify research tasks, joining the default task, bug and feature types.
 
 Unlike labels an issue can have just one issue type. You can then search for all issues of a specific type across an entire organization using org:datasette type:"Research" in GitHub search.
 
-The new boolean logic in GitHub search looks like it could be really useful - it includes AND, OR and parenthesis for grouping.
-
+```
+u can search in github as below:
 (type:"Bug" AND assignee:octocat) OR (type:"Enhancement" AND assignee:hubot)
-
+```
 b) Github CodeSpaces:
-
-codespace shortcuts: 
 
 Ctr Shift ` for bringing terminal; 
 
 Ctrl shift F for finding code across multiple files in repo. 
 
-my codespace setting loggedIn by my ghub, ie. my codespace settings belong to my github, so if i sync, then its setting is reflected to no matter other newly created codespaces.  
+_my codespace setting loggedIn by my ghub, ie. my codespace settings belong to my github, so if i sync, then its setting is reflected to no matter other newly created codespaces._  
 
 quoted: Idea of using generative AI for autocomplete in a text editor is a really significant innovation, and is still my favorite example of a non-chat UI for interacting with models.
 
-Copilot evolved a lot over the past few years, most notably through the addition of Copilot Chat, a chat interface directly in VS Code. I've only recently started adopting that myself - the ability to add files into the context (a feature that I believe was first shipped by Cursor) means you can ask questions directly of your code. It can also perform prompt-driven rewrites, previewing changes before you click to approve them and apply them to the project.
+Copilot can perform prompt-driven rewrites, previewing changes before you click to approve them and apply them to the project.
 
 Today's announcement of a permanent free tier (as opposed to a trial) for anyone with a GitHub account is clearly designed to encourage people to upgrade to a full subscription. Free users get 2,000 code completions and 50 chat messages per month, with the option of switching between GPT-4o or Claude 3.5 Sonnet.
 
