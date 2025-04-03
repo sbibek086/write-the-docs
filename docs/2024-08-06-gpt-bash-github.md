@@ -55,22 +55,3 @@ u can search in github as below:
 
 Ctrl shift F for finding code across multiple files in repo. 
 ```
-
-
-c)  i can use generative AI for autocomplete in a text editor <- this is one eg ofnon-chat UI for interacting w models.
-
-Copilot can perform prompt-driven rewrites, previewing changes before you click to approve them and apply them to the project.
-
-Today's announcement of a permanent free tier (as opposed to a trial) for anyone with a GitHub account is clearly designed to encourage people to upgrade to a full subscription. Free users get 2,000 code completions and 50 chat messages per month, with the option of switching between GPT-4o or Claude 3.5 Sonnet.
-
-I've been using Copilot for free thanks to their open source maintainer program for a while, which is still in effect today:
-
-_People who maintain popular open source projects receive a credit to have 12 months of GitHub Copilot access for free. A maintainer of a popular open source project is defined as someone who has write or admin access to one or more of the most popular open source projects on GitHub. [...] Once awarded, if you are still a maintainer of a popular open source project when your initial 12 months subscription expires then you will be able to renew your subscription for free._
-
-It wasn't instantly obvious to me how to switch models. The option for that is next to the chat input window here, though you may need to enable Sonnet in the Copilot Settings GitHub web UI first:
-
-![image](https://github.com/user-attachments/assets/61dc9559-6591-491a-933a-ca12c3c5b818)
-
-
-
-
