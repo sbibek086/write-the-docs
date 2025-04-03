@@ -104,10 +104,22 @@ Once I’ve completed the initial research I change modes dramatically. For prod
 Here’s a recent example:
 
 Prompt I wrote:
+
 Write a Python function that uses asyncio httpx with this signature:
+
 async def download_db(url, max_size_bytes=5 * 1025 * 1025): -> pathlib.Path
 
-Given a URL, this downloads the database to a temp directory and returns a path to it. BUT it checks the content length header at the start of streaming back that data and, if it’s more than the limit, raises an error. When the download finishes it uses sqlite3.connect(...) and then runs a PRAGMA quick_check to confirm the SQLite data is valid—raising an error if not. Finally, if the content length header lies to us— if it says 2MB but we download 3MB—we get an error raised as soon as we notice that problem.
+Given a URL, this downloads the database to a temp directory and returns a path to it. 
+
+BUT it checks the content length header at the start of streaming back that data 
+
+and, if it’s more than the limit, raises an error. 
+
+When the download finishes it uses sqlite3.connect(...) and then runs a PRAGMA quick_check 
+
+to confirm the SQLite data is valid—raising an error if not. 
+
+Finally, if the content length header lies to us— if it says 2MB but we download 3MB—we get an error raised as soon as we notice that problem.
 ```
 
 I could write this function myself, but it' d take me 15min to look up all of details and get the code working right. Claude knocked it out in [15 seconds.](https://gist.github.com/simonw/5aed8bd87016c77465c23e0dc4563ec9)
