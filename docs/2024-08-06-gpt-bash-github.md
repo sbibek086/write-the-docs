@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gpt; Bash; githubGUI
+title: Gpt; Bash; githubGUI n copilot
 category: Software
 tags: [Software]
 
@@ -16,12 +16,16 @@ _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby c
 ---
 Bash where possible:
 it doesnt always have to be npm docker pip that we install globally on computer.
-it can be VivekAwesomePkgs or even ElasticSearchPkgs- why not ?
-One of the whole OSS enthusiasm is also about bringing up with new elegant packages.
-btw, novice download softwares, or use SaaS. CHADS just install new packages from vscode terminal or simply linux terminal aka bash.
-I remember why Brad Traversy just install new pkgs in terminal. and his Equivalent to Windowers Start menu was just terminal with customised pow commands.
-it was roughly like :
 
+it can be VivekAwesomePkgs or even ElasticSearchPkgs- why not ?
+
+One of the whole OSS enthusiasm is also about bringing up with new elegant packages.
+
+btw, novice download softwares, or use SaaS. CHADS just install new packages from vscode terminal or simply linux terminal aka bash.
+
+I remember why Brad Traversy just install new pkgs in terminal. and his Equivalent to Windowers Start menu was just terminal with customised pow commands.
+
+it was roughly like :
 BradsAwesomePkgs run Open6TabsAtOnce or BradsAwesomePkgs start Antivirus
 
 similar to we do:
@@ -30,18 +34,10 @@ npm install -g AwesomeNPMpkgs   or  npm start server or npm install for bootstra
 
 or  curl whatWhat whatwhat  or gweth (btw it's ethereumPackages) createWallet
 
-or  pip(btw it's Python's) 
-
-EVEN AM just merges from bash.
-
 ---
 Github GUI:
 
-Github POWs:
-
-a) Sub-issues now in Issues:
-
-quoted:  GitHub just shipped the largest set of changes to GitHub Issues. As an Issues power-user this is directly relevant to me.
+a) Sub-issues now in Issues: github just shipped the largest set of changes to GitHub Issues. As an Issues power-user this is directly relevant to me.
 
 The big new features are sub-issues, issue types and boolean operators in search.
 
@@ -56,16 +52,12 @@ Unlike labels an issue can have just one issue type. You can then search for all
 ```
 u can search in github as below:
 (type:"Bug" AND assignee:octocat) OR (type:"Enhancement" AND assignee:hubot)
-```
-b) Github CodeSpaces:
-
-Ctr Shift ` for bringing terminal; 
 
 Ctrl shift F for finding code across multiple files in repo. 
+```
 
-_my codespace setting loggedIn by my ghub, ie. my codespace settings belong to my github, so if i sync, then its setting is reflected to no matter other newly created codespaces._  
 
-quoted: Idea of using generative AI for autocomplete in a text editor is a really significant innovation, and is still my favorite example of a non-chat UI for interacting with models.
+c)  i can use generative AI for autocomplete in a text editor <- this is one eg ofnon-chat UI for interacting w models.
 
 Copilot can perform prompt-driven rewrites, previewing changes before you click to approve them and apply them to the project.
 
