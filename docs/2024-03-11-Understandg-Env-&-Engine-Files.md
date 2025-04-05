@@ -25,6 +25,10 @@ When you run a Python script, the Python interpreter is loaded, along with any n
 db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay lai loading runtime data vanxa- aru context ma ni estai estai, kunai bela config file load hunu parla.
 
  dherai curious cat scientist nabana, etti bujha, sakyo kura
+
+---
+more debian aka OS/non-debian aka non-Os package confusion shit taken care by PEP-IforgotNumberWhoCares
+![image](https://github.com/user-attachments/assets/00316785-577a-457e-a0e2-90022de1f5c2)
  
 ---
 ![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
