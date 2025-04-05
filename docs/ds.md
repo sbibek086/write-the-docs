@@ -1,15 +1,21 @@
 ---
 layout: page
-title:  my DataSci Code
+title:  ~
 category: Health
 tags: [Health]
 
 ---
- 
-yo vanda mathi ko code vaag ya upload garnu chh, ra yehi bata list haru daang duung bujh + one of colab notes, kera jasto list ko theory hernu pardaina internet aru thau ma 
+ ![image](https://github.com/user-attachments/assets/6fb5b18a-2d0f-49fa-a884-2c44fcddfd9c)
+ ![image](https://github.com/user-attachments/assets/bab4c3c0-ecb7-4a6f-ab13-b6ed103d77c4)
+ ![image](https://github.com/user-attachments/assets/b4c6b0a9-f5cd-4995-a2a7-0ebfff3d1035)
 
-![image](https://github.com/user-attachments/assets/8da24229-055e-4e74-88e8-bad27b71386e)
+ yehi bata list haru daang duung bujh + one of colab notes
 
+![image](https://github.com/user-attachments/assets/712129c5-f5b5-42bb-a2da-fb36966ca684)
+![image](https://github.com/user-attachments/assets/5325c610-3f2e-4ef2-8272-6102b436e27c)
+![image](https://github.com/user-attachments/assets/6c67794b-b538-40e3-b7e7-6a80c3e6150f)
+
+Continues to main pgm, now starting from below:
 ![image](https://github.com/user-attachments/assets/85950af8-0ae3-4138-9fc8-5452f9e14e16)
 
 ![image](https://github.com/user-attachments/assets/5de939e3-5b3a-4071-b6db-3ed4bb771c76)
