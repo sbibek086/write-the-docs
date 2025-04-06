@@ -12,9 +12,7 @@ _these below screenshots are continuation while prooblem-solving one after anoth
 
 ![image](https://github.com/user-attachments/assets/9823bee9-6fda-4384-9735-a57f1e5a8ee7)
 
-![image](https://github.com/user-attachments/assets/a902fb24-d327-40ea-8ac4-0d9783abf090)
-
-![image](https://github.com/user-attachments/assets/ff1ec1f9-fe05-4157-8c98-13fa939431f8)
+![image](https://github.com/user-attachments/assets/105223de-45af-46f4-9328-cdc2463af275)
 
 ![image](https://github.com/user-attachments/assets/14731059-3338-4504-8f9f-d7c05d05ab3e)
 
