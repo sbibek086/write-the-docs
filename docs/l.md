@@ -27,6 +27,7 @@ I could be better by below:
 
 ![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
+![image](https://github.com/user-attachments/assets/50e0b22b-3ded-4345-b154-693d632ab7f6)
 JB:
 Stress primarily comes from not taking action over something that you can have some control over.
 
@@ -40,8 +41,7 @@ People get stress wrong all the time in my opinion. Stress doesn’t come from h
 So, extrapolating similar reasoning, Kishore Da tho didnt formally train, he accumulated all those playback singing element - doing justice to words from soul, at same time justifying each music beat - all integrating- LETS NOT FORGET, he justifies each word from soul, adjust every word rhyme pitch etc in accordance to each beat. No unnecessary element forced upon as academic formal educationality ,and it fact it gave room for his brain understanding observation to other subtle elements like pumping soul to every words beat. So, didnt he have fundamental of lyrics structure, didnt he have fundamental of music octave structure? of course, he had from hither tither guidance mentoring from 'O nadi re' singer guru BUT EDGE FACTOR he could understand - that singing from soul justifying beats words, which formal trained werent trained - THAAT he infused from common sense observation standing on solid fundamentals. BUT I had none to be playback singing but I will integrate similarly on my all work - what may come before} those who do not understand all those INSIDE INTRICACIES but just feel difference in output, they call it MAGIC done by MAGICIAN.
 
 ---
-Art of BigMoneyPulling Negotiation- 10 lakh chahinxa vane 1crore bata deal suru gar: also susma karki le kina dhaak lauxe ta lakh ko shopping ko, ta ki 40,000 vaye ni pay garxa ni t uslai :: BIG MONY kunai euta garera fodna sakiyo vane arko ta xod de na, mero dimaag dahi vaaxa eso garera, I have to leave one.
-READ - The psychology of Money
+BIG MONY kunai euta - either acting or IT garera fodna sakiyo vane arko ta xod de na, mero dimaag dahi vaaxa eso garera, I have to leave one.
 
 Getting inspired from right person is always good but there is a thin line. When we get inspired too much, rather than focusing on ourselves on own challenges, we have background focus on them not own. and the moment that background becomes dominant on ourselves and challenges we are solving, we mess up. It should always be-we and problems tasks we are doing.
 
@@ -65,8 +65,6 @@ I found some interesting piece below:
 ![image](https://github.com/user-attachments/assets/bae32b61-7f08-4440-afba-8cf09261e3b7)
  
 ![image](https://github.com/user-attachments/assets/43c87766-8493-4517-92cc-7bf99c503bbe)
-
-
 
 ---
 mistake w BJ dai. I overpitched. Then there was this moment when I was cashing out w BIkash dai, I should have tehn cashed out but I pur hold on ok, I have to wait for sometime n then m raadi ko xora sanga fase.
