@@ -27,7 +27,8 @@ I could be better by below:
 
 ![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
-![image](https://github.com/user-attachments/assets/50e0b22b-3ded-4345-b154-693d632ab7f6)
+![image](https://github.com/user-attachments/assets/ac9cd9fc-6c3a-410f-9445-f267be24f88b)
+
 JB:
 Stress primarily comes from not taking action over something that you can have some control over.
 
