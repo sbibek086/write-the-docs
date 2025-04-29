@@ -12,35 +12,7 @@ GO TO https://withdrawalfees.com/coins/ethereum =gist=> withdraw okx.com but min
 
 steemit.com/@cryptonauthop
 
-ALL CRYPTO NATIVE WALLETS
-secret seed of coinbase: chcdwwjqoq3csyep
-0x075e72a5eDf65F0A5f44699c7654C1a76941Ddc8 is my pulsex.info sacrifice add
-
-KEPLR WALLET
-seedphr for keplr: opinion remind solve pool recycle okay prosper deny front truly adult oval
-Vivek Ranjan : pw: 37woLF!68
-
-MY NEW UNHACKED METAMASK add: 0x35714fBF8c3b993363a27a8edb04aa39cB28b8d7
-shine series voice front various mom vivid language random curve reduce essence
-37W..@68
-da1d37a88fcdc17514b0ce21cc788b7ac6943ad30d5d224c6be1515584eaa3f4 is priv key
-
-RANJAN's metamask
-come aisle pretty mutual olympic truly flame spin obvious carpet kind daughter
-@38jan!48
-
-=====MY OLDEN HACKED METAMASK add: 0x79 ====
-farm friend couple buddy shove know page law arena country combine word
-cabaab978bb07d638d0188ef2f47b6d8d8cd61762434cbaeed2df3e23d0a8454 is my priv key
-addr is 0x798ea9aba657240102160fca7b4d467c39674d9b
-37W..@68
-
-reddit log ViVidZaa 3..8
-textnowCOM login by sbibek086@g {use security keys offline, if most necc. NOT sms/mobile auth} ;stackexchangeCOM mediumCOM meetupCOM T..View
-||samajik surakxya no. 186371697 
-
 ===
-
 SOCIAL MEDIAS
 linkedin sb@g 37W.683.8 login to acloudguru
 facebook- sb@g r.T.1!
@@ -49,23 +21,24 @@ crowdcast.io login with cry..@gmail 37W..8
 discordCOM cr..@g 3..8 or ..3 
 hunter extension searching email log y sbibe..@g
 bitbucket sign in with sbib.@g
+reddit log ViVidZaa 3..8
+textnowCOM login by sb@g {use security keys offline, if most necc. NOT sms/mobile auth} ;stackexchangeCOM mediumCOM meetupCOM 
 
 CRYPTO EXCHANGE CEX
-app.tankr.com cry..@g 37woL..8
+app.tankr.com cry..@g 3.woL..8
 hotbit crypton..@g 3..W..@82  
 coinmarketcap.com cryp.@g 3..83..8
 coinbase bib..@g 3..3
 remitly bi..it@g 3.w.8  (I dont use due to my US number not being able to receive code by textnow issue. So I now use
 remitly sbibek086@g 3..w..8 )
 
-bitfinex sbibek086 3..8
 mexc.com cry..@g 3w83w8
 
-okex.com cry..@g 37woLF!68
-fund prot 37WOlf!84 or 37woLF!84
+okex.com cry..@g 37w.L.!68
+fund prot 37W...!84 or 37w.L.!84
 
-gate.io cry..@g 37woLF!68
-fund prot 37WOlf!84 
+gate.io cry..@g 37w.!68
+fund prot 37W.!84 
 ![image](https://user-images.githubusercontent.com/11883023/132118308-54b5ac79-75e2-4bbe-952a-97eabbc46b07.png)
 ztb.im & ftx.com more provides for solana alternate to eth , ecosys coins >> cry..@g 3.wF!8; fund prot 37W!84
 earni.fi cry..@g 3.w..8
@@ -73,6 +46,7 @@ earni.fi cry..@g 3.w..8
 binance sb@g 3w83w8
 binanc userid 908260
 and binanc g auth key in case i lost my fon is DYRPF3K5ZL7JOQWW
+paypal sb@g 3w83w8
 
 esew pow 3w83w8
 
@@ -122,5 +96,5 @@ turbokar-> sbibek086 Floridabeach1!
 Wells Fargo bshrestha67088 3..53..5 
 Account number: 6935091642 
 Routing Number (RTN): 091400046 
+socialSecurity-186371697 
 
-paypal sbi@g 3w83w8
