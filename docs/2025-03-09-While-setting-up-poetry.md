@@ -60,47 +60,7 @@ while installing postgres locally on my machine:
 
 ---
 .gitignore as below so as to not put these devOps file to git:
-```
-# Virtual environments
-myenv/
 
-
-# Python cache and build files
-media
-__pycache__/
-*.py[cod]
-*.pyc
-*.pyo
-*.pyd
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Environment variables
-.env
-.env.local
-.env.development
-.env.production
-
-# IDE specific files
-.vscode/
-.idea/
-```
-
-
-
+![image](https://github.com/user-attachments/assets/08e69ff8-ee96-40ab-8b44-b491d3494850)
 
 
