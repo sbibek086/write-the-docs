@@ -5,7 +5,10 @@ category: Programming
 tags: [Programming]
 
 ---
+btw, dyk that 
+![image](https://github.com/user-attachments/assets/9db2ec5d-09cf-4106-a115-403102132eb0)
 
+---
 recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
 _these below screenshots are continuation while prooblem-solving one after another:_
