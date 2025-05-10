@@ -95,6 +95,9 @@ And that intuition is built from observing A+ people in their A+ game, not spend
 We would rather sleep, chill on nature walk or just study whats useful to selves.
 We are different breeds. I will tell you.
 
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/cea862d1-9432-4cd3-8bb6-43a6b493e74f)
+
+[Jugaad Max-ing- IluvThis](https://twitter.com/rishadcooper/status/1166931979138260994)
 
 
 
