@@ -1,6 +1,6 @@
 ---
 layout: page
-title: basic App dev using dockerized django, postgresql
+title: django-II: basic App dev using dockerized django, postgresql
 category: Programming
 tags: [Programming] 
 
