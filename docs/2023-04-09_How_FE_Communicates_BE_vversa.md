@@ -12,7 +12,7 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/user-attachments/assets/acb5519d-adbe-4c76-b1a0-9311a5596d35)
 
-![image](https://github.com/user-attachments/assets/3fd075cb-f99f-4335-9855-cb2970740630)
+![image](https://github.com/user-attachments/assets/e2b92cac-3ae2-4580-ae8d-41bc6fb83bba)
 
 API pings if data is ready from server, and then gives it to mobile app, desktop app or web app
 
@@ -28,6 +28,9 @@ Tools to check or debug api
 in console, Network is where we can see which url is requested when we click Action button. So, as we can see in blue color, when we click 'Forgot Pw' button, that url is triggered as seen in RHS network tab. 
 
 and in LHS, we can see what to response with when {certain URL is called} aka {API endpoint}. So, LHS here is backend API docs built in Django by Backend-ers
+
+---
+![image](https://github.com/user-attachments/assets/7992d3ec-d116-49ab-a75f-d3026acf04ad)
 
 ---
 .env folder lets you default-ize what path we want our tail URL to append with base path URL. That base path url is menioned in .env folder.
