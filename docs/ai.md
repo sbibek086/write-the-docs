@@ -6,24 +6,7 @@ tags: [Lifestyle]
 
 ---
 
-How NOT2b 5yr kid bamboozled by all sweet candies AT ONCE in internet; USING LLM to WRITE CODE
- 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/cea862d1-9432-4cd3-8bb6-43a6b493e74f)
-
-[Jugaad Max-ing- IluvThis](https://twitter.com/rishadcooper/status/1166931979138260994)
-
-tho even now, I havent got rid of this syndrome of 5yr kid bamboozled by all sweet candies AT ONCE in internet. 
-
-I mean all sweet candies - even not wrapping up completely djnago, I found now digging deep on Simon's AI model- tho its ok habit of exploring things (as for now, only I found chatgpt n deepseek are models that've found spotlight but Claude etc have more edge on codng problems as Chatgpt dont teel me about libraries newer than Oct 23- its last time publicly training date)
-but too much frogging of brain backfires- 1st put my shit together on what I've touched. 
-
-Soln- write plan in deepMindSoulSeekingSessions once a mo/wk n then commit to it n vow myself not to be distracted even if Hurricane comes or Trump opens Kennedy files or Morphy wins horseCamel bullshits in 17 moves, SO WHAT, SO WHAT- I got compiler error to understand. 
-
-its ok to read headlines- 'oh ok, Trump opens files, SO WHAT, what's in it for me What's point for me *!? to sherlock holmes for next 4 days, I've got my project baby to raise care'
-
-```
-btw, quick bitlyNotes on weekMonth long planning for self - yes, idiot, I've been project planning for other Work, what about mine??
-```
+USING LLM to write code:
 
 ![image](https://github.com/user-attachments/assets/5e7801af-b950-46cb-82aa-3a24c6eeac87)
 
