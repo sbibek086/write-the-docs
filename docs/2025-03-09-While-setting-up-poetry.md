@@ -5,15 +5,11 @@ category: Programming
 tags: [Programming]
 
 ---
-btw, dyk that 
-![image](https://github.com/user-attachments/assets/9db2ec5d-09cf-4106-a115-403102132eb0)
-
----
 recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
 _these below screenshots are continuation while prooblem-solving one after another:_
 
-![image](https://github.com/user-attachments/assets/ffa34c44-794b-4455-9d22-27bd838e1260)
+![image](https://github.com/user-attachments/assets/4729339d-4890-4733-a2da-c5ba73da7a3e)
 
 ![image](https://github.com/user-attachments/assets/14731059-3338-4504-8f9f-d7c05d05ab3e)
 
@@ -44,4 +40,9 @@ while installing postgres locally on my machine:
 
 ![image](https://github.com/user-attachments/assets/08e69ff8-ee96-40ab-8b44-b491d3494850)
 
+---
+---
+unrel context:
+btw, dyk that 
+![image](https://github.com/user-attachments/assets/9db2ec5d-09cf-4106-a115-403102132eb0)
 
