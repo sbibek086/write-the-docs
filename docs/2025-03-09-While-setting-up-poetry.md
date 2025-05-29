@@ -20,6 +20,7 @@ _these below screenshots are continuation while prooblem-solving one after anoth
 ![image](https://github.com/user-attachments/assets/608e225d-d87c-41ec-ba8f-8a1d0c86894e)
 
 after all this is fixed, then after only python manage.py makemigrations then migrate worked
+![image](https://github.com/user-attachments/assets/19c90cad-b3cc-43cf-823f-250790bec9b7)
 
 ---
 Since migrations are applied, then I can see as below:
