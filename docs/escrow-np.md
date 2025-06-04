@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NP's escrow
+title: ~
 category: Cryptography
 tags: [Cryptography]
 ---
