@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Circular Design of Value Flow, CCIP etc
+title: ~
 category: Crpytography
 tags: [Cryptography]
 
@@ -9,6 +9,13 @@ tags: [Cryptography]
 Before coming up on actual topic:
 
 ![image](https://github.com/user-attachments/assets/1e1b4242-1ff4-4c6d-a592-29ed1be94e41)
+
+---
+Primer: Understanding Link
+
+After eth took over contracts w auto-enforcing smart contract where code itself is escrow of trust, next is oracle to combine w smart contract
+![image](https://github.com/user-attachments/assets/fd2579b2-94ba-4ee1-a256-a078474361f4)
+![image](https://github.com/user-attachments/assets/ccc84b36-c54d-4369-9a50-5fa88f362a4f)
 
 ---
 Topic: 
@@ -32,6 +39,5 @@ Now, DECO sandbox lets us do it all on Zero-Knowledge but still able to proof it
 
 ![image](https://github.com/user-attachments/assets/fe718b59-6434-4e5c-af1e-5de0a6dc330d)
 
-More coming:
-
-Collaboration or idea sharing is welcomed by me..
+--
+Learn about running link node using AWS postgres docker n write below
