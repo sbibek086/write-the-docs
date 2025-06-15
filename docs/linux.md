@@ -92,4 +92,5 @@ sudo apt purge package_name_forEg_python3-pip removes package+ configFiles but r
 then after sudo apt autoremove removes any dependencies that were installed with the package but are no longer needed.  
 
 ---
-![image](https://github.com/user-attachments/assets/b80f4a47-5852-4650-9701-f5160a8925ff)
+![image](https://github.com/user-attachments/assets/7d260d9d-d4ef-4131-808a-afbcbf19fa27)
+
