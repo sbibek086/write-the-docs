@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + Lib n Framework Diff
+title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + PEP-668? +Lib n Framework Diff
 category: Programming
 tags: [Programming]
 ---
