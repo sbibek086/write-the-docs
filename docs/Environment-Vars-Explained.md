@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Env, Sys, User Vars Explained
+title: Windows' Env,Sys,User Vars concept mapped to 🐧's 
 category: WindowsOS
 tags: [WindowsOS]
 ---
@@ -11,7 +11,7 @@ i)Sys Vars: These are wide accepted & doesnt vary from user to user (Like in one
 
 ii)User Vars: (vary from user to user) You can add your variables under your user OS account so that it has got nothing to do with other users.
 
-`Without me knowing about all this topic here, I use to type %temp% in search box or dialog box, and it would open C:\Users\User\AppData\Local so that I would del all temp files to fasten my machine. What was happening behind the scenes was: TEMP was mapped to C:\Users\User\AppData\Local as seen by blue bordered in above sceenshot ,and its infact iii) type of EnvironmentVars called DynamicVars ,and is fixed on time of manufature & cant be set changed by us.`
+_Without me knowing about all this topic here, I use to type %temp% in search box or dialog box, and it would open C:\Users\User\AppData\Local so that I would del all temp files to fasten my machine. What was happening behind the scenes was: TEMP was mapped to C:\Users\User\AppData\Local as seen by blue bordered in above sceenshot ,and its infact iii) type of EnvironmentVars called DynamicVars ,and is fixed on time of manufature & cant be set changed by us._
 
 Both vars work similar to registry in Windows ,and so such vars can be accessed directly with _regedit_ in cmd.
 i) are evaluated after ii), which means if we have got same name i) and ii), then it will be considered user vars.
