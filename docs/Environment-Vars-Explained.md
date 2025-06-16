@@ -1,32 +1,26 @@
 ---
 layout: default
-title: Windows' Env,Sys,User Vars concept mapped to 🐧's 
+title: Windows' Env,Sys,User Vars concept upgraded to 🐧's 
 category: WindowsOS
 tags: [WindowsOS]
 ---
-![SysVars](https://user-images.githubusercontent.com/11883023/155872097-7dae959d-a0bb-44ed-b66d-f9787bc0363b.jpg)
-How Environment Vars as shown by red bordered in above sceens can be accessed is shown in 1,2,3 step there. As can be seen in red bordered dialog box, there are two types of EnvironmentVars: 
+Idc windows' shit by now but for archive: 
 
-i)Sys Vars: These are wide accepted & doesnt vary from user to user (Like in one OS, you can create Admin user, Guest user etc.)
-
-ii)User Vars: (vary from user to user) You can add your variables under your user OS account so that it has got nothing to do with other users.
-
-_Without me knowing about all this topic here, I use to type %temp% in search box or dialog box, and it would open C:\Users\User\AppData\Local so that I would del all temp files to fasten my machine. What was happening behind the scenes was: TEMP was mapped to C:\Users\User\AppData\Local as seen by blue bordered in above sceenshot ,and its infact iii) type of EnvironmentVars called DynamicVars ,and is fixed on time of manufature & cant be set changed by us._
-
-Both vars work similar to registry in Windows ,and so such vars can be accessed directly with _regedit_ in cmd.
-i) are evaluated after ii), which means if we have got same name i) and ii), then it will be considered user vars.
+![image](https://github.com/user-attachments/assets/80783c00-623e-461e-b5ec-4310f3377d8e)
 
 ---
-Also to notice is: The Path variable is generated in a different way. The effective Path will be the User Path variable appended to the System Path variable.
+LINUX does this by: sudo nano ~/.zshrc where is saved all those variables value mapping as in Windows. Mine is now blank since I havent mapped values to variables as COLLEAGUE has done.
+Remember, if I add new variable value mapping after sudo nano ~/.zshrc, then I need to do: source ~/.zshrc for updated zshrc to work.
 
-![SysVars2](https://user-images.githubusercontent.com/11883023/155871796-40564682-ebd3-464a-8ba1-024293be6f22.jpg)
-Now, if I double click to add for eg, VScode paths as shown by orange bordered, after that if I want to run open VS code, open up Command Prompt and type in the name of the executable file that was in the folder. You can provide additional arguments if the program supports it. 
+So, 1st letme check whether bash or zshrc or what? is activated as Env-Vars-as-I-say by echo $0 in terminal, gives bash in my ubuntu. 
 
-The program will run from the command prompt without actually being in the directory from where you executed the command. That is the beauty of the Path variable.
+Since zshrc >> bash, I'd want mine to be defaulted to zshrc, for which I'd sudo apt update n then sudo apt install zsh. 
 
----
-C:/ program files path is default saved by windows as sys path. so, thats recognized globally from any path. so, nodejs git curl should be prioritized saved that location. 
+Then, chsh -s $(which zsh) for making zsh default. Remember, this is one-time-setup n NOT everyDayConfiguring.
+
+
+
   
-w similar reasoning, .bash history should be in c drive program.  if some pgms installed elsewhere, then we s'ud put that non default path in system or env vars, going to sys or env var in cmd.
 
-dyk that windows kernel is written in dotnet
+
+
