@@ -27,6 +27,7 @@ db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay la
  dherai curious cat scientist nabana, etti bujha, sakyo kura
 
 ---
+---
 ![image](https://github.com/user-attachments/assets/95d8e0cf-24ff-4e08-85f9-ad2e7d8a12e9)
 
 more such debian aka OS and non-debian aka non-Os package instllation conflict is taken care by PEP-668, which ensures that system-installed Python environments (like those provided by Linux package managers) are protected from accidental modification by tools like pip.
