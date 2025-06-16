@@ -27,9 +27,30 @@ db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay la
  dherai curious cat scientist nabana, etti bujha, sakyo kura
 
 ---
-more debian aka OS/non-debian aka non-Os package confusion shit taken care by PEP-IforgotNumberWhoCares
-![image](https://github.com/user-attachments/assets/00316785-577a-457e-a0e2-90022de1f5c2)
- 
+![image](https://github.com/user-attachments/assets/95d8e0cf-24ff-4e08-85f9-ad2e7d8a12e9)
+
+more such debian aka OS and non-debian aka non-Os package instllation conflict is taken care by PEP-668, which ensures that system-installed Python environments (like those provided by Linux package managers) are protected from accidental modification by tools like pip.
+
+Why? -- so as to prevent conflicts or breakages when users install packages directly into system Python using pip, which can mess up OS-managed software.
+
+What it does:
+Introduces a marker file:
+/usr/lib/pythonX.Y/EXTERNALLY-MANAGED
+(or similar, depending on the OS and Python version)
+
+If this file exists:
+
+pip install into the system environment will fail unless:
+
+The user uses a virtual environment OR
+
+Adds --break-system-packages (to override)
+
+Impact:
+Encourages use of virtual environments (e.g., venv, virtualenv)
+
+Protects system Python from unexpected breakage
+
 ---
 ![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
 
