@@ -53,8 +53,8 @@ Encourages use of virtual environments (e.g., venv, virtualenv)
 Protects system Python from unexpected breakage
 
 --
-![image](https://github.com/user-attachments/assets/8a3b9712-f2d1-4421-b46c-25ddf03749e4)
 
+![image](https://github.com/user-attachments/assets/8a3b9712-f2d1-4421-b46c-25ddf03749e4)
 
 ---
 ![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
