@@ -8,8 +8,9 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/a3acafa4-3716-4cb8-8626-65cc01f14ada)
 
-SSH (runs on Linux, macOS, Windows with appropriate software) is:
+![image](https://github.com/user-attachments/assets/88060abc-ee8e-4aa3-a473-0feaed5a4c05)
 
+ssh is: 
 a) strong **authentication** method is more secure than standard HTTP authentication mechanisms.
 
 ![image](https://github.com/user-attachments/assets/58b636cd-6201-4654-8a7c-e3e624f8a869)
@@ -40,6 +41,11 @@ g) use SSH to connect to a remote development environment, run scripts, and depl
 How to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
 
 ---
+![image](https://github.com/user-attachments/assets/cec0503f-84ba-48d0-a613-f556bfa397aa)
+
+![pem](https://github.com/user-attachments/assets/93d364e1-2929-4083-9a7a-ea5d6dff7d17)
+![F-permission](https://github.com/user-attachments/assets/31b5d8cf-6a73-4ad0-a1fb-35f710c87646)
+
 Just for curiosity cat of how https ssl/ tsl certificate works?
 
 Encryption and decryption of intransit data and session keys (which lets server and client ensure each other they are on same timestamp and same session, put simply, session keys lets both s and c know it is happening on same single sitting when i open transact on say esewa pathao etc.) is tricky.
@@ -53,8 +59,4 @@ ssl tsl certificate works below while on ssl tsl handshake betn s and c:
 ![image](https://github.com/user-attachments/assets/462a3a5c-e4e0-45e0-bc57-1fd9a052f5ed)
 
 ---
-![image](https://github.com/user-attachments/assets/3060aaca-13bf-47e4-80b5-8c2e5a3964a0)
-
-![pem](https://github.com/user-attachments/assets/93d364e1-2929-4083-9a7a-ea5d6dff7d17)
-![F-permission](https://github.com/user-attachments/assets/31b5d8cf-6a73-4ad0-a1fb-35f710c87646)
 
