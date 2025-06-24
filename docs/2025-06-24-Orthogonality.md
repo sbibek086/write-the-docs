@@ -1,8 +1,12 @@
-![image](https://github.com/user-attachments/assets/33d2a272-3f31-4614-a482-9ad35a8c886e)---
+---
 layout: page
 title: Orthogonality in code (even in SysDesign or gui) + MetaProgramg
 category: Programming
 tags: [Programming]
+
+---
+primer:
+![image](https://github.com/user-attachments/assets/33d2a272-3f31-4614-a482-9ad35a8c886e)
 
 ---
 pragmatic programming book: 
