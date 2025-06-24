@@ -5,11 +5,6 @@ category: Programming
 tags: [Programming]
 
 ---
-primer:
-
-![image](https://github.com/user-attachments/assets/33d2a272-3f31-4614-a482-9ad35a8c886e)
-
----
 pragmatic programming book: 
 
 {pg59-69 Orthogonality chapter noNeedToLook now} - orthogonality aka modularity aka Decoupled code (make variables in system such that x changes '0' impacts y) (orthogonal code follow DoNotRepeatYourself): 
