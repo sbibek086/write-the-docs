@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (t) prev ssh post is ssh-ing localMachine to RepoUrl, thisPost is sshing one machine to another by ip
+title: (t)ssh
 category: SoftwareDev
 tags: [SoftwareDev]
 
@@ -16,14 +16,18 @@ btw, by ssh, SSH.File.Transfer.Protocol gari file transfer garna milxa
 
 arko computer ko terminal nai access garna paye paxi ta je garda ni vayo ni, commonSense
 
---
-by ssh, Tunneling aka Port Forwarding: SSH can tunnel other protocols, allowing secure forwarding of ports and services.
+---
+Entirely different from ssh passwordless login explained above is: 
+
+ssh Tunneling aka Port Forwarding: Its types are
 
 Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from local port to remote server. 
 aka Forwards local port to remote destination.
 
 Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
 aka Forwards remote port to local destination.
+ 
+more in https://chatgpt.com/share/6872b264-08e4-8007-b4d3-6dd576c84a4c
 
 ---
 <img width="654" height="612" alt="image" src="https://github.com/user-attachments/assets/5f705358-1e43-46e9-af9a-6899d0874696" />
