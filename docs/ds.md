@@ -13,7 +13,8 @@ tags: [Health]
 
 ![image](https://github.com/user-attachments/assets/712129c5-f5b5-42bb-a2da-fb36966ca684)
 ![image](https://github.com/user-attachments/assets/5325c610-3f2e-4ef2-8272-6102b436e27c)
-![image](https://github.com/user-attachments/assets/6c67794b-b538-40e3-b7e7-6a80c3e6150f)
+<img width="1366" height="820" alt="image" src="https://github.com/user-attachments/assets/526cf48f-437c-455b-a145-051d8dcf7c4e" />
+
 
 Continues to main pgm, now starting from below:
 ![image](https://github.com/user-attachments/assets/85950af8-0ae3-4138-9fc8-5452f9e14e16)
