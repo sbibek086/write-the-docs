@@ -10,42 +10,25 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/user-attachments/assets/88060abc-ee8e-4aa3-a473-0feaed5a4c05)
 
-ssh is: 
-a) strong **authentication** method is more secure than standard HTTP authentication mechanisms.
+btw, asymmetric encryption(ed25519) ma public/ private key hunxa, symm encryption ma chai same key le encrypt decrypt garxa.
 
-![image](https://github.com/user-attachments/assets/58b636cd-6201-4654-8a7c-e3e624f8a869)
+btw, by ssh, SSH.File.Transfer.Protocol gari file transfer garna milxa
 
-b) cryptographic hash functions (look 1st img above carefully) to verify **integrity** of data being transmitted.
-_{btw, there are asymm style aka AES and symm style as below_
+arko computer ko terminal nai access garna paye paxi ta je garda ni vayo ni, commonSense
 
-![image](https://github.com/user-attachments/assets/5cc2ae44-70d9-413f-8f8d-e9f7bbe4d28a)
+--
+by ssh, Tunneling aka Port Forwarding: SSH can tunnel other protocols, allowing secure forwarding of ports and services.
 
-c) Remote Command Execution: allows for execution of commands on a remote machine, making it ideal for system administration and management tasks.
-
-d) File Transfer: With SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol), SSH supports secure file transfers.
-
-e) Tunneling aka Port Forwarding: SSH can tunnel other protocols through its encrypted connection, allowing secure forwarding of ports and services.
-```
-Local Port Forwarding aka (Standard or default understood Tunneling) : 
-Forwards traffic from local port to remote server. 
+Local Port Forwarding aka (Standard or default understood Tunneling) : Forwards traffic from local port to remote server. 
 aka Forwards local port to remote destination.
 
-Remote Port Forwarding (Reverse Tunneling): 
-Forwards traffic from a remote port to a local machine.
+Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
 aka Forwards remote port to local destination.
-```
-f) Interactive Shell Access: SSH provides direct, interactive shell access to remote machine, enabling real-time command execution and troubleshooting.
-
-g) use SSH to connect to a remote development environment, run scripts, and deploy code changes directly.
-
-How to do it?  Just watch bottom of https://sbibek086.github.io/write-the-docs/2023-10-13-Creating-Pytest_suites.html
 
 ---
-![image](https://github.com/user-attachments/assets/cec0503f-84ba-48d0-a613-f556bfa397aa)
+<img width="654" height="612" alt="image" src="https://github.com/user-attachments/assets/5f705358-1e43-46e9-af9a-6899d0874696" />
 
-![pem](https://github.com/user-attachments/assets/93d364e1-2929-4083-9a7a-ea5d6dff7d17)
-![F-permission](https://github.com/user-attachments/assets/31b5d8cf-6a73-4ad0-a1fb-35f710c87646)
-
+---
 Just for curiosity cat of how https ssl/ tsl certificate works?
 
 Encryption and decryption of intransit data and session keys (which lets server and client ensure each other they are on same timestamp and same session, put simply, session keys lets both s and c know it is happening on same single sitting when i open transact on say esewa pathao etc.) is tricky.
