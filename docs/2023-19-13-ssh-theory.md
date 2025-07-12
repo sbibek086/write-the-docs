@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (t)ssh
+title: (T) ssh
 category: SoftwareDev
 tags: [SoftwareDev]
 
