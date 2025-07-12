@@ -40,7 +40,7 @@ but today, I downloaded zip and extracted- which is bullshit primitive. So, lets
 ---
 D. not related to this problemSolving n done on another problemSolving just to show ssh connecting my linuxHome to github
 
-<img width="665" height="817" alt="image" src="https://github.com/user-attachments/assets/028fd668-6282-49e7-98b5-2870be2fc5fe" />
+<img width="665" height="808" alt="image" src="https://github.com/user-attachments/assets/d78cfa19-d4bb-47ad-b343-0ed390cc3cd0" />
 
 _ekchoti mero machine lai github.com ya ni ki github ko ip sanga ssh-connect garepaxi sadhai lai vayo k, tespaxi harekchoti yo sab garnuparena k (tei pani ssh key ltd. time paxi expiry huni ta xaina, check chai garna parxa), direct mero path ma git **CLONE** githubRepoURL gare vayo k_
 
