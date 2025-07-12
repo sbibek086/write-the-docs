@@ -1,6 +1,6 @@
 ---
 layout: default
-title: $ Global Currency Reserve Sys & World Eco
+title: ~
 category: Economics
 tags: [Economics]
 ---
