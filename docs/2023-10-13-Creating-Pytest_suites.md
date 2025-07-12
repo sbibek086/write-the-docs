@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (P)Pytest classes n main.py + ssh connecting, forget http downloadWay etc
+title: (P)Pytest classes n main.py + ssh connecting
 category: Software Development
 ---
 
@@ -33,18 +33,16 @@ C. Now, before all this POM thing, I wanted to test localhost files of ndrrma.yi
 
 git clone ndrrmaGitLabRemoteRepoURL AlsoGIveUserNamePasswordOfMyGitlabWhichHasBeenAccessedNdrrmaRepo 
 
-but today, I downloaded zip and extracted- which is bad practice. 
+but today, I downloaded zip and extracted- which is bullshit primitive. So, lets ssh as below: 
 
-Just Secure.SHell my machine's repo (by generating that path ssh-key) n pasting it in gitlab general setting>>ssh key as below: 
-
-![ssh](https://github.com/user-attachments/assets/db650212-e1d4-445c-9ff2-d2c6ef58d4e8)
+<img width="1057" height="290" alt="image" src="https://github.com/user-attachments/assets/ad4b80af-fc07-44ae-aa81-a788a64baf19" />
 
 ---
 D. not related to this problemSolving n done on another problemSolving just to show ssh connecting my linuxHome to github
 
-![image](https://github.com/user-attachments/assets/11fa473e-4f11-45d5-8799-7457b8fd4773)
+<img width="665" height="673" alt="image" src="https://github.com/user-attachments/assets/9508d4b1-956a-47c5-a7e1-abd5525376aa" />
 
-_ekchoti mero machine lai github.com ya ni ki github ko ip sanga ssh-connect garepaxi sadhai lai vayo k, tespaxi harekchoti yo sab garnuparena k, direct mero path ma git **CLONE** githubRepoURL gare vayo k_
+_ekchoti mero machine lai github.com ya ni ki github ko ip sanga ssh-connect garepaxi sadhai lai vayo k, tespaxi harekchoti yo sab garnuparena k (tei pani ssh key ltd. time paxi expiry huni ta xaina, check chai garna parxa), direct mero path ma git **CLONE** githubRepoURL gare vayo k_
 
 ---
 E. Then,
