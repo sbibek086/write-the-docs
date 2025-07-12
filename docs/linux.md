@@ -50,10 +50,6 @@ HKLM= HKEY_LOCAL_MACHINE, is a Windows Registry tree that contains configuration
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/846e352f-12b6-4726-b505-d1c6e1b6e694)
 
 ---
-
-![linuxx(1)](https://github.com/user-attachments/assets/d1cacb64-e777-4a2d-bdb3-17032b38d291)
-
----
 Image Ka: 
 ![image](https://github.com/user-attachments/assets/b4882270-5bf3-472a-baf0-18607df00e14)
 
@@ -81,12 +77,6 @@ I faced this-> issue while doing 4th step manually
 ![image](https://github.com/user-attachments/assets/988fc413-3e30-4298-adcb-eb7d19b4e7e5)
 
 ---
-shortcuts for bash:
-- Ctrl Alt T to bring bash aka terminal
-- Ctrl Shift V to paste clipboard to terminal
-
-![image](https://github.com/user-attachments/assets/a671fbc0-41e7-41a0-833d-4c51758b2c90)
-
 sudo apt purge package_name_forEg_python3-pip removes package+ configFiles but remove just removes package
 
 then after sudo apt autoremove removes any dependencies that were installed with the package but are no longer needed.  
