@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (P)Pytest classes n main.py + ssh connecting
+title: ~
 category: Software Development
 ---
 
@@ -9,6 +9,8 @@ A.  Some primer & loosely connected subcontext of testing-cohort aka confusion m
 ![image](https://github.com/user-attachments/assets/0f70d191-4969-4486-b636-80bbd46b1091)
 
 ---
+(P)Pytest classes n main.py + ssh connecting
+
 B.  So, today, I tried to create class.py in playwright such that another mainMightBeTest_anothername.py would call this class.py
 
 Day before, I had been simply creating test_TestThis1Scenario.py , test_TestThisAnotherScenario2.py and simply running this .py(s) with pytest test_TestThis..py
