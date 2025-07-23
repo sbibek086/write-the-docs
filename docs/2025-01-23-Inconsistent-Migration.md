@@ -19,29 +19,9 @@ btw,  migrations let us reflect changes in models from models.py all the way dee
 done by enter of command: python manage.py makemigrations n migrate
 {in my case, I am trying to execute my command inside database container - that's why I couldn't see all that app.0001_initial, app.0002_initial (migration logs) inside migrations/ folder in app folder}
 
-```
-THIS ALL ARE MY SPECULATION, might not be true
-now comes admin.0001_initial.
+<img width="522" height="368" alt="image" src="https://github.com/user-attachments/assets/376cca5d-8f74-41ea-91c1-0a0dfe8ec26c" />
 
-Since admin.0001_initial depends on app.0001_initial, n since most of times 
-generating up-to-date version of latest
-
-app.000x_initial happens under hood {If we think carefully, then we can infer:
-auth.000x_initial latest version is auto-generated w every latest 
-app.000x_initial in order to keep up with the changes and make sure 
-every such tables - of app.000x,admin.000x,.. are in sync}
-
-Now problem would obviously occur if I forcefully reset only:
-python manage.py migrate zero 
-because I INFER THAT
-this cmd has ONLY reset app.0001_initial all the way to initial state
-
-and other like admin.0001_initial are still on earlier latest version.
-
-So, I SENSE that I have to reset back admin.0001_initial 
-all the way to initial state.
-and this way, above screenshot error can be fixed.
-```
+![image](https://github.com/user-attachments/assets/19c90cad-b3cc-43cf-823f-250790bec9b7)
 
 ---
 Btw, 
