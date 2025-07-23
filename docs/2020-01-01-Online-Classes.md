@@ -243,7 +243,7 @@ package.json - Now, I understand why package.json should be there because it sho
 ---
 **Bootcamp Day 6 - Assets aka output files of Github repo**
 
-![Assets-File-Of-Github](https://user-images.githubusercontent.com/11883023/168144371-a71e2dca-50c7-4704-ae2a-bbf2416bb7d6.jpg)
+<img width="532" height="510" alt="image" src="https://github.com/user-attachments/assets/1721d24b-e0a6-4ead-a89a-8951054c4e55" />
 Most of the assets in Github repo are either in .tar or .Linux or .mvcc.zip or gnu.zip.  
 - mvcc stands for Microsoft Visual C++ compiler ,and is native in typical Windows OS. Also, If I unzip mvcc.zip, there's SHA256 file inside it.  
 - Gnu.zip works in Windows OS that has GNU compiler.  
