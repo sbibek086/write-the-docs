@@ -7,6 +7,16 @@ tags: [Programming]
 ---
 recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
+poetry le aafai poetry.lock ra .toml file (= setup.py+ requirement.txt) banauchh. 
+
+poetry.lock ma package version satik hunxa
+
+pip ma jasto 'maile pip install garda latest package tanexa, tara timle project compile tyo package ko tallo version thiyo, so mero ma package dependency Conflict vayo' vanne issue nai aaudaina 
+
+BECAUSE poetry.lock ma etti version package ho vanne lekhiyekai hunxa - tyei version ko package na vaye ma tyo package pip le garya jasto install gardaina, Suru mai rokdinchh. 
+
+{Open [this gpt thread](https://chatgpt.com/share/6881a1a6-c008-8007-ba15-99485cd7125e) in two tabs. open using poetry template way n scratch way in two tabs side by side n observe. }
+
 _these below screenshots are continuation while prooblem-solving one after another:_
 
 ![image](https://github.com/user-attachments/assets/4729339d-4890-4733-a2da-c5ba73da7a3e)
@@ -39,10 +49,4 @@ while installing postgres locally on my machine:
 .gitignore as below so as to not put these devOps file to git:
 
 ![image](https://github.com/user-attachments/assets/08e69ff8-ee96-40ab-8b44-b491d3494850)
-
----
----
-unrel context:
-btw, dyk that 
-![image](https://github.com/user-attachments/assets/9db2ec5d-09cf-4106-a115-403102132eb0)
 
