@@ -70,3 +70,31 @@ tags: [Life]
 
 <img width="301" height="469" alt="image" src="https://github.com/user-attachments/assets/277f6ff7-b990-474b-848c-38b84e8b188b" />
 
+---
+Preserving common-sense in a world where common sense is becoming not so common and when it is hard to keep-intact common-sense:
+
+<img width="581" height="318" alt="image" src="https://github.com/user-attachments/assets/a924abf2-af7e-403d-91d0-e11fa2d12f23" />
+
+One tends to have drift-away when one gets success in whatever endeavors or gets appreciation or appraisal. Not getting drifted away from the hard-seeked-and-discovered correct way of solving particular problem and not adding or minusing even one inch to the body of understanding and flow of problem solving is key.
+It feels common sense not to do it and not be drifted away but it is so rare.
+
+That's why, we see a batter trying audacious bat shots at coming ball trying to hit sixes despite its unsuitability just because he managed to hit six on earlier ball.
+
+That's why, we see a trader/ investor making audacious decision seeing reward more than what it is and blind-spotting risks just because he has great turn-over in earlier year closing.
+
+That's why, we see a problem solver trying to over-estimate and be over-confident of his abilities just because he discovered he had found a better way of problem solving.
+
+Not forgetting the fundamentals and replicating the exact precise consciousness of problem solving and not lose sincerity and attention to details while solving problem as if one is seeing the problem the first time is the key.
+
+Another sub-context:
+Why does a seemingly simpler solution to a problem over the time get too-much-complicated if a group of people, be it assembled experts work over it?
+
+Because many times, it so happens that people give opinions just for the sake of proving their intelligence, and not with primary humble purpose of giving solution. That's why we see things as intelligence-gibberish, and chains of wrong conclusions, deductions and inferences.
+
+It becomes even more real when the problem at hand to be solved has high stakes because fear naturally comes, "What if it goes wrong, or we must get it right at any cost".
+
+So, how has fault germinated in this case? It's because we were result-focused and NOT process-focused.
+
+We need to dare enough to solve the problem naked-hand, let mistakes happen but be attentive and sincere enough to analyze the mistakes because mistakes are the tell-tale signs of knowledge gaps and where we need to focus on but of-course this pilot-testing should be done on prototype or on trials and not on larger real-scale. After this, we must try to get one-level-up understanding of mistakes categories and then come up with solid generic understanding, stress-test it and if it passes the stress-test, then just freeze lock that understanding securely in our brain.
+
+Many times, it's wiser to first dig our own brains rather than digging books (but if for example I want to know about Mars, then then only I need to read books), and let knowledge fruit out from root of our common-sense understanding rather than burying common-sense (some call it intuition) in books of theories and strategies knowledge.
