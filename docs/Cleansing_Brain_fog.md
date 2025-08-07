@@ -18,12 +18,17 @@ Osho said one brilliant quote something like,
 Osho said it in 90s when there was no internet. Now after internet with every unwashed masses of the world throwing their vomits and shits in front of our face, with every fart that John does on other side of the world echoed world-wide, our senses are fulled to the brim. In-fact, scientists have said that short attention span and lack of patience and stillness is the biggest crisis of GEN-Z generation but it holds true for other age people as well who spend considerable amount of time on internet. 
 
 Here's how I have been trying to deal with over-information surrounding us:
+
 i) I do not listen to new songs but just those songs which I have been listening again and again.
+
 ii) I do not have to engage in viral trends. 
+
 iii) I do not watch new cat videos.
+
 iv) I listen to and watch only people only after deciding that person is smarter knowledgable than me and talking honestly.
 
 But most importantly:
+
 दुनियाँ कति छिटो परिवर्तन भइरहेको छ र दुनियाँका दृष्टिकोणहरू कति फरक-फरक हुँदै गइरहेका छन् भन्ने कुराको सन्दर्भमा, मलाई लाग्छ यो वास्तवमा मानिसहरूले जानकारी कसरी हेर्छन् र उपभोग गर्छन् भन्ने कुराको परिणाम हो। मैले व्यक्तिगत रूपमा जानकारी उपभोग गर्ने तरिका धेरै सीमित बनाएको छु।
 
 म दैनिक समाचार नहेर्न कोशिश गर्छु, म १४ वा १५ वर्षको उमेरमा नै दैनिक समाचार हेर्न छोडेको थिएँ। म टिभी खोल्थें, मेरोसँग CRT टिभी थियो र त्यसलाई तात्न केही समय लाग्थ्यो। आवाज पहिले आउँथ्यो, तस्बिर ढिलो देखिन्थ्यो, त्यसैले म तस्बिरबाट मोहित भइसकेको हुन्थिनँ। मैले आवाज सुनेँ, त्यो सस्तो ब्रान्डको CRT टिभी थियो।
