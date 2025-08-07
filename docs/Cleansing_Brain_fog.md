@@ -33,7 +33,9 @@ iv) I listen to and watch only people only after deciding that person is smarter
 But most importantly:
 
 I noticed some of what you noticed as well, I think what’s happening is the world’s information  sources are both incentivised and progressively getting better at capturing people's attention on various topics. 
+
 And many people are engaging in this kind of “edutainment” interaction with various information that is actually meant to bend them to a certain agenda in a very non-obvious way. 
+
 I don’t have a huge problem with that, that’s their decision, that’s how they want to consume information. Me personally, I’ve always found it extremely important the way I consume information and the way I reason about information and the way appry (?) and an analytical framework to categorize information. One of the things that I do is I actually remove specific terms and just have variables instead of the terms.
 
 **I say: The situation is that thing A did something to thing B and then thing C had a reaction of x. And I just evaluate the situation without the details of the situation. And that is just the device you get from studying philosophy and doing analytical philosophy and looking at the fundamental variables of what’s going on in an argument.**
@@ -42,7 +44,7 @@ I think at the end of the day there is a lot of bias where a lot of confirmation
 
 I think there’s this scary thing where there’s a lot of information. 
 
-Before the problem was you couldn't get information, before it was a luxury to have a book. And then, people could get books, and then it was still kind of a luxury to get certain books, you could go to libraries. And then it was a luxury to get videos, educational videos were a luxury. And now, one thing I would study a lot is the teaching company, their lectures back when I was a teenager I would listen to those a lot. Now you can get those all over the place wherever you want. Now there is an abundance of information, the question now is not how to get information, how to get a book or a teaching company lecture.
+Before the problem was you couldn't get information, before it was a luxury to have a book. And then, people could get books, and then it was still kind of a luxury to get certain books, you could go to libraries. And then it was a luxury to get videos, educational videos were a luxury. Now you can get those all over the place wherever you want. Now there is an abundance of information, the question now is not how to get information, how to get a book or a teaching company lecture.
 
 The question now is how do I selectively do research and evaluate information to avoid confirmation bias and avoid various other bias. To have an accurate picture of reality rather than a biased picture of reality that benefits someone else, not me. That’s the game that everyone is involved in now. For some reason that game is not clear to people. I think people are in this game, and that’s the worst game to be in. The worst game to be in is in a game where you don’t know the rules, that’s where people start to take you around the block a bit.
 
