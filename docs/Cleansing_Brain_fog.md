@@ -12,9 +12,9 @@ I have been trying to be man of action but lately, I am facing brain fog. Now le
 
 Osho said one brilliant quote something like, 
 
-"People go on watching all kinds of non-sense, listen all kinds of non-sense, think all kinds of non-sense. Do you think that if you watch half an hour of violet MMA fights to get the kick out of it, you will simply leave all its sensation there at the audience seat, it will recoil within your sub-conscious somewhere. 
+"People go on watching all kinds of non-sense, listen all kinds of non-sense, think all kinds of non-sense. Do you think that if you watch half an hour of violent MMA fights to get the kick out of it, you will simply leave all its sensation there at the audience seat, it will recoil within your sub-conscious somewhere. 
   
-   Imagine a house where you have trash collected on your home. Then you simply put trash at one corner and then go on living. You simply go on repeating this process instead of recycling waste to proper place or managing waste. One day, it will come trash will accumulate so much in your house that you will no longer have space to sit in your own house. 
+   Imagine a house where you have trash accumulated on your home- You simply put trash at one corner and then go on living. You simply go on repeating this process instead of recycling waste to proper place or managing waste. One day, it will come when trash will accumulate so much in your house that you will no longer have space to sit in your own house. 
  
 Exactly like that, we have been doing with our _mann_. So much has been accumulated that we no longer are mindful but just mind-full of bits and pieces of non-sensical opinions, inferences, recoils, memories. We can not see clearly what is there. We do not listen to what is said. We can not think coherently and rationally to what is facing towards us. Our system is simply over- burdened. We are victims of analysis-paralysis or fear-laddened"
 
@@ -28,7 +28,7 @@ ii) I do not have to engage in viral trends.
 
 iii) I do not watch new cat videos.
 
-iv) I listen to and watch only people only after deciding that person is smarter knowledgable than me and talking honestly.
+iv) I listen to and watch only people after deciding that person is smarter knowledgable than me and he/she talks something of value w honesty.
 
 But most importantly:
 
@@ -36,7 +36,7 @@ I noticed some of what you noticed as well, I think what’s happening is the wo
 
 And many people are engaging in this kind of “edutainment” interaction with various information that is actually meant to bend them to a certain agenda in a very non-obvious way. 
 
-I don’t have a huge problem with that, that’s their decision, that’s how they want to consume information. Me personally, I’ve always found it extremely important the way I consume information and the way I reason about information and the way appry (?) and an analytical framework to categorize information. One of the things that I do is I actually remove specific terms and just have variables instead of the terms.
+I don’t have a huge problem with that, that’s their decision, that’s how they want to consume information. Me personally, I’ve always found it extremely important the way I consume information and the way I reason about information and the way I apply an analytical framework to categorize information. One of the things that I do is I actually remove specific terms and just have variables instead of the terms.
 
 **I say: The situation is that thing A did something to thing B and then thing C had a reaction of x. And I just evaluate the situation without the details of the situation. And that is just the device you get from studying philosophy and doing analytical philosophy and looking at the fundamental variables of what’s going on in an argument.**
 
