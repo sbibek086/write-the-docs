@@ -21,7 +21,7 @@ b) I uploaded msword file and then said, "Please remove blank line after each te
 
 https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3
 
-- [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm37)
+c) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm37)
 
 ---
 Bash where possible:
