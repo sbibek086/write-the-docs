@@ -12,3 +12,10 @@ tags: [aws]
 tes pachhi
 
 <img width="872" height="870" alt="image" src="https://github.com/user-attachments/assets/6e7ebaf9-1623-4445-88b1-122c44939baf" />
+
+<img width="720" height="1964" alt="image" src="https://github.com/user-attachments/assets/73096c7d-57ff-441f-be0a-eddc6aeabfd8" />
+
+---
+microservice etc
+
+<img width="720" height="1964" alt="image" src="https://github.com/user-attachments/assets/84ab9d80-e0f0-4294-8b56-d85ffdfea4eb" />
