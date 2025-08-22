@@ -46,6 +46,8 @@ now, lets breakdown tech (most are cryptographic tech) used in btc (remember, Sa
 
 a.
 ![image](https://github.com/user-attachments/assets/b44e8bd8-d74c-4c7b-82a1-20c8b21f2dd3)
+<img width="441" height="462" alt="image" src="https://github.com/user-attachments/assets/3c47b3ef-116f-49b5-81a3-e4fd365b63fc" />
+
 
 b.how did he summarize about 160 transactions (w timestamp, sender, receiver etc etc) so concisely? -by Merkle root
 
