@@ -42,12 +42,24 @@ welcome! now we have living breathing chain. SO, how can this specific architect
 Well, Look at [this architecture](https://coinmarketcap.com/earn/videos/what-is-the-graph)
 
 ---
+I am just summarizing btc tech. I m not that genius to write invent like btc.
+
 now, lets breakdown tech (most are cryptographic tech) used in btc (remember, Satosi didnt invent it, he just assembled it meaningfully):
 
 a.
 ![image](https://github.com/user-attachments/assets/b44e8bd8-d74c-4c7b-82a1-20c8b21f2dd3)
-<img width="441" height="462" alt="image" src="https://github.com/user-attachments/assets/3c47b3ef-116f-49b5-81a3-e4fd365b63fc" />
 
+<img width="441" height="462" alt="image" src="https://github.com/user-attachments/assets/3c47b3ef-116f-49b5-81a3-e4fd365b63fc" />
+notice how class is use to define Block Bits n NOT functions. Also such files are placed in CPlusLingo's primitives/block.h n NOT in primitives/block.cpp
+
+--
+block.cpp is more about what you want to do w it as below 123:
+
+1 <img width="812" height="697" alt="image" src="https://github.com/user-attachments/assets/0b5e4198-7c20-4228-8081-d74c805933a8" />
+
+2 <img width="506" height="1101" alt="image" src="https://github.com/user-attachments/assets/6573f1a1-d3b0-482b-a90f-8e531210cbe4" />
+
+3 <img width="508" height="1374" alt="image" src="https://github.com/user-attachments/assets/ae6e9761-1ea8-4aa6-86dd-610f33350bc8" />
 
 b.how did he summarize about 160 transactions (w timestamp, sender, receiver etc etc) so concisely? -by Merkle root
 
