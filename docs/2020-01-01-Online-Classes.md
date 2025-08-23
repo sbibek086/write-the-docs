@@ -172,7 +172,9 @@ now if I pull from origin, then not only origin branch but also with AlexWorking
 
 now, git pull just pulls latest v of branch I am in, which known by git status
 
-but git fetch --all pulls latest v of all branches, which and also 'pull' should be preceeded by yarn or npm or.. depending on situation because packages dependencies might have been pushed to origin by Origin-er, which might be gitignored and we should in local also install and its info paths etc already in package.json and /or package-lock.json
+but git fetch --all pulls aka fetchess latest version NOT only from current branch but from all branches .
+
+Before that, 'pull' should be preceeded by yarn or npm or.. depending on situation because packages dependencies might have been pushed to origin by Origin-er, which might be gitignored and we should in local also install and its info paths etc already in package.json and /or package-lock.json
 
 Above is very very important concept so, shouldnt be forgotten.
 
