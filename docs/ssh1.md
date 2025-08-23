@@ -9,6 +9,8 @@ A.  Some primer & loosely connected subcontext of testing-cohort aka confusion m
 ![image](https://github.com/user-attachments/assets/0f70d191-4969-4486-b636-80bbd46b1091)
 
 ---
+many devs get this wrong about unit test. class, fn or module is not unit of UnitTest but observable behavior is. So dont write testss when u create new class
+
 (P)Pytest classes n main.py + ssh connecting
 
 B.  So, today, I tried to create class.py in playwright such that another mainMightBeTest_anothername.py would call this class.py
@@ -17,7 +19,7 @@ Day before, I had been simply creating test_TestThis1Scenario.py , test_TestThis
 
 But, doing with class.py and calling this in main.py is more structured way of doing things. (which is std-ly called Page.Object.Model in Playwright). Why it is better? because lets say we are trying to make one test-suite folder of say esewa for eg.
 
-Then test-suite would look like below:
+Then test-suite would look like below: 
 
 ![image](https://user-images.githubusercontent.com/109033173/274681797-82e9bb70-54f8-4a4a-b7c5-ce88f9df8b7b.png)
 
