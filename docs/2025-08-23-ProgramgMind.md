@@ -130,6 +130,20 @@ Individual pragmatists, each one in even large teams. One who cuts mere stones m
 --
 Improvement is a continuous ongoing process.
 
+--
+Producing formatted documents from the comments and declarations in source code is fairly straightforward, but ﬁrst we have to ensure that
+we actually have comments in the code. 
+
+In code, comments should discuss O N L Y why something is done, its purpose and its goal. The code already shows how it is done, so commenting on this is redundant and is a violation of the DRY principle. 
+
+Commenting source code gives you the perfect opportunity to document those elusive bits of a project that can’t be documented anywhere else: engineering trade-offs, why decisions were made, what other alternatives were discarded, and so on.
+
+We like to see a simple module-level header comment, comments for signiﬁcant data and type declarations, and a brief per-class and per-method header, describing how the function is used and anything that it does that is not obvious.
+
+Variable names, of course, should be well chosen and meaningful. foo, for instance, is meaningless, as is doit or manager or stuff. Even Worse is Misleading names, DONT.
+
+<img width="343" height="405" alt="image" src="https://github.com/user-attachments/assets/3b7b64d3-e352-4d96-b5b3-32201ecb0928" />
+
 
 
 
