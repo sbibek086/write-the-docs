@@ -8,10 +8,65 @@ tags: [Programming]
 
 ![bott](https://github.com/user-attachments/assets/ee62be61-e4dc-4b29-badd-9a311816e35c)
 
-exerpt from Pragmatic Programmer pdf
+_Enof wisdom is in this book not only for programmg but as whole life, so need to watch new Life Wisdom I guess- no OshoStuffs n etc -isms. Vivek, I got work to do- c o d e n NOT keep returning to back-to-square-1-Oh-How-to-code. etc_
 
-_Enof wisdom are there not only for programmg but as whole life, so need to watch new Life Wisdom I guess- no OshoStuffs n etc -isms. Vivek, I got work to do- c o d e n NOT keep returning to back-to-square-1-Oh-How-to-code. etc_
+exerpt from Pragmatic Programmer pdf:
 
+euta kachra fala in 1 place. people will keep throwing there more, thinking Oh its shit place. Keep it clean - none will bother to trash-ify more. thats entropy.
+
+--
+Every now and then, you might want to emulate stone soup story. 
+
+You may be in a situation where you know exactly what needs doing and how to do it. The entire system just appears before your eyes —you know it’s right. But ask permission to tackle the whole thing and you’ll be met with delays and blank stares. People will form committees, budgets will need approval, and things will get complicated. Everyone will guard their own resources. Sometimes this is called “start-up fatigue.”
+
+Then, It’s time to bring out the stones trick. 
+
+Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel. Then say “of course, it wud be better if we added .” Pretend it’s not important. Sit back and wait for them to start asking you to add the functionality you originally wanted. People ﬁnd it easier to join
+an ongoing success. Show them a glimpse of the future and you’ll get them to rally around.
+
+--
+In Kachraa problem, people lose will to ﬁght entropy because they perceive that no one else cares. 
+
+While frog-Which-Sits-On-SLOWLY-hitting-water just doesn’t notice the change.
+
+Don’t be like the frog. Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
+
+--
+GOOD ENOUGH SOFTWARE: u can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll ﬁnd that you are more productive and your users are happier. And you may well ﬁnd that your programs are actually better for their shorter incubation.
+
+Before we go any further, we need to qualify what we’re about to say.
+The phrase “good enough” does not imply sloppy or poorly produced code. All systems must meet their users’ requirements to be successful. We are simply advocating that users be given an opportunity to participate in the process of deciding when what you’ve produced is good enough.
+Involve Your Users in the Trade-Off
+Normally you’re writing software for other people. Often you’ll remember to get requirements from them. 
+But how often do you ask them how good they want their software to be? 
+
+If you’re working on new app, you’ll have different constraints. Marketing people will have promises to keep, the eventual end users may have made plans based on a delivery schedule, and your company will certainly have cash-ﬂow constraints. It would be unprofessional to ignore these users’ requirements simply to add new features to the program, or to polish up the code just one more time. We’re not advocating panic: it is equally unprofessional to promise impossible time scales n to cut basic engineering corners to meet a deadline.
+
+The scope and quality of the system you produce should be speciﬁed as part of that system’s requirements. Often you’ll be in situations where trade-offs are involved. 
+
+Surprisingly, many users would rather use software with some rough edges today than wait a year for the multimedia version. _So, app initial inner circle lai prayog garna dee haal._
+
+BUT  KNOW WHEN TO STOP:
+In some ways, programming is like painting. painting improvise garna kehi thapera stepBack n look BigPic ta garnu parchh BUT tooMuchPerfection ko naam ma 'throw a canvas away and start again' jasto gari rahana hunna. All the hard work is ruined if you don’t know when to stop. If you add layer upon layer, detail over detail, the
+painting becomes lost in the paint. 
+
+Don’t spoil a perfectly good program by overembellishment and over-reﬁnement. Move on, and let your code stand in its own right for a while. It may not be perfect. Don’t worry: it could never be perfect. 
+
+--
+Invest in KNOWLEDGE just like invest in stocks by:
+1. Serious investors invest regularly—as a habit.
+2. Diversiﬁcation is the key to long-term success- As a baseline, you need to know the ins and outs of particular technology you are working with currently. But don’t
+stop there. The face of computing changes rapidly—hot technology today may well be close to useless (or at least not in demand) tomorrow. The more technologies you are comfortable with, the better u will be able to adjust to change.
+3. Smart investors balance their portfolios between conservative (je legacy wala which gives u breadButter) and high-risk, high-reward investments.
+4. try to catch up new tech like finding about btc in 2012. 
+5. Portfolios should be reviewed and rebalanced periodically.
+
+TakeClasses, ParticipateInLocalUserGroups, StayCURRENT, AskGURUs 
+
+_Just because a Web search engine lists a hit ﬁrst doesn’t mean that it’s the best match; content provider can pay to get top billing. Just because a bookstore
+features a book prominently doesn’t mean it’s a good book, or even popular; they may have been paid to place it there._
+
+--
 As programmer, you are 
 
 -part listener
@@ -69,8 +124,6 @@ Individual pragmatists, each one in even large teams. One who cuts mere stones m
 
 --
 Improvement is a continuous ongoing process.
-
-
 
 
 
