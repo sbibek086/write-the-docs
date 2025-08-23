@@ -12,7 +12,7 @@ _Enof wisdom is in this book not only for programmg but as whole life, so need t
 
 exerpt from Pragmatic Programmer pdf:
 
-euta kachra fala in 1 place. people will keep throwing there more, thinking Oh its shit place. Keep it clean - none will bother to trash-ify more. thats entropy.
+euta kachra faal in 1 place. people will keep throwing there more, thinking Oh its shit place. Keep it clean - none will bother to trash-ify more. thats entropy.
 
 --
 
@@ -22,8 +22,7 @@ You may be in a situation where you know exactly what needs doing and how to do 
 
 Then, It’s time to bring out the stones trick. 
 
-Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel. Then say “of course, it wud be better if we added .” Pretend it’s not important. Sit back and wait for them to start asking you to add the functionality you originally wanted. People ﬁnd it easier to join
-an ongoing success. Show them a glimpse of the future and you’ll get them to rally around.
+Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel. Then say “of course, it wud be better if we added .” Pretend it’s not important. Sit back and wait for them to start asking you to add the functionality you originally wanted. People ﬁnd it easier to join ongoing success. Show them a glimpse of the future and you’ll get them to rally around.
 
 --
 
@@ -37,12 +36,6 @@ Don’t be like the frog. Keep an eye on the big picture. Constantly review what
 
 GOOD ENOUGH SOFTWARE: u can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll ﬁnd that you are more productive and your users are happier. And you may well ﬁnd that your programs are actually better for their shorter incubation.
 
-Before we go any further, we need to qualify what we’re about to say.
-The phrase “good enough” does not imply sloppy or poorly produced code. All systems must meet their users’ requirements to be successful. We are simply advocating that users be given an opportunity to participate in the process of deciding when what you’ve produced is good enough.
-Involve Your Users in the Trade-Off
-Normally you’re writing software for other people. Often you’ll remember to get requirements from them. 
-But how often do you ask them how good they want their software to be? 
-
 If you’re working on new app, you’ll have different constraints. Marketing people will have promises to keep, the eventual end users may have made plans based on a delivery schedule, and your company will certainly have cash-ﬂow constraints. It would be unprofessional to ignore these users’ requirements simply to add new features to the program, or to polish up the code just one more time. We’re not advocating panic: it is equally unprofessional to promise impossible time scales n to cut basic engineering corners to meet a deadline.
 
 The scope and quality of the system you produce should be speciﬁed as part of that system’s requirements. Often you’ll be in situations where trade-offs are involved. 
@@ -50,10 +43,9 @@ The scope and quality of the system you produce should be speciﬁed as part of 
 Surprisingly, many users would rather use software with some rough edges today than wait a year for the multimedia version. _So, app initial inner circle lai prayog garna dee haal._
 
 BUT  KNOW WHEN TO STOP:
-In some ways, programming is like painting. painting improvise garna kehi thapera stepBack n look BigPic ta garnu parchh BUT tooMuchPerfection ko naam ma 'throw a canvas away and start again' jasto gari rahana hunna. All the hard work is ruined if you don’t know when to stop. If you add layer upon layer, detail over detail, the
-painting becomes lost in the paint. 
+In some ways, programming is like painting. painting improvise garna kehi thapera stepBack n look BigPic ta garnu parchh BUT tooMuchPerfection ko naam ma 'throw a canvas away and start again' jasto gari rahana hunna. All the hard work is ruined if you don’t know when to stop. If you add layer upon layer, detail over detail, painting becomes lost in the paint. 
 
-Don’t spoil a perfectly good program by overembellishment and over-reﬁnement. Move on, and let your code stand in its own right for a while. It may not be perfect. Don’t worry: it could never be perfect. 
+Don’t spoil a perfectly good program by overembellist. Move on, and let your code stand in its own right for a while. It may not be perfect. Don’t worry: it could never be perfect. 
 
 --
 
@@ -142,10 +134,4 @@ We like to see a simple module-level header comment, comments for signiﬁcant d
 
 Variable names, of course, should be well chosen and meaningful. foo, for instance, is meaningless, as is doit or manager or stuff. Even Worse is Misleading names, DONT.
 
-<img width="343" height="405" alt="image" src="https://github.com/user-attachments/assets/3b7b64d3-e352-4d96-b5b3-32201ecb0928" />
-
-
-
-
-
-                 
+<img width="343" height="405" alt="image" src="https://github.com/user-attachments/assets/3b7b64d3-e352-4d96-b5b3-32201ecb0928" />                 
