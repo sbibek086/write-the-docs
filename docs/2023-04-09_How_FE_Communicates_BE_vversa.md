@@ -12,7 +12,10 @@ tags: [SoftwareDev]
 
 ![image](https://github.com/user-attachments/assets/acb5519d-adbe-4c76-b1a0-9311a5596d35)
 
-![image](https://github.com/user-attachments/assets/e2b92cac-3ae2-4580-ae8d-41bc6fb83bba)
+<img width="746" height="413" alt="image" src="https://github.com/user-attachments/assets/bbbfd21c-433d-4b00-9328-73a2fe2e0abb" />
+
+<img width="593" height="417" alt="image" src="https://github.com/user-attachments/assets/40c2eb42-8111-4c6e-9c43-222407208551" />
+
 
 API pings if data is ready from server, and then gives it to mobile app, desktop app or web app
 
@@ -43,15 +46,6 @@ Not only this, .env folder has other purposes too, as clarified from below
 _Also, we have to do git pull everytime after we do git checkout branchNewlyDevelopedFeature because I remember that one day, I couldnt deploy correctly because my to-go-and-deploy 
 branchNewlyDevelopedFeature should have had .env updated._
 
-```
-dyk that .gitignore - whatever we put in it, is ignored by git. 
-They are not put in burden to git by git. 
-Such folders we want to put in .gitignore could be packages, 
-which are installed on press of npm install etc.
-
-git fetch --all fetches or pulls updates not only from current branch 
-but from all branches in that repo.
-```
 ---
 .eslint.config.json - whatever stds we set for linting has to be followed as protocol in order to be valid. eg. if 'feat' is in eslint.config.json, then our git cmd should obey that language protocol like _git commit  -m "feat: feature of drop down menu fixed in this Pull Req"_ otherwise, compiler wont compile this git
 
