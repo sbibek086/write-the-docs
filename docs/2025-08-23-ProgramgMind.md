@@ -15,6 +15,7 @@ exerpt from Pragmatic Programmer pdf:
 euta kachra fala in 1 place. people will keep throwing there more, thinking Oh its shit place. Keep it clean - none will bother to trash-ify more. thats entropy.
 
 --
+
 Every now and then, you might want to emulate stone soup story. 
 
 You may be in a situation where you know exactly what needs doing and how to do it. The entire system just appears before your eyes —you know it’s right. But ask permission to tackle the whole thing and you’ll be met with delays and blank stares. People will form committees, budgets will need approval, and things will get complicated. Everyone will guard their own resources. Sometimes this is called “start-up fatigue.”
@@ -25,6 +26,7 @@ Work out what you can reasonably ask for. Develop it well. Once you’ve got it,
 an ongoing success. Show them a glimpse of the future and you’ll get them to rally around.
 
 --
+
 In Kachraa problem, people lose will to ﬁght entropy because they perceive that no one else cares. 
 
 While frog-Which-Sits-On-SLOWLY-hitting-water just doesn’t notice the change.
@@ -32,6 +34,7 @@ While frog-Which-Sits-On-SLOWLY-hitting-water just doesn’t notice the change.
 Don’t be like the frog. Keep an eye on the big picture. Constantly review what’s happening around you, not just what you personally are doing.
 
 --
+
 GOOD ENOUGH SOFTWARE: u can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll ﬁnd that you are more productive and your users are happier. And you may well ﬁnd that your programs are actually better for their shorter incubation.
 
 Before we go any further, we need to qualify what we’re about to say.
@@ -53,6 +56,7 @@ painting becomes lost in the paint.
 Don’t spoil a perfectly good program by overembellishment and over-reﬁnement. Move on, and let your code stand in its own right for a while. It may not be perfect. Don’t worry: it could never be perfect. 
 
 --
+
 Invest in KNOWLEDGE just like invest in stocks by:
 1. Serious investors invest regularly—as a habit.
 2. Diversiﬁcation is the key to long-term success- As a baseline, you need to know the ins and outs of particular technology you are working with currently. But don’t
@@ -67,6 +71,7 @@ _Just because a Web search engine lists a hit ﬁrst doesn’t mean that it’s 
 features a book prominently doesn’t mean it’s a good book, or even popular; they may have been paid to place it there._
 
 --
+
 As programmer, you are 
 
 -part listener
