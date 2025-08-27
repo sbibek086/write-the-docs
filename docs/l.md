@@ -6,6 +6,13 @@ tags: [Life]
 
 ---
 
+So,my 1 weakness:
+
+MA JASTAI SWISS PGM FREE VISA DEKHYO TYO GARIHALXU nooooo I SUD HAVE LONG YR OF THAT ALIGNMENT TO COME THAT TO FRUITION. FOKAT MA 17 DOL GAYO, SIDE EFFECT - NOW, I CANT USE SMRIIT SIS DEBcARD TO PAY FOR MY AWS. 
+KEHI KURA KO LAGI MAILE 50 60 70 DEG C UMALI RAHEKO HUNU PARCHH, ACHANAK BY STROKE OF LUCK THIN STRING, KUNAI 100 C KO PANI UMLIDAINA MERO.PURSUE GARI NA RAAKO CHEEZ NA VAYE SAMMA TYA BIG INVEST NA GAR, FOR EG. NOW SUDDENLY, I CANT WIN BIG JUST BECAUSE i SET MY EYES ON SAY LAW AREA, FOR THAT, I HAVE TO ENOF WORK ON ITS A, B, C TO FRUITION TO Z
+
+
+
 Back in high school, I had unfulfilled promise w someone- responsibility was on me on that 1 year time-window. That self guilt echoed me to such extent that every time I spent without one in grad, I felt like squeezing every grad-time, meaning time I spent on learning knowledge to sthg of value powernote lifelong- So, I wouldnt throw away even some notes which colleague would soon forget after exam day. 
 
 ![image](https://github.com/user-attachments/assets/c3832880-8354-48ce-b8c7-d38ca8d5ba8c)
