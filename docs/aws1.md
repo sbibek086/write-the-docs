@@ -67,11 +67,8 @@ So key pair is just, like u got 3 doors , n u rotate key door combination shifte
 
 2.3 MFA
 
-![Untitled](https://user-images.githubusercontent.com/109033173/221377586-ea23b004-47ff-4de7-81cd-d9fb42aa02c3.png)
 
-achieve single sign-on in principal aka root aws acc by configuring SAML2.0
-
-Now lets get around some tricky situation below where for SSO, SAML2.0 is not configured.
+Now lets get around some tricky situation below where for SSO, SAML2.0 is not configured in principal aka root aws acc, n needs to be done.
 
 ``` 
 suppose some X company has employees who need to run internal applications that access company's aws resources. these employees already have user credentials in company's Identity Auth system, WHICH DOESNT SUPPORT SAML2.0 ,and company doesnt want to create seperate IAM user for each company employees.
@@ -197,7 +194,7 @@ one-tab.com/page/Re6mP65mTOWoNERYBjYhJA
 
 [creating vpc subnet,khuru khuru gara herera, dherai curiousCat nabana](https://www.youtube.com/watch?v=Qwx8gOukhMI)
 
-tes pachhi
+then
 
 <img width="872" height="870" alt="image" src="https://github.com/user-attachments/assets/6e7ebaf9-1623-4445-88b1-122c44939baf" />
 
