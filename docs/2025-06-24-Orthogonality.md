@@ -18,9 +18,12 @@ In general, your code is easier to understand and maintain if u explicitly pass 
 In object-oriented applications, context is often passed as parameters to objects’ constructors. In other code, you can create structures con-
 taining the context and pass around references to them. 
 
-The Singleton pattern in Design Patterns is way of ensuring that there is only one instance of an object of a particular
+This Singleton pattern in Design Patterns is way of ensuring that there is only one instance of an object of a particular
 class. Many people use these singleton objects as a kind of global variable (particularly in languages, such as Java, that otherwise do
 not support the concept of globals). However, be careful with singletons— this can also need to unnecessary linkages.
+
+<img width="961" height="266" alt="image" src="https://github.com/user-attachments/assets/6162e3d2-0319-4411-8091-b2337068a4bc" />
+
 
 B. testing (Here, context is: testing code workability in code itself, n NOT about QA who tests GUI)
 ![image](https://github.com/user-attachments/assets/90de2e54-99cb-42e4-a418-88874f50cb3b)
