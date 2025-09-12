@@ -9,15 +9,14 @@ Db contain files (docs, spreadsheets, photos etc) while Relational DB Management
 So they aint same thing.     And RDBMS have certain relation between tables.  _Db is written in just json_
 
 If Db is library full of data. then DBMS is like all -knowing librarian. 
-Db is collection of data while DBMS is management sys. n helps in managing n organizing data efficiently.
-DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. It also provides protection n security to db
-
- --- 
-![image](https://github.com/user-attachments/assets/2a5ccf6f-3aa5-4e1d-b5b0-94abf58f6845)
+Db is collection of data while DBMS is management sys. 
+DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. 
+ 
+--- 
 
 ![image](https://github.com/user-attachments/assets/c573fe32-86b6-423f-80ce-0da46d504f05)
 
-![image](https://github.com/user-attachments/assets/5bb92fa0-ed15-400c-8c01-3ce3f38bd9c3)
+<img width="1041" height="872" alt="image" src="https://github.com/user-attachments/assets/c3864cdd-f137-4c51-b818-af8b8fe1692f" />
 
 
 _tara postgresql database ta xuttai hunchh ni, tyo chai local chalauda ni vayo wa cloud bata. yi lab backenders le local bata db chalauchh ra sab production ready bhayepaxi chai cloud ma upload garda vayo ie. VPS._
@@ -32,7 +31,6 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 
 ---
 ![image](https://github.com/user-attachments/assets/5fecb842-bcd5-4a4a-8796-506acf72dea3)
-![db](https://github.com/user-attachments/assets/dfcff701-d907-4378-9368-795b9ba64bd5)
 ![image](https://github.com/user-attachments/assets/1cd14445-d0c4-4875-8e4e-b41e22d76ca9)
 
 ---
