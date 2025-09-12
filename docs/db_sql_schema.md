@@ -30,7 +30,7 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f0a79b56-e363-46da-8c95-4f812e780554)
 
 ---
-![image](https://github.com/user-attachments/assets/5fecb842-bcd5-4a4a-8796-506acf72dea3)
+![db](https://github.com/user-attachments/assets/dfcff701-d907-4378-9368-795b9ba64bd5)
 ![image](https://github.com/user-attachments/assets/1cd14445-d0c4-4875-8e4e-b41e22d76ca9)
 
 ---
