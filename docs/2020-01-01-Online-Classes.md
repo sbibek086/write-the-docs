@@ -72,7 +72,7 @@ Requirement: At least 2.8 and above GPA in SEE
 
 रोजगारको प्लेसमेन्ट पनि गरिनेछ, पर्फमेन्स उत्कृष्ट गर्नसक्नु भएमा ।
 
-**Bootcamp Day 2 - Github Flow of commands**
+**Bootcamp Day 2,3,4 - Github Flow of commands**
 
 ![About Git](https://user-images.githubusercontent.com/11883023/150847281-192341a7-7ad3-49e4-beb5-0c7934c8eebf.png)
 
@@ -126,7 +126,7 @@ git pull A B means pull from A to B [.](https://youtu.be/lR_hYwCAaH4?si=JIZ2LMIt
 
 ![image](https://github.com/user-attachments/assets/1ef3db20-a2f5-4abc-afbf-2633bdb88996)
 
-**Bootcamp Day 3- How Tester uses git?**
+**Bootcamp Day 5,6,7- How Tester uses git?**
 
 अबको तलको प्रसङग्, मैले IT कम्पनी -YIlab मा परीक्षणकर्ता या नि की 'टेस्टर'को रूपमा काम गर्न थालेपछि लेखें। त्यसैले, यो टेस्टरको दृषटिबाट तल अनुसार गर्नुपर्छ:
 
@@ -191,7 +191,7 @@ at the same time, can change, commit etc to reflect changes in git ready docs.*
 One thing Now Pro me have to suggest to this amateur me's this paragraph is: I dont need to put it in xampp htdocs to init server for every language (its necessary for php developing). Eg. In react, to initialize server, i just have to write: npm start as server initialization is implicitly handled by package.
 ```
 
-**Bootcamp Day 4- Whats upstream policy and why its used in IT workplace + Why Gitlab, NOT github is used in Nepal?**
+**Bootcamp Day 8,9- Whats upstream policy and why its used in IT workplace + Why Gitlab, NOT github is used in Nepal?**
 
 In real IT workplace, workflow looks like below:
 ![image](https://github.com/user-attachments/assets/b425495d-226a-434a-a2e7-9f2d2fe44c6b)
@@ -238,12 +238,12 @@ package.json - Now, I understand why package.json should be there because it sho
 
 ![devScreens](https://user-images.githubusercontent.com/11883023/267171117-c2518bd4-3fbd-49de-bbca-99325e2d22d6.jpeg)
 
-**Bootcamp Day 5 - Breaking down Settings Panel of each Github repo**
+**Bootcamp Day 10 - Breaking down Settings Panel of each Github repo**
 
-![image](https://github.com/user-attachments/assets/b91ad6e2-6fd2-4b8d-82fa-6127a9094f41)
+<img width="661" height="370" alt="image" src="https://github.com/user-attachments/assets/a582353b-4999-4ba7-84de-7ff7a4c63e03" />
 
 ---
-**Bootcamp Day 6 - Assets aka output files of Github repo**
+**Bootcamp Day 11 - Assets aka output files of Github repo**
 
 <img width="532" height="510" alt="image" src="https://github.com/user-attachments/assets/1721d24b-e0a6-4ead-a89a-8951054c4e55" />
 Most of the assets in Github repo are either in .tar or .Linux or .mvcc.zip or gnu.zip.  
@@ -253,14 +253,14 @@ Most of the assets in Github repo are either in .tar or .Linux or .mvcc.zip or g
  `Did you know that UNIX OS are designed to do just one thing better. Windows OS revolted against such specific purpose but were proprietary locked but LINUX also revolted against such UNIX style specific purpose and were Open source..`
  
 ---
-**Bootcamp Day 7 - Permission levels of different Roles in Personal repo (Organization Repo not covered)**
+**Bootcamp Day 12 - Permission levels of different Roles in Personal repo (Organization Repo not covered)**
 
 [Here is its official docu](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#further-reading). We hope to convey this information little easier
 
 ![Permission-different-roles](https://user-images.githubusercontent.com/11883023/168208559-2db54797-73b2-4228-bc56-fbb8713090e3.png)
 
 ---
-**Bootcamp Day 8 - Developer Settings in Github**
+**Bootcamp Day 13 - Developer Settings in Github**
 Here, we are not talking about what your SSH or GPG keys of your github account should be? 
 _tara ssh token aka keys vannu ra ya kura gareko personal access token vannu eutai ho_
 
@@ -276,7 +276,9 @@ a)Secret Key: Used to sign/encrypt data for secure communication. Its type:
   -  Access Token: Grants temporary access to protected resources (e.g., OAuth 2.0).
   -  Refresh Token: Used to obtain a new access token without re-authenticating.
   -  JWT (JSON Web Token): A specific type of token that contains claims and is signed for integrity.
+    
 b) Token: Authenticates users or sessions for resource access. eg. esewa euta tab ma login garda arko tab ma ni send mony etc garna painxa wa yei PAT jasto
+
 c) API keys: yo prasanga ra a) ra b) vanda alag ho but IKnowIt
 
 For eg: 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37 is my sbib Personal.Access.Tokens of github acc as github has stopped supporting acc passwords. Now it requires token-based authentication (for example, a personal access, OAuth, or GitHub App installation token) for all authenticated Git operations.  
@@ -287,7 +289,7 @@ _tara yo pani after certain time expire hunxa I think because email ma yo expire
 .github folder vitra ka kura localMachine bata git transfer hudaina. myMachine secret keys, local environment vars haru hunxa es vitra
 
 ---
-**Bootcamp Day 9 - Setting up Public template as new repo template, Speed vs Inflexibility, which to opt for?**
+**Bootcamp Day 14 - Setting up Public template as new repo template, Speed vs Inflexibility, which to opt for?**
 
 ![image](https://user-images.githubusercontent.com/11883023/168464154-02c86efc-26a0-4c70-9e35-e6838d2b3571.png)
 
@@ -295,7 +297,7 @@ Now, it gives me question of what exactly is difference between public template 
 Currently, my understanding is: boilerplates are like templates which already has Layer 0 folders required for adding up next layer application logic folders.
 
 ---
-**Bootcamp Day 10 - Working with Boilerplates - Problems faced and its solutions:**
+**Bootcamp Day 15,16 - Working with Boilerplates - Problems faced and its solutions:**
 [Boilerplate repos](https://github.com/sbibek086/boilerplate) are great way to speed up dev process - lot faster than w sdk ways but it can be difficult to learn.
 
 Stuck with this Host key verification failed error
@@ -321,20 +323,24 @@ and after installing iCloud App, it says to setup Windows Hello Pin and hence be
 [this](https://support.apple.com/guide/icloud-windows/set-up-icloud-passwords-icw2babf5e03/icloud) seems to answer this above issue.
 
 ---
-**Bootcamp Day 11- This repo itself is Template repository**
+**Bootcamp Day 17- This repo itself is Template repository**
 
 Have I solved Bootcamp Day 10's issue with this method is beyond scope of now, however lets not delete Chapter 7. But this is Template repo itself as you can see 'Use this Template in upper belt navigation, which doesnt come for normal repo'
 Just use it as template- the root layer file structure will be duplicated in your new github repo. 
 
 ---
-**Bootcamp Day 12 - Environments, while you go to settings in repo. What are they?**
+**Bootcamp Day 18 - Environments, while you go to settings in repo. What are they?**
 
 https://youtu.be/nI6pRfH7VTc
 
 ---
-**Bootcamp Day 13 - Which open source license to use when?**
+**Bootcamp Day 19 - Which open source license to use when?**
 https://choosealicense.com/
 
 ---
-**Bootcamp Day 14 -**
+**Bootcamp Day 20,21,22 -**
 [what to do with submitted issues in project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board)
+
+--
+**Bootcamp Day 23.24.25 -**
+Revision, Question, Conclusion 
