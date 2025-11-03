@@ -7,15 +7,13 @@ tags: [Software]
 ---
 LLMs:
 
--gpt:
-
 a) Uploading code files and letting it analyze has been fav gpt use.
 
 _oh, btw, ensure that you have one brave incase duckduckgo - default brings up cross origin API error, which simply means 'no access' when trying to attach g drive files. so, I jumped over this duckduck's annoying 'no access' just doing from brave_
 
 _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby clb's code all over._
 
-b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. GPT accordingly removed and give me in raw text format to copy-paste.
+b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
 
 -claude aka cursor:
 
