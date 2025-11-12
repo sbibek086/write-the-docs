@@ -3,15 +3,10 @@ layout: default
 title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + PEP-668? +Lib n Framework Diff
 category: Programming
 tags: [Programming]
+
 ---
 
-![image](https://github.com/user-attachments/assets/50e02731-7c16-4781-8ccd-da93ce1de499)
-
-![pyMachine](https://github.com/user-attachments/assets/597fb277-942f-4d1c-a4c7-638ff73b7eb3)
-
-
-I can type below cmds on terminal after I install py
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/90b50ca3-7fc0-4a9a-848a-e2e6b2120a1c)
+<img width="1042" height="1127" alt="image" src="https://github.com/user-attachments/assets/6431b7d5-5949-4236-870f-507f99da0a17" />
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9f1b228a-3e92-4ec3-89c1-88d2bdff3ded)
 
