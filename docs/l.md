@@ -34,7 +34,7 @@ I could be better by below:
 
 ![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
-<img width="770" height="1039" alt="image" src="https://github.com/user-attachments/assets/a5c3c940-1934-4d45-8dc7-75c281857a5a" />
+<img width="770" height="1039" alt="image" src="https://github.com/user-attachments/assets/c3e20ae0-abbd-4b41-b720-2dee92874817" />
 
 ![image](https://github.com/user-attachments/assets/ac9cd9fc-6c3a-410f-9445-f267be24f88b)
 
