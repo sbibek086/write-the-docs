@@ -27,7 +27,7 @@ aka Forwards local port to remote destination.
 Remote Port Forwarding (Reverse Tunneling): Forwards traffic from a remote port to a local machine.
 aka Forwards remote port to local destination.
  
-more in https://chatgpt.com/share/6872b264-08e4-8007-b4d3-6dd576c84a4c
+more in <img width="958" height="656" alt="image" src="https://github.com/user-attachments/assets/511aba33-a932-43c5-b118-0bf36cb65578" />
 
 ---
 <img width="654" height="612" alt="image" src="https://github.com/user-attachments/assets/5f705358-1e43-46e9-af9a-6899d0874696" />
