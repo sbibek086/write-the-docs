@@ -6,23 +6,34 @@ tags: [Lifestyle]
 
 ---
 
-USING LLM to write code:
+<img width="764" height="299" alt="image" src="https://github.com/user-attachments/assets/8d22e451-a5e6-440d-88b6-5ed56e729b7e" />
 
-![image](https://github.com/user-attachments/assets/5e7801af-b950-46cb-82aa-3a24c6eeac87)
+LLMs like gpt etc:
 
-_I have been criticized for not being smart enough to be one niche specific. I mean I am a) investing, b) learning devs n  
-c)going depth about how Ethereum VM is built -drop this d) shit, learn to drive car, who cares whats in car engine; eat mango, who cares knowing biology of mango trees. n I'm trying 
- hard to reset this natural all-over-place syndrome_
+A) gpt
 
-To quote AB, (I am not referring BachPAAn guy who disllusions people w bullshit quiz knowledge, that does nobody no good n continues to fuck people, btw! )
+a) Uploading code files and letting it analyze has been fav gpt use.
 
-**People that are extremely successful don’t learn/study more than others.  They DO more, then when they hit a cap in the DOING up the goal. They then strategically learn exactly (and as little as) what is needed and then return to aggressive doing.
-Most learn with no intent. Don’t.**
+_oh, btw, ensure that you have one brave incase duckduckgo - default brings up cross origin API error, which simply means 'no access' when trying to attach g drive files. so, I jumped over this duckduck's annoying 'no access' just doing from brave_
 
---
-using llm to write code sounds so scifi but its what I've been doing- using gpt or now deepseek to write code for me. but it goes beyond that
+_n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby clb's code all over._
 
-btw, If someone tells you that coding with LLMs is easy they are (probably unintentionally) misleading you. They may well have stumbled on to patterns that work, but those patterns do not come naturally to everyone.
+b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
+
+B) claude aka cursor:
+
+https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3
+
+C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm37)
+
+D) (Gemini:)[https://gemini.google.com/app]
+<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/663fff46-642a-4a34-a085-a4f9c052f8ad" />
+<img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
+
+
+LLMs to write code:
+
+If someone tells you that coding with LLMs is easy they are (probably unintentionally) misleading you. They may well have stumbled on to patterns that work, but those patterns do not come naturally to everyone.
 
 so, here's how I first adjusted my brain 1st before expecting llm to work correctly for me:
 
@@ -55,7 +66,8 @@ This context isn’t just the prompt that you have fed it: successful LLM intera
 
 **When you start a new conversation you reset that context back to zero. This is important to know,** as often the fix for a conversation that has stopped being useful is to wipe the slate clean and start again.
 
-Some LLM coding tools go beyond just the conversation. Claude Projects for eg allow you to pre-populate the context with quite a large amount of text—including a recent ability to [import code directly from a GitHub repository](https://support.anthropic.com/en/articles/10167454-using-the-github-integration).
+Some LLM coding tools go beyond just the conversation. 
+Claude Projects for eg allow you to pre-populate the context with quite a large amount of text—including a recent ability to [import code directly from a GitHub repository](https://support.anthropic.com/en/articles/10167454-using-the-github-integration).
 
 Tools like Cursor and VS Code Copilot include context from your current editor session and file layout automatically, and you can sometimes use mechanisms like [Cursor’s @commands](https://docs.cursor.com/context/@-symbols/overview) to pull in additional files or documentation.
 
@@ -165,8 +177,4 @@ I’ve been vibe-coding since before Andrej gave it a name! My GITHUB.COM/simonw
 You can try most of mine out directly on tools.simonwillison.net —a GitHub Pages published version of the repo. I wrote more detailed notes on some of these back in October in [Everything I built with Claude Artifacts](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 
 If you want to see the transcript of the chat used for each one it’s almost always linked to in the commit history for that page—or visit the [new colophon page](https://tools.simonwillison.net/colophon) for an index that includes all of those links.
-
-
-
-
 
