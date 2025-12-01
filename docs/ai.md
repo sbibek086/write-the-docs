@@ -27,7 +27,7 @@ https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3
 C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm37)
 
 D) (Gemini:)[https://gemini.google.com/app]
-<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/663fff46-642a-4a34-a085-a4f9c052f8ad" />
+<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/600a5412-5e52-4348-a3f9-bcc19f1c8762" />
 <img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
 
 
