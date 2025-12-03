@@ -20,14 +20,12 @@ _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby c
 
 b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
 
-B) claude aka cursor:
+B) [claude aka cursor workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
 
-https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3
-
-C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm37)
+C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm)
 
 D) [Gemini:](https://gemini.google.com/app)
-<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/600a5412-5e52-4348-a3f9-bcc19f1c8762" />
+<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/11debe33-ffaa-402c-9476-81ac850a5364" />
 <img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
 <img width="744" height="3016" alt="image" src="https://github.com/user-attachments/assets/f46ea806-2ba2-4276-ade2-2356cb38e562" />
 
