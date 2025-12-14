@@ -12,7 +12,9 @@ aws..com ns@g rT1!
 [AMAZON account for registering aws cloud architect exams](https://aws.amazon.com/certification/certification-prep/testing/) etc   
 
 and [also for learning cloud practitioner FREE ENROLL in aws skillbuilder](https://explore.skillbuilder.aws/learn/course/12483/play/50113/aws-certified-cloud-practitioner-official-practice-question-set-clf-c01-english) is with shrsmriti@g r.T.1 or 2- Iforgot
-- https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay succes
+- https://console.aws.amazon.com/billing/  ma jau ra di ko card rakha default ma ani yei lai primary set gara ani balla hunx pay success
+
+[aws acc](https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&redirect_uri=https%3A%2F%2Feu-north-1.console.aws.amazon.com%2Fconsole%2Fhome%3Fca-oauth-flow-id%3D7bc7%26hashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_si%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_180ddac32ff2a940%26useDefaultRegion%3Dtrue&page=resolve&code_challenge=iKaefn1TloefbJlC15olLA6eSPvyM6lj76A4Pkh4VCE&code_challenge_method=SHA-256&backwards_compatible=false&scope=openid) ns@g rT.! recovCode 3.6.3.
 
 **C L O U D . P R A C T I T I O N E R - code: CLF- CO1 **
 
