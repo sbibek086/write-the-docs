@@ -7,13 +7,14 @@ tags: [Programming]
 
 <img width="264" height="229" alt="image" src="https://gist.github.com/user-attachments/assets/0e6758d2-219e-4964-888d-146c180b0b7b" />
 
+(PLEASE COME WITH LAPTOP)
 
 [Class Trial Sign Up form](https://docs.google.com/forms/d/e/1FAIpQLSf8WbtXnQ50RoKWdbZsVb0xgwmCnWBAEj-k33rLtNqdWJse_w/viewform)
 
 Syllabus:
 
 (Please note that these days are well thought out to be so, and while on actual class progress, days allocation may extend or shrink according to requirements)
-(PLEASE COME WITH LAPTOP)
+
 Day 1-Orientation:
 -Scope of Python & web development Django framework
 
