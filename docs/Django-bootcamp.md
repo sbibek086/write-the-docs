@@ -11,6 +11,8 @@ tags: [Programming]
 
 [Class Trial Sign Up form](https://docs.google.com/forms/d/e/1FAIpQLSf8WbtXnQ50RoKWdbZsVb0xgwmCnWBAEj-k33rLtNqdWJse_w/viewform)
 
+_location and contact no. is in above signup form_
+
 Syllabus:
 
 (Please note that these days are well thought out to be so, and while on actual class progress, days allocation may extend or shrink according to requirements)
