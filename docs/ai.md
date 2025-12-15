@@ -28,9 +28,9 @@ D) [Gemini:](https://gemini.google.com/app)
 <img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/38199148-ac89-41a0-a332-68949b71b3ea" />
 <img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
 <img width="744" height="3016" alt="image" src="https://github.com/user-attachments/assets/f46ea806-2ba2-4276-ade2-2356cb38e562" />
+<img width="926" height="1756" alt="image" src="https://github.com/user-attachments/assets/95bc8d33-6409-4079-a732-42dee0b0d6c5" />
 
-
-LLMs to write code:
+NERDY stuffs---LLMs to write code:
 
 If someone tells you that coding with LLMs is easy they are (probably unintentionally) misleading you. They may well have stumbled on to patterns that work, but those patterns do not come naturally to everyone.
 
