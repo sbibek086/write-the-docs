@@ -7,15 +7,9 @@ tags: [Programming]
 ---
 recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
-poetry le aafai poetry.lock ra .toml file (= setup.py+ requirement.txt) banauchh. 
+poetry le aafai poetry.lock ra .toml file (= setup.py+ requirement.txt ) banauchh. 
 
-poetry.lock ma package version satik hunxa
-
-pip ma jasto 'maile pip install garda latest package tanexa, tara timle project compile tyo package ko tallo version thiyo, so mero ma package dependency Conflict vayo' vanne issue nai aaudaina 
-
-BECAUSE poetry.lock ma etti version package ho vanne lekhiyekai hunxa - tyei version ko package na vaye ma tyo package pip le garya jasto install gardaina, Suru mai rokdinchh. 
-
-{Open [this gpt thread](https://chatgpt.com/share/6881a1a6-c008-8007-ba15-99485cd7125e) in two tabs. open using poetry template way n scratch way in two tabs side by side n observe. }
+<img width="579" height="337" alt="image" src="https://github.com/user-attachments/assets/8103665b-abdc-42aa-8eca-ae25bdab835b" />
 
 _these below screenshots are continuation while prooblem-solving one after another:_
 
@@ -53,3 +47,7 @@ while installing postgres locally on my machine:
 
 ![image](https://github.com/user-attachments/assets/08e69ff8-ee96-40ab-8b44-b491d3494850)
 
+--
+just unrelated fyi about poetry manual or template way 
+
+{Open [this gpt thread](https://chatgpt.com/share/6881a1a6-c008-8007-ba15-99485cd7125e) in two tabs. open using poetry template way n scratch way in two tabs side by side n observe. }
