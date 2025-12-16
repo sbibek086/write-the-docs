@@ -21,6 +21,8 @@ _these below screenshots are continuation while prooblem-solving one after anoth
 
 ![image](https://github.com/user-attachments/assets/4729339d-4890-4733-a2da-c5ba73da7a3e)
 
+<img width="597" height="1419" alt="image" src="https://github.com/user-attachments/assets/537c9520-f627-46fc-8abe-de3577968167" />
+
 <img width="562" height="580" alt="image" src="https://github.com/user-attachments/assets/b9f363a0-b3b7-40c8-9732-2b72031495f4" />
 
 ![image](https://github.com/user-attachments/assets/608e225d-d87c-41ec-ba8f-8a1d0c86894e)
