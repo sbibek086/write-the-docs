@@ -152,7 +152,8 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 **4 BILLING & PRICING - 16%**
 
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
-Billing Support
+<img width="692" height="138" alt="image" src="https://github.com/user-attachments/assets/a10c2546-decf-4724-9353-85ea446c5109" />
+
 
 ---
 ![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
@@ -162,10 +163,7 @@ Billing Support
 ![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
 
 ---
-![image](https://user-images.githubusercontent.com/109033173/180044421-2a5284ba-5783-4e38-a19c-130fa906bf25.png) 
-
----
-![CLF- exam](https://user-images.githubusercontent.com/109033173/223468690-82307b7a-97eb-42e1-879b-9aa7fad55a36.png)
+<img width="742" height="1220" alt="image" src="https://github.com/user-attachments/assets/31a32f09-6b71-451d-b3f0-69a8428b08f8" />
 
 ---
 For instance to have high IOPS, then you need to select RAID 10 format ec2 instances. and obviously for low IOPS, go w RAID 0 etc..
