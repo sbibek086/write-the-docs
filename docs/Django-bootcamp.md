@@ -5,7 +5,7 @@ category: Programming
 tags: [Programming]
 ---
 
-<img width="264" height="229" alt="image" src="https://gist.github.com/user-attachments/assets/0e6758d2-219e-4964-888d-146c180b0b7b" />
+<img width="257" height="184" alt="image" src="https://github.com/user-attachments/assets/3a0d5cf8-07dc-488c-b361-446f2fd3f7b9" />
 
 (PLEASE COME WITH LAPTOP)
 
