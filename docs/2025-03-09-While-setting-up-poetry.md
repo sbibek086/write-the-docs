@@ -39,6 +39,7 @@ _appeciate it vivek! how hard was it to see it going to terminal while doing in 
 
 This is showing tables of postgres db. 
 
+_sometimes, if "Datasource was invalidated" message comes in DBeaver, it generally means that the connection to the database was lost or became stale. To solve, Right-click your database connection in the Database Navigator, n then Click "Reconnect"_
 ---
 ![image](https://github.com/user-attachments/assets/028ab528-ab12-4afc-b02f-52649f0a769a)
 
