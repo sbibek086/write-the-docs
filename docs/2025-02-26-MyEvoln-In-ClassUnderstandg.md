@@ -161,7 +161,8 @@ A.
 
 OOP4pillars img below:
 
-![image](https://github.com/user-attachments/assets/19cc0d28-ce51-42ec-85a2-00615acb5a86)
+<img width="1141" height="1260" alt="image" src="https://github.com/user-attachments/assets/b72d4c03-1b1f-40ca-b71e-169cf3e7f21a" />
+
 
 Idiot me! -It was just example of real life so that we can relate easily. Classes are used in all sorts of core files development, like if we have to inherit parent driver classes to more specific childs
 
