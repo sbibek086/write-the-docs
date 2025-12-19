@@ -40,9 +40,11 @@ karyakram ma pani aja specific vayera manaau sarswati pooja karyakram ko lagi ma
 ---
 
 you can skip this below:
+
 <img width="787" height="1098" alt="image" src="https://github.com/user-attachments/assets/ff64fe43-ebcf-4848-b848-6f19e918d16f" />
 
 Mathi vaniyeko k na milera samasya vaako ma samasya vaako yo ho:
+
 <img width="1838" height="1579" alt="image" src="https://github.com/user-attachments/assets/f949995f-ffe2-4639-8065-93971c566f39" />
 
 ---
