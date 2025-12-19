@@ -1,4 +1,4 @@
-<img width="1085" height="316" alt="image" src="https://github.com/user-attachments/assets/00b1b22a-8323-47f5-9bd7-9d2737ada6c6" />---
+---
 layout: default
 title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + Django set-up cmd +PEP-668? +Lib n Framework Diff
 category: Programming
