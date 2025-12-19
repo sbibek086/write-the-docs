@@ -65,10 +65,9 @@ So key pair is just, like u got 3 doors , n u rotate key door combination shifte
   
 ```
 ![image](https://user-images.githubusercontent.com/109033173/236812602-273c3f0e-db0e-43c6-b52e-40cabae54288.png)
-![image](https://user-images.githubusercontent.com/109033173/221377563-d45c01af-6fd0-483d-9611-e8ea931090b3.png)
+<img width="970" height="190" alt="image" src="https://github.com/user-attachments/assets/dade4b52-08cb-4b7c-9fff-8ed3876c793e" />
 
 2.3 MFA
-
 
 Now lets get around some tricky situation below where for SSO, SAML2.0 is not configured in principal aka root aws acc, n needs to be done.
 
@@ -104,7 +103,7 @@ https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d
 3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
 
 ---
-3.4 EC2 - IknowIt
+3.4 EC2 - IknowIt (when ec2 instance that's backed by S3-based AMI is terminated, data on the root volume is automatically terminated)
 
 ec2 reserved instances  
 
@@ -154,15 +153,9 @@ Any charges that occur over this amount will cause AWS to auto suspend these res
 On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 <img width="692" height="138" alt="image" src="https://github.com/user-attachments/assets/a10c2546-decf-4724-9353-85ea446c5109" />
 
-
 ---
-![image](https://user-images.githubusercontent.com/109033173/185744444-ed1e7198-e582-4199-b1a2-a7dc6970eae6.png)
+<img width="1137" height="869" alt="image" src="https://github.com/user-attachments/assets/d1426a47-96e0-4c27-80f2-819622e418ce" />
 
----
-![image](https://user-images.githubusercontent.com/109033173/193422322-b40f7d08-68b7-4d6f-8a3e-faaf23aa1606.png)
-![image](https://user-images.githubusercontent.com/109033173/192141241-258f9499-d4de-42c7-9b13-fe79d3c043b3.png)
-
----
 <img width="742" height="1220" alt="image" src="https://github.com/user-attachments/assets/31a32f09-6b71-451d-b3f0-69a8428b08f8" />
 
 ---
