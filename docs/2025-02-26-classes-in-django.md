@@ -5,26 +5,13 @@ category: Software Development
 
 ---
 
-A. 
+A. Metaclasses
 
-metaclasses—"classes of classes" by which we can control over how classes are created and behave!
-In the realm of Python, everything is an object, even classes themselves! 
+https://gemini.google.com/share/c777f7850ef6
 
-When you conjure a new class, behind the scenes, Python employs a metaclass to weave its magic. The default metaclass is type, but the true power lies in your ability to create custom metaclasses, allowing you to shape and define the very framework of your classes.
+Powerful Object-Relational Mapping libraries leverage metaclasses to seamlessly link classes to database tables.
 
-Meta lets you:
-  -  Class Customization: Dynamically modify class attributes and methods, tailoring them to your needs.
-  -  Enforcement of Constraints: Guarantee that essential conditions are met before a class springs to life (think: mandatory methods).
-  -  Automatic Registration: Eliminate manual registration by automatically signing classes up in a registry.
-
-Defining a metaclass is like scripting the blueprint of your classes!
-
-![image](https://github.com/user-attachments/assets/146dae43-8dfc-4890-8ca5-3985856c99e7)
-
-
-🔗 ORM: Powerful Object-Relational Mapping libraries leverage metaclasses to seamlessly link classes to database tables.
-
-🌐 Frameworks: Renowned web frameworks like Django utilize metaclasses to forge model classes and uphold business logic with ease.
+Renowned web frameworks like Django utilize metaclasses to forge model classes and uphold business logic with ease.
 
 
 B.
