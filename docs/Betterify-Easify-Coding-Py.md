@@ -29,6 +29,12 @@ OOP4pillars img below:
 Classes are used in all sorts of core files development as well, like if we have to inherit parent driver classes to more specific childs
 
 ---
+
+If else loops etc in Py
+
+![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9f1b228a-3e92-4ec3-89c1-88d2bdff3ded)
+
+---
 SpeakItSelfStyleCodeGuide:
 
 _Best viewed on widescreen comp. NoteToSelf: if still not clear, then login ghub n open it in edit mode to see clearly._
