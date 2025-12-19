@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (T) Evolution In my understanding of classes
+title: (T) classes used in Django
 category: Software Development
 
 ---
@@ -154,19 +154,6 @@ class UserProfile(models.Model):
         return f'{self.address_line_1} {address_line_2}'
 ```
 
----
-A.
-
-(you can skip this) Back to C++ BE-days, where I had understanding that class is what you create when you have to codify staff persona.
-
-OOP4pillars img below:
-
-<img width="1141" height="1260" alt="image" src="https://github.com/user-attachments/assets/b72d4c03-1b1f-40ca-b71e-169cf3e7f21a" />
-
-
-Idiot me! -It was just example of real life so that we can relate easily. Classes are used in all sorts of core files development, like if we have to inherit parent driver classes to more specific childs
-
----
 
 
 
