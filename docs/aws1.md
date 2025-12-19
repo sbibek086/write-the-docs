@@ -175,11 +175,9 @@ So,  we should use auto scaling to add additional Web/Application servers based 
 NOT increase no of open TCp connection allowed per W/A ec2 instance NEITHER use AutoScaling to add additional W/A servers based on memory use threshold
 
 ---
-one-tab.com/page/Re6mP65mTOWoNERYBjYhJA    
- one-tab.com/page/aFrnCwYkSTmTEkucEi57jQ 
- one-tab.com/page/MOHlt7JiRAWrTCvWnhdlhA
+<img width="620" height="336" alt="image" src="https://github.com/user-attachments/assets/c09657a3-6c1c-45a8-8103-bd3c9c65698b" />
 
- ---
+---
 ![image](https://github.com/user-attachments/assets/d6a8ce9b-f0d2-44ca-b70e-80e225b2cc42)
 <img width="1163" height="615" alt="image" src="https://github.com/user-attachments/assets/1c5e0aff-7f07-42d0-ad35-efd71e8e4714" />
 <img width="1005" height="826" alt="image" src="https://github.com/user-attachments/assets/b8c835d2-9d23-4aec-8e40-4fdb7f5558a4" />
