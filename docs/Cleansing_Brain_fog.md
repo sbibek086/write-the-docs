@@ -28,7 +28,7 @@ ii) I do not have to engage in viral trends.
 
 iii) I do not watch new cat videos.
 
-iv) I listen to and watch only people after deciding that person is smarter knowledgable than me and he/she talks something of value w honesty.
+iv) I listen to and watch only people after deciding that that person is smarter knowledgable than me and he/she talks something of value w honesty.
 
 But most importantly:
 
@@ -40,15 +40,15 @@ I don’t have a huge problem with that, that’s their decision, that’s how t
 
 **I say: The situation is that thing A did something to thing B and then thing C had a reaction of x. And I just evaluate the situation without the details of the situation. And that is just the device you get from studying philosophy and doing analytical philosophy and looking at the fundamental variables of what’s going on in an argument.**
 
-I think at the end of the day there is a lot of bias where a lot of confirmation bias takes a hold of a lot of times. If I had to guess, a lot of these algorithms are getting better and better at giving people the information that they wanna see in order to get them to consume more information . And that’s creating a confirmation bias. So that no matter what you believe, you will be fed more of that and you will suddenly be confirmed and find confirmation about any topic as long as you stay in the system. As long as you stay in front of the screen, the algorithm will continue to give it to you. That’s what the algorithm cares about. It doesn’t care about position a or position b or viewpoint a or viewpoint b. It just cares that you will come back the next day and hear about what happened.
+I think at the end of the day there is a lot of bias where confirmation bias takes a hold of a lot of times. If I had to guess, a lot of these algorithms are getting better and better at giving people the information that they want to see in order to get them to consume more information . And that’s creating a confirmation bias so that no matter what you believe, you will be fed more of that, and you will suddenly be confirmed and find confirmation about any topic as long as you stay in the system. As long as you stay in front of the screen, the algorithm will continue to give it to you. That’s what the algorithm cares about. It doesn’t care about position a or position b or viewpoint a or viewpoint b. It just cares that you will come back the next day and hear about what happened.
 
-I have no control over will Putin and Donald Trump will go to fight? But I certainly have control over how I choose to spend my hour I have. I have a stack of books to read and a system to build and all these things to do. It’s kind of what do you want your life to be about.
+I have no control over will Putin and Donald Trump go to fight? But I certainly have control over how I choose to spend my hour I have. I have a stack of books to read and a system to build and all these things to do. It’s kind of what do you want your life to be about.
 
 I think there’s this scary thing where there’s a lot of information. 
 
-Before the problem was you couldn't get information, before it was a luxury to have a book. And then, people could get books, and then it was still kind of a luxury to get certain books, you could go to libraries. And then it was a luxury to get videos, educational videos were a luxury. Now you can get those all over the place wherever you want. Now there is an abundance of information, the question now is not how to get information, how to get a book or a teaching company lecture.
+Before the problem was: you couldn't get information; before it was a luxury to have a book. And then, people could get books, and then it was still kind of a luxury to get certain books; you could go to libraries. And then it was a luxury to get videos; educational videos were a luxury. Now you can get those all over the place wherever you want. Now there is an abundance of information.
 
-The question now is how do I selectively do research and evaluate information to avoid confirmation bias and avoid various other bias. To have an accurate picture of reality rather than a biased picture of reality that benefits someone else, not me. That’s the game that everyone is involved in now. For some reason that game is not clear to people. I think people are in this game, and that’s the worst game to be in. The worst game to be in is in a game where you don’t know the rules, that’s where people start to take you around the block a bit.
+The question now is not how to get information, how to get a book or a teaching company lecture; the question now is how do I selectively do research and evaluate information to avoid confirmation bias and avoid various other biases to have an accurate picture of reality rather than a biased picture of reality that benefits someone else, not me. That’s the game that everyone is involved in now. For some reasons, that game is not clear to people. I think people are in this game, and that’s the worst game to be in. The worst game to be in is in a game where you don’t know the rules; that’s where people start to take you around the block a bit.
 
 ---
 and then I try to stick to this framework:
