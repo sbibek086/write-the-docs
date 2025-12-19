@@ -11,7 +11,7 @@ Think of py as somewhat like English Grammar
 + even a can be logx with log's own rules doing inside w x. somewhat like that
 + methodically process ideas to solve problem by creating suitable vars, creating suitable funcs or manytimes just mapping to (== import, export, API ) suitable funcsAkaMethods Or AutoFuncs (== constructors), vivek
 
-<img width="572" height="785" alt="image" src="https://github.com/user-attachments/assets/d81c2252-a6ef-4830-bfcf-a9510385a3d2" />
+<img width="341" height="470" alt="image" src="https://github.com/user-attachments/assets/c620ff8d-e1da-4fc9-a5ac-533872efb724" />
 
 Lets make our class more real-life
 
