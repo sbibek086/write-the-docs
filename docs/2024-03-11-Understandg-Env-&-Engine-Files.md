@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + PEP-668? +Lib n Framework Diff
+title: 🔥 Understandg EnvFiles,& where Compiler IsSaved when Pgm,eg Py IsInstalled + Django set-up cmd +PEP-668? +Lib n Framework Diff
 category: Programming
 tags: [Programming]
 
 ---
 
-<img width="1042" height="1127" alt="image" src="https://github.com/user-attachments/assets/6431b7d5-5949-4236-870f-507f99da0a17" />
+<img width="1036" height="1127" alt="image" src="https://github.com/user-attachments/assets/ae085a36-7c0d-40b5-8e09-fff8cc606cb0" />
 
 ---
-![image](https://github.com/user-attachments/assets/5ae22f6e-f02e-4703-8a00-7fb1a4d66878)
+<img width="717" height="950" alt="image" src="https://github.com/user-attachments/assets/655b205a-d4fe-4432-a22d-060417cb600e" />
 
 yo mathi ko image ma before compilation, k thyo, after compilation k vayo, her, tye ho runtime.
 
@@ -47,12 +47,14 @@ Encourages use of virtual environments (e.g., venv, virtualenv)
 
 Protects system Python from unexpected breakage
 
---
-
-![image](https://github.com/user-attachments/assets/8a3b9712-f2d1-4421-b46c-25ddf03749e4)
-
 ---
 ![image](https://github.com/user-attachments/assets/cf6753d7-9cda-4f14-87a0-f88dae1908cb)
 
 so, jun sukai karyakram ko lagi stage banaye tyo BOOTSRAP vayo,
 karyakram ma pani aja specific vayera manaau sarswati pooja karyakram ko lagi maile stage tayar pardai xu, tyo chai BOILERPLATE vayo. ie. Django framework euta boilerplate nai vayo
+
+---
+you can skip this below img:
+
+<img width="447" height="597" alt="image" src="https://github.com/user-attachments/assets/4625b6b2-f659-4292-b653-abafe25e8d89" />
+
