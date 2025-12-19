@@ -8,8 +8,6 @@ tags: [Programming]
 
 <img width="1042" height="1127" alt="image" src="https://github.com/user-attachments/assets/6431b7d5-5949-4236-870f-507f99da0a17" />
 
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/9f1b228a-3e92-4ec3-89c1-88d2bdff3ded)
-
 ---
 ![image](https://github.com/user-attachments/assets/5ae22f6e-f02e-4703-8a00-7fb1a4d66878)
 
@@ -22,9 +20,11 @@ db ko context ma db ma data load hunuparyo ni paila, tye data load hune samay la
  dherai curious cat scientist nabana, etti bujha, sakyo kura
 
 ---
----
-![image](https://github.com/user-attachments/assets/95d8e0cf-24ff-4e08-85f9-ad2e7d8a12e9)
+SHOWING HOW DJANGO IS INSTALLED INSIDE VENV after CREATING VENV
 
+<img width="698" height="491" alt="image" src="https://github.com/user-attachments/assets/02d7bde6-ace7-4d0a-b220-cfc7191af466" />
+
+---
 more such debian aka OS and non-debian aka non-Os package instllation conflict is taken care by PEP-668, which ensures that system-installed Python environments (like those provided by Linux package managers) are protected from accidental modification by tools like pip.
 
 Why? -- so as to prevent conflicts or breakages when users install packages directly into system Python using pip, which can mess up OS-managed software.
