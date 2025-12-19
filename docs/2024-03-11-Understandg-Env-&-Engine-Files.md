@@ -56,5 +56,6 @@ karyakram ma pani aja specific vayera manaau sarswati pooja karyakram ko lagi ma
 ---
 you can skip this below img:
 
-<img width="447" height="597" alt="image" src="https://github.com/user-attachments/assets/4625b6b2-f659-4292-b653-abafe25e8d89" />
+<img width="447" height="597" alt="image" src="https://github.com/user-attachments/assets/535cd6d7-e166-4033-b42f-9d22681f2664" />
+
 
