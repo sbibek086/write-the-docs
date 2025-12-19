@@ -98,7 +98,10 @@ https://user-images.githubusercontent.com/109033173/192111690-0812fa89-41e8-447d
 
 3.0 Elastic BeanStalk : It handles the auto- provisioning of the infrastructure, deploys the application, handles the load by applying auto scaling, and monitors the application.                             to create artifacts of codes like .jar .exe (novice me thinks- artifact creation is next natural compulsion in case of some s/w, apps but not so, if we are doing some https websites only BUT idk if i am right). then comes writing the sequence of what we did in Lpost2 and creating artifacts, all in one aws pipeline so that it knows what next to do on its own. I've summarized it below, open in new tab: https://giphy.com/embed/2wLc0VnNbFwyRCZn2U
 
-3.1 CloudFormation : It provides template while creating resources. someway slightly like html templates
+3.1 CloudFormation : 
+<img width="1463" height="702" alt="image" src="https://github.com/user-attachments/assets/31a30fd8-322a-41d9-b104-0498cea6fe39" />
+
+-----
 3.2 [Opswork](https://www.youtube.com/watch?v=BhNfhHXvhhc)
 3.3 [CodeCommit](https://www.youtube.com/watch?v=46PRLMW8otg)
 
@@ -154,7 +157,7 @@ On Demand Pricing, Dedicated Host, Spot Instances, Billing Alert and Budget,
 <img width="692" height="138" alt="image" src="https://github.com/user-attachments/assets/a10c2546-decf-4724-9353-85ea446c5109" />
 
 ---
-<img width="1137" height="869" alt="image" src="https://github.com/user-attachments/assets/d1426a47-96e0-4c27-80f2-819622e418ce" />
+<img width="1137" height="869" alt="image" src="https://github.com/user-attachments/assets/d924cd93-3bce-4032-8ae1-713c574d5c55" />
 
 <img width="742" height="1220" alt="image" src="https://github.com/user-attachments/assets/31a32f09-6b71-451d-b3f0-69a8428b08f8" />
 
