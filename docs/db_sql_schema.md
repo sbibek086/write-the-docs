@@ -1,8 +1,9 @@
 ---
 layout: default
-title: db, sql, schema
+title: (T) db, cmds needed after entering mysqlDocker, schema
 category: Developer
 tags: [Developer]
+
 ---
 
 Db contain files (docs, spreadsheets, photos etc) while Relational DB Management System contains tables.
@@ -13,10 +14,9 @@ Db is collection of data while DBMS is management sys.
 DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. 
  
 --- 
-
 ![image](https://github.com/user-attachments/assets/c573fe32-86b6-423f-80ce-0da46d504f05)
 
-<img width="1041" height="872" alt="image" src="https://github.com/user-attachments/assets/c3864cdd-f137-4c51-b818-af8b8fe1692f" />
+<img width="1041" height="426" alt="image" src="https://github.com/user-attachments/assets/5156b98c-5ae0-477f-9ae9-b92f5abe9a5e" />
 
 
 _tara postgresql database ta xuttai hunchh ni, tyo chai local chalauda ni vayo wa cloud bata. yi lab backenders le local bata db chalauchh ra sab production ready bhayepaxi chai cloud ma upload garda vayo ie. VPS._
@@ -32,7 +32,7 @@ now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json 
 ---
 ![db](https://github.com/user-attachments/assets/dfcff701-d907-4378-9368-795b9ba64bd5)
 ![image](https://github.com/user-attachments/assets/1cd14445-d0c4-4875-8e4e-b41e22d76ca9)
-
+![image](https://github.com/user-attachments/assets/79c716e6-38ea-4671-8b13-2c681be1d515)
 ---
 schema is just table metadata
 
