@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How emotion can cloud intelligence..
+title: ~
 category: Cryptography
 tags: [Economics]
 ---
