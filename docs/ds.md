@@ -5,6 +5,9 @@ category: Health
 tags: [Health]
 
 ---
+
+<img width="812" height="472" alt="image" src="https://github.com/user-attachments/assets/6b15797c-2685-4c7b-9143-e588153d629e" />
+
  ![image](https://github.com/user-attachments/assets/6fb5b18a-2d0f-49fa-a884-2c44fcddfd9c)
  ![image](https://github.com/user-attachments/assets/bab4c3c0-ecb7-4a6f-ab13-b6ed103d77c4)
  ![image](https://github.com/user-attachments/assets/b4c6b0a9-f5cd-4995-a2a7-0ebfff3d1035)
