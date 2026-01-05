@@ -1,0 +1,7 @@
+This is a placeholder for a PDF file.
+
+In a real scenario, you would:
+1. Add your PDF file to this directory
+2. Reference it in your blog post using the methods described in the guide
+
+Example filename: my-document.pdf
