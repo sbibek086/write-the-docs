@@ -80,7 +80,7 @@ You have several options for storing your PDF files:
 ### Option 1: In the Repository (Recommended for small PDFs)
 
 1. Create a `pdfs` or `assets` folder in your repository:
-   - For example: `/home/runner/work/write-the-docs/write-the-docs/docs/pdfs/`
+   - For example: `docs/pdfs/`
    
 2. Add your PDF file to this folder
 
