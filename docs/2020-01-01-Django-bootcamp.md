@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Interactive In-Demand Bootcamp course in Django
 category: Programming
 tags: [Programming]
