@@ -5,6 +5,8 @@ category: Programming
 tags: [Programming]
 ---
 
+This is mobile reponsive page. Do zoom gesture if you are on smartphone to zoom-view.
+
 <img width="1053" height="552" alt="image" src="https://github.com/user-attachments/assets/b03d7e68-d61c-4de0-83c1-1771a85ad320" />
 
 <img width="1903" height="2069" alt="image" src="https://github.com/user-attachments/assets/c18662e6-1285-4564-aa41-c792303870bc" />
