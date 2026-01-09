@@ -16,6 +16,9 @@ tags: [Economics]
 
 <img width="670" height="610" alt="image" src="https://github.com/user-attachments/assets/e08b974b-f04d-403c-b8a7-c4274fb8cf97" />
 
+<img width="1326" height="858" alt="image" src="https://github.com/user-attachments/assets/4f8f1ebf-fece-4d26-b14f-bc5667e584da" />
+
+
 [How little you need to livel](https://www.youtube.com/watch?v=FqTkiLxIE9Y)
 
 [Multi functional tools](https://youtu.be/irk6lpW0QMw?si=I7qWfRRCKMCCyvuE&t=229)
