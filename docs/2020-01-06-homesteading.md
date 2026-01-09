@@ -7,6 +7,8 @@ tags: [Economics]
 
 This blog-post is prepared by Mr. SKM - Agriculturist farmer
 
+<img width="373" height="469" alt="image" src="https://github.com/user-attachments/assets/e9a51e72-5861-47c7-98b8-4ce750da44b4" />
+
 <img width="1119" height="941" alt="image" src="https://github.com/user-attachments/assets/f894d5a1-3961-4827-b674-eb617cfb0724" />
 
 <img width="473" height="936" alt="image" src="https://github.com/user-attachments/assets/490c38fc-e2ae-4bee-9f93-749008f0b630" />
