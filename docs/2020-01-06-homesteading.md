@@ -5,7 +5,7 @@ category: Economics
 tags: [Economics]
 ---
 
-This blog-post is prepared by Mr. SKM - Agriculturist farmer
+This blog-post is prepared by Mr. SKM - Home-Science expert & Agriculturist farmer
 
 <img width="373" height="469" alt="image" src="https://github.com/user-attachments/assets/e9a51e72-5861-47c7-98b8-4ce750da44b4" />
 
