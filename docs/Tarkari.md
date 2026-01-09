@@ -8,11 +8,12 @@ tags: [Economics]
 <img width="567" height="412" alt="image" src="https://github.com/user-attachments/assets/cbcdf448-e3c2-40be-b599-14997d00b0a7" />
 
 now, below is models.py from same Authentication folder:
+
 <img width="558" height="483" alt="image" src="https://github.com/user-attachments/assets/2e424384-20bd-46e0-81da-85a627d65e22" />
 
 Since now we have this bug:  
 <img width="1248" height="543" alt="image" src="https://github.com/user-attachments/assets/34dde055-01ec-4dd8-b638-171799956bb5" />
-{It is clear now that models.py Notification is being triggered}
+{It is clear now that models.py Notification is NOT being triggered}
 
 So, I asked:
 <img width="620" height="543" alt="image" src="https://github.com/user-attachments/assets/9991ecb1-f86e-42da-ad6d-202ac0ffb5bb" />
