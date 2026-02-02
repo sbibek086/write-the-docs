@@ -47,7 +47,9 @@ Our projects are split BETWEEN apps, windows and tabs. There's no natural groupi
 
 The issues with this workflow go way deeper. Death by thousands of papercuts (in parallel!)
 
-Do you split terminal between tabs or windows? Tmux?
+Do you split terminal between tabs or windows?
+
+Tmux?
 
 How do you know which terminal window you are in?
 
@@ -57,8 +59,9 @@ How do you handle collisions when everything uses :3000? Can your auth redirects
 
 One fights these issues every single day. Pity is: I spend more time switching between apps than I spend building.
 
---
+----
 **The SOLUTION**
+
 I'll be honest, I don't have one. Here are some things I can confidently say are NOT a solution
 
 tmux (Great for splitting terminals, does not help with mental overhead)
