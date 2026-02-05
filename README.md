@@ -18,6 +18,16 @@ The session is designed for beginners to GitHub, but all levels are invited.
 
 Bring your laptop so you can follow along with the presentation. Any operating system will work, and you need only a browser. If you are new to GitHub, create a free, personal account at https://github.com/join before arriving to save time.
 
+## Additional Guides
+
+### How to Embed PDF Files in Blog Posts
+
+Learn how to embed PDF files in your blog posts with multiple methods:
+
+- [Complete PDF Embedding Guide](docs/how-to-embed-pdf-in-blog-post.md) - Comprehensive guide with all methods and best practices
+- [Quick Reference](docs/pdf-embedding-quick-reference.md) - Quick reference card for common tasks
+- [Example Blog Post](docs/2026-01-05-pdf-embedding-example.md) - Working example
+
 ## Resources from the presentation
 
 Examples of github.io websites
