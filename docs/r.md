@@ -6,6 +6,10 @@ tags: [Programming]
 
 ---
 
+<img width="209" height="174" alt="image" src="https://github.com/user-attachments/assets/6de7b552-a070-47ea-9457-4d3ac96a4231" />
+
+u le kati maja le stock market lai FLUSH OUT from his system garyo, m vane ai vaniraxu, ghari k vaniraxu out of desperation to makeMony, pressure ta uslai ni thiyo hola BUT BUT he streamlined fastly n flushed out stock. This gives me window of his mind persona. I sud more improv myself on this direction n accordingly BOD-IFY my persona, where I spend my time toward to MATERIALIZE what I actually want out of life. I cant do this do that all at this one 24hr one life. My PROBLEM is: I think I've time to do many things, NOOO I DONT HAVE.
+
 <img width="279" height="253" alt="image" src="https://github.com/user-attachments/assets/b3e8a81e-8eaa-4cd6-beaa-3d092e2b6a43" />
 
 I used to think that people who were featured in Times Magazine; they must have been borne with 32 lakshhyan Gun. They must have gone to the best prep schools, A plus plus college and schools, got all the answers right on test. 
@@ -33,4 +37,6 @@ While most others seem to believe that mistakes are bad things, I believe mistak
 While most others seem to believe that finding out about one’s weaknesses is a bad thing, I believe that it is a good thing because it is the first step toward finding out what to do about them and not letting them stand in your way. 
 
 While most others seem to believe that pain is bad, I believe that pain is required to become stronger.
+
+
 
