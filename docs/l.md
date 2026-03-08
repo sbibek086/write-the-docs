@@ -6,6 +6,10 @@ tags: [Life]
 
 ---
 
+<img width="934" height="744" alt="image" src="https://github.com/user-attachments/assets/ff389837-1d5d-4c36-bf17-0b8732434c46" />
+![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
+
+
 So,my 1 weakness:
 
 MA JASTAI SWISS PGM FREE VISA DEKHYO TYO GARIHALXU nooooo I SUD HAVE LONG YR OF THAT ALIGNMENT TO COME THAT TO FRUITION. FOKAT MA 17 DOL GAYO, SIDE EFFECT - NOW, I CANT USE SMRIIT SIS DEBcARD TO PAY FOR MY AWS. 
@@ -31,8 +35,6 @@ I could be better by below:
 ![DipesSymbol](https://github.com/user-attachments/assets/6c24f530-8022-43aa-9f44-ccb2c6400dd9)
 
 ![image](https://github.com/user-attachments/assets/a17cd2d1-08c3-4609-a227-493a7f4f1fd3)
-
-![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
 <img width="770" height="1039" alt="image" src="https://github.com/user-attachments/assets/c3e20ae0-abbd-4b41-b720-2dee92874817" />
 
