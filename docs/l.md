@@ -15,8 +15,6 @@ So,my 1 weakness:
 MA JASTAI SWISS PGM FREE VISA DEKHYO TYO GARIHALXU nooooo I SUD HAVE LONG YR OF THAT ALIGNMENT TO COME THAT TO FRUITION. FOKAT MA 17 DOL GAYO, SIDE EFFECT - NOW, I CANT USE SMRIIT SIS DEBcARD TO PAY FOR MY AWS. 
 KEHI KURA KO LAGI MAILE 50 60 70 DEG C UMALI RAHEKO HUNU PARCHH, ACHANAK BY STROKE OF LUCK THIN STRING, KUNAI 100 C KO PANI UMLIDAINA MERO.PURSUE GARI NA RAAKO CHEEZ NA VAYE SAMMA TYA BIG INVEST NA GAR, FOR EG. NOW SUDDENLY, I CANT WIN BIG JUST BECAUSE i SET MY EYES ON SAY LAW AREA, FOR THAT, I HAVE TO ENOF WORK ON ITS A, B, C TO FRUITION TO Z
 
-
-
 Back in high school, I had unfulfilled promise w someone- responsibility was on me on that 1 year time-window. That self guilt echoed me to such extent that every time I spent without one in grad, I felt like squeezing every grad-time, meaning time I spent on learning knowledge to sthg of value powernote lifelong- So, I wouldnt throw away even some notes which colleague would soon forget after exam day. 
 
 ![image](https://github.com/user-attachments/assets/c3832880-8354-48ce-b8c7-d38ca8d5ba8c)
@@ -140,4 +138,33 @@ But my biggest guru was thick moustached 51-55 yr old guy from German descend. H
 then when u r frontstroking w ur left hand like duck-paw under water pushing water as much u can back to push u forward - yes ,Newtons 3rd law, idiot vivek, it is time u r breating out with mukh and naak- BRooOOOH out, with BRooOOOH oxygen in immediate next movement pattern.
 
 and same movement this time w alternate other side body parts - right hand, head tilted other way etc
+
+---
+Whereas logic and objectivity are usually the predominant features of a man's outer attitude, or are at least regarded as ideals in the case of a woman it is feeling But in the soulit is the other way round: inwardly it is the man who feels, and the woman who reflects. Hence a man's greater Bability to total despair, while a woman can always find comfort and hope, accordingly a man is more likely to put an end to himself than a woman However much a victim of social circumstances a woman may be, as a prostitute for instance, a man is no less a victim of impulses from the unconscious, taking the form of alcoholism and other vices
+
+I learnt over the years that: correct communication is:
+
+1) not trying to sound or look cool but whole focus is on honestly communicating Ideas. that means, saying I knew only which I know.
+
+ii) If Alex teaches me sthg, then I am not inferior to him on anyway and If Alex thinks he is superior just because he has taught 1 thing or 2 to Bob, Alex is not right person to communicate ideas back n forth.
+
+If I am like Alex, then I am shit person, which I would try not to be.
+
+We shouldn't forget WE ALL ARE LEARNERS HERE TRUE COMPANY FOCUS IS ON GROWING TOGETHER.
+
+iii) If Bob communication back to Alex is with Idea B just to counter weight because he thinks Alex will think himself superior coz he thinks he knows more than me rather than validity the soundness of idea B. then this communicated ideas might not be solid. ONE-I wouldnt say wrong - non solid idea can be DEADLY when it comes to INVESTING. For eg rekt by KILT wrong price entry
+
+iv) Seek ideas and pitching from ground up fundamental rooting. Because internet can be illusionary place. For 
+
+Eg any stupid idea can illusion as great if that video has 40k views with 100 idiots praising it. Just check idras yourself.
+
+For example, how could I not see Cosmos ecofytem 1BC proof of stake was better model than Polkadot ICMP proof of stake model.
+
+Does that mean Pathadet is shit. No
+
+Does that mean Cosmas will min market over Polkadot. Ves
+
+and I was digging out Palkastarter, trying to squeeze water out of dry stune and setleg all my brains to Donnie bags words and ended up buying KILT at exchange pumped initiat price
+
+while water fountain scas plenty in Cosmos
 
