@@ -6,6 +6,8 @@ tags: [Life]
 
 ---
 
+<img width="598" height="90" alt="image" src="https://github.com/user-attachments/assets/48fee7dd-de18-406c-8f4c-0a2465bc1b7f" />
+
 <img width="934" height="744" alt="image" src="https://github.com/user-attachments/assets/ff389837-1d5d-4c36-bf17-0b8732434c46" />
 
 ![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
