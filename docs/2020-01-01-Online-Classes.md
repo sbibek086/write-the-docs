@@ -197,6 +197,8 @@ In real IT workplace, workflow looks like below:
 ![image](https://github.com/user-attachments/assets/b425495d-226a-434a-a2e7-9f2d2fe44c6b)
 
 < Visual tour of gitlab will be done in class & its edge over github will be explained >
+<img width="886" height="621" alt="image" src="https://github.com/user-attachments/assets/3df5c85c-350e-4b67-9055-364ac8799995" />
+
 
 **Bootcamp Day 5- Real Painful scenarios I faced, abd how to understand fix it?**
 
