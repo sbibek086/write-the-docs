@@ -21,7 +21,15 @@ _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby c
 
 b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
 
-B) [claude workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
+B) my-KING-Claude
+[claude workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
+
+<img width="893" height="657" alt="image" src="https://github.com/user-attachments/assets/371af780-ce27-4f18-8f8f-606210493779" />
+
+<img width="640" height="912" alt="image" src="https://github.com/user-attachments/assets/1c834a7f-26cc-41b8-82bd-606c56224de9" />
+
+Terminal wala Claude Code ma useful symbols:
+<img width="525" height="362" alt="image" src="https://github.com/user-attachments/assets/eabb753c-dc61-49f3-9bf4-b6317dfa7f0a" />
 
 C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm)
 
@@ -29,6 +37,8 @@ D) [Gemini:](https://gemini.google.com/app)
 <img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/38199148-ac89-41a0-a332-68949b71b3ea" />
 <img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
 <img width="744" height="3016" alt="image" src="https://github.com/user-attachments/assets/f46ea806-2ba2-4276-ade2-2356cb38e562" />
+
+E) DeepSeek
 <img width="926" height="1756" alt="image" src="https://github.com/user-attachments/assets/95bc8d33-6409-4079-a732-42dee0b0d6c5" />
 
 <img width="735" height="533" alt="image" src="https://github.com/user-attachments/assets/1404f58b-531b-4dfc-a528-048d35735831" />
