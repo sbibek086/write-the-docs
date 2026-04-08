@@ -10,7 +10,8 @@ tags: [Lifestyle]
 
 LLMs like gpt etc:
 
-A) gpt
+A) gpt <img width="492" height="473" alt="image" src="https://github.com/user-attachments/assets/efa473cc-cee2-4620-ab1a-195845107272" />
+
 
 a) Uploading code files and letting it analyze has been fav gpt use.
 
@@ -20,7 +21,7 @@ _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby c
 
 b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
 
-B) [claude aka cursor workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
+B) [claude workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
 
 C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm)
 
@@ -38,34 +39,27 @@ If someone tells you that coding with LLMs is easy they are (probably unintentio
 
 so, here's how I first adjusted my brain 1st before expecting llm to work correctly for me:
 
-a) Be extremely articulative, dont write ambiguous instructtion
+a) Be extremely articulative, dont write ambiguous instructtion.
 
-b) Set reasonable expectations:  Ignore the “AGI” hype—LLMs are still fancy autocomplete. All they do is predict a sequence of tokens—but it turns out writing code is mostly about stringing tokens together in the right order, so they can be extremely useful for this provided you point them in the right direction.
-
-If you assume that this technology will implement your project perfectly without you needing to exercise any of your own skill you’ll quickly be disappointed.
+b) If you assume that this technology will implement your project perfectly without you needing to exercise any of your own skill, you’ll quickly be disappointed.
 
 Instead, use them to augment your abilities. My current favorite mental model is to think of them as an over-confident pair programming assistant who’s lightning fast at looking things up, can churn out relevant examples at a moment’s notice and can execute on tedious tasks without complaint.
 
-c) expect it to not work: afterall, they are just ai model n so can make make mistakes -sometimes subtle, sometimes huge, which doesnt mean we hould lose trust in them. 
+c) When working with LLMs you’ll often find things that they just cannot do. **Make a note of these—they are useful lessons! They’re also valuable examples to stash away for the future**— a sign of a strong new model is when it produces usable results for a task that previous models had been unable to handle. 
 
-When working with LLMs you’ll often find things that they just cannot do. **Make a note of these—they are useful lessons! They’re also valuable examples to stash away for the future**— a sign of a strong new model is when it produces usable results for a task that previous models had been unable to handle. 
-
-d) Account for training cut-off dates #
-A crucial characteristic of any model is its **training cut-off date**. This is the date at which the data they were trained on stopped being collected. For OpenAI’s models this is usually October of 2023. Anthropic and Gemini and other providers may have more recent dates.
-
-This is extremely important for code, because it influences what libraries they will be familiar with. If the library you are using had a major breaking change since October 2023, OpenAI models won’t know about it!
+d) crucial characteristic of any model is its **training cut-off date**. This is the date at which the data they were trained on stopped being collected. For OpenAI’s models this is usually October of 2023.  This is extremely important for code, because it influences what libraries they will be familiar with. If the library you are using had a major breaking change since October 2023, OpenAI models won’t know about it!
 
 I gain enough value from LLMs that I now deliberately consider this when picking a library—I try to stick with libraries with good stability and that are popular enough that many examples of them will have made it into the training data. I like applying the principles of boringtechnology.club —innovate on your project’s unique selling points, stick with tried and tested solutions for everything else.
 
 LLMs can still help you work with libraries that exist outside their training data, but you need to put in more work—you’ll need to feed them recent examples of how those libraries should be used as part of your prompt.
 
-This brings us to the most important thing to understand when working with LLMs. ie. e)
+This brings us to the most important thing to understand when working with LLMs. 
 
 e) Context is king:  Most of the craft of getting good results out of LLM comes down to managing its context —the text that is part of your current conversation.
 
 This context isn’t just the prompt that you have fed it: successful LLM interactions usually take the form of conversations, and the context consists of every message from you and every reply from the LLM that exist in the current conversation thread.
 
-**When you start a new conversation you reset that context back to zero. This is important to know,** as often the fix for a conversation that has stopped being useful is to wipe the slate clean and start again.
+**When you start a new conversation you reset that context back to zero. This is important to know,** as often the fix. **A conversation that has stopped being useful is to wipe the slate clean and start again.**
 
 Some LLM coding tools go beyond just the conversation. 
 Claude Projects for eg allow you to pre-populate the context with quite a large amount of text—including a recent ability to [import code directly from a GitHub repository](https://support.anthropic.com/en/articles/10167454-using-the-github-integration).
@@ -80,7 +74,8 @@ I often start a new chat by dumping in existing code to seed that context, then 
 
 One of my favorite code prompting techniques is to drop in several full examples relating to something I want to build, then prompt the LLM to use them as inspiration for a new project. I wrote about that in detail when I [described my JavaScript OCR application](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/) that combines Tesseract.js and PDF.js—two libraries I had used in the past and for which I could provide working examples in the prompt.
 
-f) Ask them for options 
+f) Ask them for options:
+
 Most of my projects start with some open questions: is the thing I’m trying to do possible? What are the potential ways I could implement it? Which of those options are the best?
 
 I use LLMs as part of this initial research phase.
