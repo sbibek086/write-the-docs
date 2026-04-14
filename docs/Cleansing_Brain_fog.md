@@ -8,6 +8,8 @@ tags: [Life]
 
 **Preserving SANITY in world of over-information**
 
+<img width="827" height="582" alt="image" src="https://github.com/user-attachments/assets/f7f48b00-8c3b-4574-88b0-b1ed645413c8" />
+
 I have been trying to be man of action but lately, I am facing brain fog. Now let me try to solve this:
 
 Osho said one brilliant quote something like, 
@@ -28,7 +30,9 @@ ii) I do not have to engage in viral trends.
 
 iii) I do not watch new cat videos.
 
-iv) I listen to and watch only people after deciding that that person is smarter knowledgable than me and he/she talks something of value w honesty.
+iv) I listen to and watch people only after deciding that that person is smarter knowledgable than me and he/she talks something of value w honesty.
+
+<img width="655" height="602" alt="image" src="https://github.com/user-attachments/assets/b4eae5f3-ff68-46fb-8737-c7c251171ce2" />
 
 But most importantly:
 
@@ -55,6 +59,7 @@ and then I try to stick to this framework:
 
 <img width="196" height="561" alt="image" src="https://github.com/user-attachments/assets/2c78482b-28f6-439d-be57-aaeb325fe330" />
 
+<img width="977" height="1694" alt="image" src="https://github.com/user-attachments/assets/ed04e2fd-d003-45c7-8ef7-beb9d1ee0479" />
 
 
 
