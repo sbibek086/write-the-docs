@@ -22,7 +22,7 @@ Eureka moment of whole console.google.com (- Google's aws equivalent) DISCOVERY
 
 
 ---
-CLAUDE AGENTIC CO-ORDINATION PROBLEM CLEVER SOLN- yo maile aafu le garya haina, jus copy pasting one post
+CLAUDE AGENTIC CO-ORDINATION PROBLEM CLEVER SOLN- yo maile aafu le garya haina, jus copy pasting one post- SO DONT WORRY ABOUT IT!
 
 <img width="458" height="184" alt="image" src="https://github.com/user-attachments/assets/18f8e5b0-b6d1-4d77-9c45-de19e75b289e"/>
 
