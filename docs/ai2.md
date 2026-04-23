@@ -1,9 +1,28 @@
 ---
 layout: default
-title: Agentic Code problem in Claude
+title: ~
 category: Programming
 tags: [Programming]
 ---
+
+🐧2 - _read 🐧post if u only feel like before this 2_
+<img width="894" height="669" alt="image" src="https://github.com/user-attachments/assets/bc12b1e3-5b16-4336-a797-c83954bb783c" />
+
+BUT here, I want to focus more on building skills for .pi
+<img width="741" height="526" alt="image" src="https://github.com/user-attachments/assets/33a58379-ccdb-41bb-b24f-faa593f8716d" />
+
+now, trying to use gdcli led me to more Eureka!-rabbitHole moment:
+<img width="459" height="623" alt="image" src="https://github.com/user-attachments/assets/1e4e1701-9a6f-4a72-8f59-2a6df75fcc60" />
+
+Eureka moment of whole console.google.com (- Google's aws equivalent) DISCOVERY
+<img width="1291" height="573" alt="image" src="https://github.com/user-attachments/assets/2cbe1e36-d5e4-4ed7-9506-9ad7546c39c2" />
+
+<img width="1254" height="249" alt="image" src="https://github.com/user-attachments/assets/612f1249-e432-4a48-9b72-92c76697b65f" />
+
+
+
+---
+CLAUDE AGENTIC CO-ORDINATION PROBLEM CLEVER SOLN- yo maile aafu le garya haina, jus copy pasting one post
 
 <img width="458" height="184" alt="image" src="https://github.com/user-attachments/assets/18f8e5b0-b6d1-4d77-9c45-de19e75b289e"/>
 
