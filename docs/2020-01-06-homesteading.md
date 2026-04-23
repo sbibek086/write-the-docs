@@ -39,5 +39,9 @@ Mangsir 20 Tira Ropya Alu Magh Ma Harvest,n Some Seed Alu 2 Ropna Kartik
 
 ![image](https://github.com/user-attachments/assets/d753ac46-20c5-4f05-9f12-c132a86c0a1e)
 
+🌱
+<img width="459" height="541" alt="image" src="https://github.com/user-attachments/assets/3ec81c01-acfd-4b8d-8ffe-20c293b0e938" />
+<img width="579" height="541" alt="image" src="https://github.com/user-attachments/assets/7aa5cfc1-30fc-4ea9-9c63-ad8ce31200b2" />
+
 
 
