@@ -5,8 +5,11 @@ category: Programming
 tags: [Programming]
 ---
 
-🐧2 - _read 🐧post if u only feel like before this 2_
+# Using pi - creating skills in it
+
+🐧2 - (_read 🐧post if u only feel like before this 2_)
 <img width="894" height="669" alt="image" src="https://github.com/user-attachments/assets/bc12b1e3-5b16-4336-a797-c83954bb783c" />
+<img width="1275" height="571" alt="image" src="https://github.com/user-attachments/assets/6021a0cc-ceeb-4131-b802-52ff6a2c372a" />
 
 BUT here, I want to focus more on building skills for .pi
 <img width="741" height="526" alt="image" src="https://github.com/user-attachments/assets/33a58379-ccdb-41bb-b24f-faa593f8716d" />
@@ -19,8 +22,11 @@ Eureka moment of whole console.google.com (- Google's aws equivalent) DISCOVERY
 
 <img width="1254" height="249" alt="image" src="https://github.com/user-attachments/assets/612f1249-e432-4a48-9b72-92c76697b65f" />
 
+----
+<img width="1227" height="583" alt="image" src="https://github.com/user-attachments/assets/21ad9dc5-1be4-4012-9d28-c184f3f4c22c" />
 
 
+---
 ---
 CLAUDE AGENTIC CO-ORDINATION PROBLEM CLEVER SOLN- yo maile aafu le garya haina, jus copy pasting one post- SO DONT WORRY ABOUT IT!
 
