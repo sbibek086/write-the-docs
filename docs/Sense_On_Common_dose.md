@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ~
+title: 📈🧐 
 category: Cryptography
 tags: [Economics]
 ---
@@ -75,7 +75,7 @@ poured my ENS 8000$ airdrop money's about 30% on KILT at 11$ on okex. Was buying
 **Lesson: Buying early on presale is HOME-SWING but buying pumped-things-many-times-pumped-by-exchange-wolfs-themselves aint same thing.**
 Turned out and I realized later- Donnie was shilling his crowdloan rewards KILT so that he could sell his KILT at pumped price to then-fool-sheep like me.
 
-[DONT SELL UR SOUL N BRAIN TO EVEN JESUS WORDS, God has given brain in my head for some reason!](https://www.youtube.com/shorts/nQyqvOvLuHM)
+DONT SELL UR SOUL N BRAIN TO EVEN JESUS WORDS, God has given brain in my head for some reason!
 
 ####
 Another story was: 1) I used to teach in Grace. and how one day, some staffs were talking about 1xbet crash plane bets. ignored it some months thinking, "ignore words n schemes of someone, who I know are way down than me on IQs". 
