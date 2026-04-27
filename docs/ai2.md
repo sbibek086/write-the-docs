@@ -12,7 +12,7 @@ tags: [Programming]
 <img width="1275" height="571" alt="image" src="https://github.com/user-attachments/assets/6021a0cc-ceeb-4131-b802-52ff6a2c372a" />
 
 BUT here, I want to focus more on building skills for .pi
-<img width="741" height="526" alt="image" src="https://github.com/user-attachments/assets/33a58379-ccdb-41bb-b24f-faa593f8716d" />
+<img width="918" height="526" alt="image" src="https://github.com/user-attachments/assets/aaf063e3-a846-41ff-b4b1-f8cc32561ea6" />
 
 now, trying to use gdcli led me to more Eureka!-rabbitHole moment:
 <img width="459" height="623" alt="image" src="https://github.com/user-attachments/assets/1e4e1701-9a6f-4a72-8f59-2a6df75fcc60" />
