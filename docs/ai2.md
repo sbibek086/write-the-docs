@@ -6,7 +6,7 @@ tags: [Programming]
 
 ---
 
-# Using pi - creating skills in it
+Using pi - creating skills in it
 
 🐧2 - (_read 🐧post if u only feel like before this 2_)
 <img width="894" height="669" alt="image" src="https://github.com/user-attachments/assets/bc12b1e3-5b16-4336-a797-c83954bb783c" />
