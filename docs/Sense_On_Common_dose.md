@@ -4,6 +4,7 @@ title: 📈🧐
 category: Cryptography
 tags: [Economics]
 ---
+
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/0fa3c7e1-b35a-4a95-991e-9a69a9604653)
 
 So, above image is only one example of how crazy, illogical and even self-life-threatening maniac people can be, when allured with Grand money as reward.
