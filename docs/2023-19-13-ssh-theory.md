@@ -30,9 +30,6 @@ aka Forwards remote port to local destination.
 more in <img width="958" height="656" alt="image" src="https://github.com/user-attachments/assets/511aba33-a932-43c5-b118-0bf36cb65578" />
 
 ---
-<img width="654" height="612" alt="image" src="https://github.com/user-attachments/assets/5f705358-1e43-46e9-af9a-6899d0874696" />
-
----
 Just for curiosity cat of how https ssl/ tsl certificate works?
 
 Encryption and decryption of intransit data and session keys (which lets server and client ensure each other they are on same timestamp and same session, put simply, session keys lets both s and c know it is happening on same single sitting when i open transact on say esewa pathao etc.) is tricky.
