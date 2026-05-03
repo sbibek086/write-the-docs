@@ -6,6 +6,8 @@ tags: [ml]
 
 ---
 
+<img width="586" height="253" alt="image" src="https://github.com/user-attachments/assets/9f6626ce-848e-4a8c-829f-cdd804bad3d1" />
+
 **Restart session can mess up vars state, tc!**
 
  ![image](https://github.com/user-attachments/assets/3074ce13-c5a5-4740-9e2f-848b1505a220)
