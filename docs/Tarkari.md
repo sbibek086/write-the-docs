@@ -1,10 +1,22 @@
 ---
 layout: default
-title: ~
-category: Economics
-tags: [Economics]
+title: tech in tarkari
+category: Programming
+tags: [Programming]
+
 ---
 
+cicd in tarkari:
+<img width="1095" height="512" alt="image" src="https://github.com/user-attachments/assets/fce5ad92-715e-474d-bbf5-e92f7f74679b" />
+
+---
+DONT WORRY ABOUT BELOW NOW:
+But why is docker-compose.yml (can be said more Infrastructure as code) more seeked n practical efficient than docker way
+
+![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
+
+
+---
 <img width="567" height="412" alt="image" src="https://github.com/user-attachments/assets/cbcdf448-e3c2-40be-b599-14997d00b0a7" />
 
 now, below is models.py from same Authentication folder:
