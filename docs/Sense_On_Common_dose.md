@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 📈🧐 
+title: .
 category: Cryptography
 tags: [Economics]
 ---
