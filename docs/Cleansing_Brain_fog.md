@@ -55,9 +55,7 @@ Before the problem was: you couldn't get information; before it was a luxury to 
 The question now is not how to get information, how to get a book or a teaching company lecture; the question now is how do I selectively do research and evaluate information to avoid confirmation bias and avoid various other biases to have an accurate picture of reality rather than a biased picture of reality that benefits someone else, not me. That’s the game that everyone is involved in now. For some reasons, that game is not clear to people. I think people are in this game, and that’s the worst game to be in. The worst game to be in is in a game where you don’t know the rules; that’s where people start to take you around the block a bit.
 
 ---
-and then I try to stick to this framework:
-
-<img width="196" height="561" alt="image" src="https://github.com/user-attachments/assets/2c78482b-28f6-439d-be57-aaeb325fe330" />
+<img width="892" height="442" alt="image" src="https://github.com/user-attachments/assets/8a23bbea-809f-476c-a928-cb61a9ca87b4" />
 
 <img width="977" height="1694" alt="image" src="https://github.com/user-attachments/assets/ed04e2fd-d003-45c7-8ef7-beb9d1ee0479" />
 
