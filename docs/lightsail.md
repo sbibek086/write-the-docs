@@ -5,10 +5,15 @@ category: Programming
 tags: [Programming]
 ---
 
-<img width="569" height="673" alt="image" src="https://github.com/user-attachments/assets/06c8f896-d417-4d10-8b3e-e0b64eaa08fb" />
+<img width="569" height="698" alt="image" src="https://github.com/user-attachments/assets/37edd301-d418-4f1b-b486-42e469d51cbd" />
 
+_sudo systemctl nginx
+MIGHT BE NECESSARY IN LIGHTSAIL, IF DEPLOYMENT OF LATEST PUSHED CODE FAILS TO SHOW UP IN BROWSER_
+
+---
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/e5b36a3a-a034-4a0e-a227-42dabd7a837b" />
 
+----
 ----
 You can ignore this below First-time-setup- scenarios
 
