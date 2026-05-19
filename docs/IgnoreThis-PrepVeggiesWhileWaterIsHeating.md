@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PrepCut Veggies meanwhile water is heating
+title: ~
 category: Programming
 tags: [Programming]
 
