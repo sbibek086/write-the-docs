@@ -34,7 +34,7 @@ Terminal wala Claude Code ma useful symbols:
 C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm)
 
 D) [Gemini:](https://gemini.google.com/app)
-<img width="934" height="1573" alt="image" src="https://github.com/user-attachments/assets/38199148-ac89-41a0-a332-68949b71b3ea" />
+<img width="1360" height="775" alt="image" src="https://github.com/user-attachments/assets/3bdf7e7e-afc7-4c77-8c23-e2a3991e4d05" />
 <img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
 <img width="744" height="3016" alt="image" src="https://github.com/user-attachments/assets/f46ea806-2ba2-4276-ade2-2356cb38e562" />
 
