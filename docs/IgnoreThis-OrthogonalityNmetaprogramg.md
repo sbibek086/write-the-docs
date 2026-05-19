@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orthogonality in code (even in SysDesign or gui) + MetaProgramg
+title: ~
 category: Programming
 tags: [Programming]
 
