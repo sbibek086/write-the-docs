@@ -1,7 +1,8 @@
 ---
 layout: default
-title: ~
+title: ssh
 category: Software Development
+
 ---
 
 A.  Some primer & loosely connected subcontext of testing-cohort aka confusion matrix before I begin:
@@ -55,6 +56,10 @@ E. Then,
 
 _btw, in white rectangle note, cmds listed like git clone npm .. are list of terminal cmds that I retrieved from terminal history_
 
-with all this, also things wouldnt work. I was frustrated, asked Dipesh- FE ,and he would remind me to create and put .env as these are .gitignored
+with all this, also things wouldnt work. I was frustrated, asked Dipesh Colleague ,and he would remind me to create and put .env as these are .gitignored
 
-![image](https://user-images.githubusercontent.com/11883023/274704121-d518b307-c8a9-4f01-a1d1-d387b83ba761.png)
+----
+Just for CuriousCat
+
+<img width="967" height="1318" alt="image" src="https://github.com/user-attachments/assets/2872e86f-b5e0-4a70-aa85-895f2014d8a9" />
+
