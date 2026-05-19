@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homesteading
+title: 🏡
 category: Economics
 tags: [Economics]
 ---
