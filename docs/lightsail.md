@@ -3,12 +3,10 @@ layout: default
 title: lightsail server related
 category: Programming
 tags: [Programming]
+
 ---
 
-<img width="569" height="698" alt="image" src="https://github.com/user-attachments/assets/37edd301-d418-4f1b-b486-42e469d51cbd" />
-
-_sudo systemctl nginx
-MIGHT BE NECESSARY IN LIGHTSAIL, IF DEPLOYMENT OF LATEST PUSHED CODE FAILS TO SHOW UP IN BROWSER_
+<img width="569" height="698" alt="image" src="https://github.com/user-attachments/assets/9a54a2ec-fa0c-4cb8-9b70-1de7f67a93a3" />
 
 ---
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/e5b36a3a-a034-4a0e-a227-42dabd7a837b" />
