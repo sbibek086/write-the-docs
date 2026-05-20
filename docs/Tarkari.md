@@ -1,10 +1,36 @@
 ---
 layout: default
-title: tech in tarkari
+title: tarkari- RoadmapAhead n tech
 category: Programming
 tags: [Programming]
 
 ---
+
+This RoadMapAhead post written on Feb 9, 2026
+
+<img width="1590" height="1081" alt="image" src="https://github.com/user-attachments/assets/5d589c71-8b71-4c0f-9c55-fd723e7a3267" />
+
+So, this means, when user clicks on 'Update n Place order', it should open NepalPay portal.
+
+
+<img width="1122" height="960" alt="image" src="https://github.com/user-attachments/assets/083bc99f-b601-4047-98b3-3d925c54d8ca" />
+
+DistributionSys
+<img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/0533bc83-1536-4bbe-82c4-d63756ce6a2d" />
+
+---
+not immediate todos:
+To improve the engagement rates in mobile apps:
+
+• Personalize the experience using data-driven insights to tailor content, notifications, and recommendations to individual user preferences.
+
+• Simplify onboarding with intuitive tutorials, minimal steps, and clear value propositions to reduce drop-offs.
+
+• Leverage gamification like rewards, badges, or challenges to motivate interaction and foster habit-forming behaviors.
+
+• Enable in-app feedback loops (e.g., surveys, prompts) to understand user needs and show responsiveness to their input.
+
+• Regularly update features and content while integrating social sharing or community elements to sustain freshness and encourage peer-driven engagement.
 
 cicd in tarkari:
 <img width="1095" height="512" alt="image" src="https://github.com/user-attachments/assets/fce5ad92-715e-474d-bbf5-e92f7f74679b" />
@@ -15,8 +41,9 @@ But why is docker-compose.yml (can be said more Infrastructure as code) more see
 
 ![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
 
-
 ---
+TECH USED IN TARKARI:
+
 <img width="567" height="412" alt="image" src="https://github.com/user-attachments/assets/cbcdf448-e3c2-40be-b599-14997d00b0a7" />
 
 now, below is models.py from same Authentication folder:
