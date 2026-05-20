@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Online Bootcamp 30-day Class
+title: (-a) Online Bootcamp 30-day Class
 category: Cryptography
 tags: [Cryptography]
+
 ---
 
 **Primary Class a**
@@ -196,9 +197,6 @@ One thing Now Pro me have to suggest to this amateur me's this paragraph is: I d
 In real IT workplace, workflow looks like below:
 ![image](https://github.com/user-attachments/assets/b425495d-226a-434a-a2e7-9f2d2fe44c6b)
 
-< Visual tour of gitlab will be done in class & its edge over github will be explained >
-<img width="886" height="685" alt="image" src="https://github.com/user-attachments/assets/cf123342-e430-4bc4-9856-ff3e865669c7" />
-[this gitOps Author thisPost](https://www.linkedin.com/posts/anetrebskii_gitops-devops-softwareengineering-share-7439932139221000192-GjTj/)
 
 **Bootcamp Day 5- Real Painful scenarios I faced, abd how to understand fix it?**
 
