@@ -19,27 +19,10 @@ DistributionSys
 <img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/0533bc83-1536-4bbe-82c4-d63756ce6a2d" />
 
 ---
-not immediate todos:
-To improve the engagement rates in mobile apps:
-
-• Personalize the experience using data-driven insights to tailor content, notifications, and recommendations to individual user preferences.
-
-• Simplify onboarding with intuitive tutorials, minimal steps, and clear value propositions to reduce drop-offs.
-
-• Leverage gamification like rewards, badges, or challenges to motivate interaction and foster habit-forming behaviors.
-
-• Enable in-app feedback loops (e.g., surveys, prompts) to understand user needs and show responsiveness to their input.
-
-• Regularly update features and content while integrating social sharing or community elements to sustain freshness and encourage peer-driven engagement.
-
-cicd in tarkari:
-<img width="1095" height="512" alt="image" src="https://github.com/user-attachments/assets/fce5ad92-715e-474d-bbf5-e92f7f74679b" />
-
----
 DONT WORRY ABOUT BELOW NOW:
 But why is docker-compose.yml (can be said more Infrastructure as code) more seeked n practical efficient than docker way
 
-![IaC](https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d)
+https://github.com/user-attachments/assets/00e53816-27cf-44e7-87a5-fea71ee8587d
 
 ---
 TECH USED IN TARKARI:
