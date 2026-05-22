@@ -43,9 +43,9 @@ So, I asked:
 Then, <img width="548" height="577" alt="image" src="https://github.com/user-attachments/assets/1e3aceee-38f1-4c66-89ae-8fa9fddcd295" />
 
 ---
-In case RajanG needs, here is full history of inside aws ec2 till now
+In case needed, here is full history of inside aws ec2 till now
 
-<img width="1160" height="1407" alt="image" src="https://github.com/user-attachments/assets/1d31149e-190b-4122-82da-e764a3aa7e5b" />
+<img width="1160" height="1407" alt="image" src="https://github.com/user-attachments/assets/4269ebaa-a619-458c-b1c1-84f5c78ba614" />
 
 ---
 PLease ignore below-nothing-todo-with-above-context, just saving Up for myself:
