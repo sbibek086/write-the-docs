@@ -27,3 +27,9 @@ yo mathi ko gardaa: <img width="994" height="691" alt="image" src="https://githu
 tyo pem file le ssh connect gardaa aako problem:
 
 <img width="1026" height="420" alt="image" src="https://github.com/user-attachments/assets/019f5700-3302-4c7d-9604-9ed102ded6d6" />
+
+---
+unNecessary instanceFees EvenAfterDel bata bacha:
+
+<img width="599" height="628" alt="image" src="https://github.com/user-attachments/assets/232e7773-35ff-4a2f-8502-15fb5436c557" />
+
