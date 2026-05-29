@@ -61,5 +61,5 @@ with all this, also things wouldnt work. I was frustrated, asked Dipesh Colleagu
 ----
 Just for CuriousCat
 
-<img width="967" height="1318" alt="image" src="https://github.com/user-attachments/assets/2872e86f-b5e0-4a70-aa85-895f2014d8a9" />
+<img width="967" height="1318" alt="image" src="https://github.com/user-attachments/assets/1ca64585-5555-4639-9268-49ea5089531e" />
 
