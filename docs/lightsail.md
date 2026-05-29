@@ -8,6 +8,8 @@ tags: [Programming]
 
 <img width="569" height="698" alt="image" src="https://github.com/user-attachments/assets/9a54a2ec-fa0c-4cb8-9b70-1de7f67a93a3" />
 
+<img width="907" height="566" alt="image" src="https://github.com/user-attachments/assets/5f0b9c72-350c-4d97-ad51-d7a74c046e47" />
+
 ---
 <img width="1283" height="692" alt="image" src="https://github.com/user-attachments/assets/e5b36a3a-a034-4a0e-a227-42dabd7a837b" />
 
@@ -25,8 +27,3 @@ yo mathi ko gardaa: <img width="994" height="691" alt="image" src="https://githu
 tyo pem file le ssh connect gardaa aako problem:
 
 <img width="1026" height="420" alt="image" src="https://github.com/user-attachments/assets/019f5700-3302-4c7d-9604-9ed102ded6d6" />
-
-----
-<img width="1162" height="813" alt="image" src="https://github.com/user-attachments/assets/e9310867-77dc-4618-9c2e-70239b1f6173" />
-
-yo correctly garna ko lagi Claude Chat thread- https://claude.ai/share/bc771295-157c-435d-89da-3cfb7bc2f1bb
