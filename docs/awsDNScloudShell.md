@@ -8,6 +8,10 @@ tags: [Programming]
 
 <img width="536" height="174" alt="image" src="https://github.com/user-attachments/assets/4db64837-ca70-4678-a77e-b7d3f4925b24" />
 
+<img width="1162" height="813" alt="image" src="https://github.com/user-attachments/assets/e9310867-77dc-4618-9c2e-70239b1f6173" />
+
+yo correctly garna ko lagi Claude Chat thread- https://claude.ai/share/bc771295-157c-435d-89da-3cfb7bc2f1bb
+
 ----
 in lightsail server,
 
