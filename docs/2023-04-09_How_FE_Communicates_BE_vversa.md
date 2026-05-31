@@ -3,6 +3,7 @@ layout: default
 title: client ↔ server
 category: SoftwareDev
 tags: [SoftwareDev]
+
 ---
 
 ![image](https://github.com/sbibek086/write-the-docs/assets/11883023/3cf6a54b-c284-4508-a95e-5a64e3c1d2be)
@@ -10,7 +11,7 @@ tags: [SoftwareDev]
 ---
 ![image](https://user-images.githubusercontent.com/11883023/204149982-9e96a0fd-e659-4d83-adcb-b93332af2aff.png)
 
-![image](https://github.com/user-attachments/assets/acb5519d-adbe-4c76-b1a0-9311a5596d35)
+<img width="936" height="767" alt="image" src="https://github.com/user-attachments/assets/935b8db2-53e3-44ac-8feb-054f53a02240" />
 
 <img width="746" height="413" alt="image" src="https://github.com/user-attachments/assets/bbbfd21c-433d-4b00-9328-73a2fe2e0abb" />
 
