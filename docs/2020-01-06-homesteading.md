@@ -16,7 +16,7 @@ This blog-post is prepared by Mr. DKM - Home-Science expert & Agriculturist farm
 
 <img width="861" height="458" alt="image" src="https://github.com/user-attachments/assets/3b936651-bae5-4c6f-9a6d-7fe401ab9c88" />
 
-<img width="693" height="1727" alt="image" src="https://github.com/user-attachments/assets/baca381f-6631-403e-a566-0216e823870e" />
+<img width="563" height="321" alt="image" src="https://github.com/user-attachments/assets/95867b8f-c4dd-4721-bc41-3bee702052bc" />
 
 <img width="670" height="610" alt="image" src="https://github.com/user-attachments/assets/e08b974b-f04d-403c-b8a7-c4274fb8cf97" />
 
