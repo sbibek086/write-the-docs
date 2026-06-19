@@ -5,8 +5,6 @@ category: Software Development
 
 ---
 
-
-
 A. Metaclasses: Powerful ORM like Django leverage metaclasses to seamlessly link classes to database tables.
 
 Django utilize metaclasses to forge model classes and uphold business logic with ease.
@@ -64,4 +62,4 @@ D. Now, since initially, I wasnt aware about all tools beforehand, my way of usi
 
 But my specific business requirement could have be managed by below, as it uses AbstractBaseUser - more scratch reboot way than AbstractUser way (directly look class Account line):
 
-<img width="446" height="998" alt="image" src="https://github.com/user-attachments/assets/232144a8-47a6-4346-bf82-9248da218b69" />
+<img width="1139" height="499" alt="image" src="https://github.com/user-attachments/assets/77fe17a8-e12f-433c-bed7-0faf171e77d4" />
