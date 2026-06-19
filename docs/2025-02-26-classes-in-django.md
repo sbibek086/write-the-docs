@@ -63,3 +63,5 @@ D. Now, since initially, I wasnt aware about all tools beforehand, my way of usi
 But my specific business requirement could have be managed by below, as it uses AbstractBaseUser - more scratch reboot way than AbstractUser way (directly look class Account line):
 
 <img width="1139" height="499" alt="image" src="https://github.com/user-attachments/assets/77fe17a8-e12f-433c-bed7-0faf171e77d4" />
+
+
