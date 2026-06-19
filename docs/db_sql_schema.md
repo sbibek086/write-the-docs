@@ -12,7 +12,9 @@ So they aint same thing.     And RDBMS have certain relation between tables.  _D
 If Db is library full of data. then DBMS is like all -knowing librarian. 
 Db is collection of data while DBMS is management sys. 
 DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. 
- 
+
+<img width="645" height="500" alt="image" src="https://github.com/user-attachments/assets/30496514-efbf-43b2-bbab-1d4114f70e7f" />
+
 --- 
 ![image](https://github.com/user-attachments/assets/c573fe32-86b6-423f-80ce-0da46d504f05)
 
