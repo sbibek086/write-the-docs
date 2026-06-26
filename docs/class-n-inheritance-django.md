@@ -9,8 +9,9 @@ A. Metaclasses: Powerful ORM like Django leverage metaclasses to seamlessly link
 
 Django utilize metaclasses to forge model classes and uphold business logic with ease.
 
-
+---
 B.
+
 <img width="914" height="646" alt="image" src="https://github.com/user-attachments/assets/0e41235e-9eb9-4745-9fbe-18cc417a5128" />
 
 ---
