@@ -15,7 +15,7 @@ yo correctly garna ko lagi Claude Chat thread- https://claude.ai/share/bc771295-
 ----
 in lightsail server,
 
--PUT snapshots on volumes or some old /media files will be los
+-PUT snapshots on volumes or some old /media files will be lost
 
 -PUT snapshot of volume of lightsail instance 
 
@@ -25,6 +25,3 @@ in lightsail server,
 aws-CloudShell
 
 <img width="843" height="108" alt="image" src="https://github.com/user-attachments/assets/6b173cc7-12db-44ef-bb73-8fb430500a98" />
-
----
-<img width="926" height="605" alt="image" src="https://github.com/user-attachments/assets/476549ae-df39-4e75-a281-4659e1030a36" />
