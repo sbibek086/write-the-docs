@@ -1,6 +1,6 @@
 ---
 layout: default
-title: एकै पटकमा एक्जाम कटाउनुस्, फेक गुरुको हातमा आफ्नो भविष्य चौपट नगर्नुस्
+title: IELTS/PTE discourses from Band-8/90 Scorer 
 category: Programming
 tags: [Programming]
 
