@@ -6,6 +6,4 @@ description: (P)= JustDoIt, (T)=theory curiousCat Incase, (-a)=ForAmateurLearner
 baseurl:
 # Markdown parser and theme settings
 markdown: kramdown
-kramdown:
-  parse_block_html: true
 theme: minima
