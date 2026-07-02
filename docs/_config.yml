@@ -1,9 +1,11 @@
 # Metadata for the site header and footer
 title: RG, SM, UJ & Vivek Stha written weblog
-description: (P) matters DownTo ToJustDoIt, (T)-theory curiousCat Incase.
+description: (P)= JustDoIt, (T)=theory curiousCat Incase, (-a)=ForAmateurLearner, pros do differ
 
 # Set the production website URL when previewing
 baseurl:
 # Markdown parser and theme settings
 markdown: kramdown
+kramdown:
+  html_to_native: true
 theme: minima
