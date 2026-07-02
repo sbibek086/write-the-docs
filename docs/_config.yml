@@ -7,5 +7,5 @@ baseurl:
 # Markdown parser and theme settings
 markdown: kramdown
 kramdown:
-  html_to_native: true
+  parse_block_html: true
 theme: minima
