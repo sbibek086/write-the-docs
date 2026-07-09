@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lightsail (dns etc & hooks etc inside Agriii.git)
+title: ~
 category: Programming
 tags: [Programming]
 
@@ -16,6 +16,10 @@ tags: [Programming]
 <img width="1283" height="1323" alt="image" src="https://github.com/user-attachments/assets/4def8e32-d90f-4d92-b474-c08cafe1ee3b" />
 
 ----
+3. Dbeaver's Db is localDb NOT lightsailDb:
+
+Then whats my lightsailDb ->> https://claude.ai/share/9beb155a-4a13-4c7f-8fae-1b8bed77207e
+
 ----
 Ignore this below First-time-setup- scenarios
 
