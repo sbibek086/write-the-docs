@@ -13,7 +13,7 @@ tags: [Programming]
 
 ---
 2. inside Agriii.git (hooks, etc)
-<img width="1283" height="1323" alt="image" src="https://github.com/user-attachments/assets/5e4d13e2-8096-447c-8dbf-d79a1941f44d" />
+<img width="1283" height="1323" alt="image" src="https://github.com/user-attachments/assets/4def8e32-d90f-4d92-b474-c08cafe1ee3b" />
 
 ----
 ----
