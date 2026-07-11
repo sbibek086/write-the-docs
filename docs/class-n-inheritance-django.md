@@ -16,7 +16,7 @@ B.
 
 ---
 C. INHERITANCE (context is inheriting while in forms)
-<img width="832" height="968" alt="image" src="https://github.com/user-attachments/assets/1b0292ec-66ca-43f5-8ce0-bd7f81b24451" />
+<img width="832" height="968" alt="image" src="https://github.com/user-attachments/assets/3a0a4e93-fe5a-46fb-8618-47550e44b150" />
 
 ---
 E. (obsolete but DontDel)Now, since initially, I wasnt aware about all tools beforehand, my way of using ROLE_CHOICES sucked. 
