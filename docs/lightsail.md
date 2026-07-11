@@ -18,7 +18,7 @@ tags: [Programming]
 ----
 3. Dbeaver's Db is localDb NOT lightsailDb:
 
-Then whats my lightsailDb ->> https://claude.ai/share/9beb155a-4a13-4c7f-8fae-1b8bed77207e
+Then whats my lightsailDb ->> watch DontDel-PostLightSailsDebaverDbIsNotOfLightSail thread inside my Claude.ai
 
 ----
 Ignore this below First-time-setup- scenarios
@@ -32,7 +32,7 @@ yo mathi ko gardaa: <img width="994" height="691" alt="image" src="https://githu
 ---
 tyo pem file le ssh connect gardaa aako problem:
 
-<img width="1026" height="420" alt="image" src="https://github.com/user-attachments/assets/019f5700-3302-4c7d-9604-9ed102ded6d6" />
+Due to secretKeys in this img, this img is in github.com/sbibek086/sbibek086.io/Tarkari Ko tyoPemFileLeSshConnectGardaAakoProblem issue
 
 ---
 unNecessary instanceFees EvenAfterDel bata bacha:
