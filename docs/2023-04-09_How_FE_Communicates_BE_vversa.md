@@ -37,15 +37,9 @@ and in LHS, we can see what to response with when {certain URL is called} aka {A
 ![image](https://github.com/user-attachments/assets/7992d3ec-d116-49ab-a75f-d3026acf04ad)
 
 ---
-.env folder lets you default-ize what path we want our tail URL to append with base path URL. That base path url is menioned in .env folder.
-.env may have more things than just base path urls. 
+yo Payment Integrate gardaa kun bela plain-text payGateway lai pathaauni , kun bela chai json data pathauni ta bare ma thyo:
 
-Not only this, .env folder has other purposes too, as clarified from below
-
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/68a02270-1710-4ddd-abf6-41778fe16ed4)
-
-_Also, we have to do git pull everytime after we do git checkout branchNewlyDevelopedFeature because I remember that one day, I couldnt deploy correctly because my to-go-and-deploy 
-branchNewlyDevelopedFeature should have had .env updated._
+<img width="498" height="330" alt="image" src="https://github.com/user-attachments/assets/3a63b894-5736-453f-948c-18c7ffb341bf" />
 
 ---
 .eslint.config.json - whatever stds we set for linting has to be followed as protocol in order to be valid. eg. if 'feat' is in eslint.config.json, then our git cmd should obey that language protocol like _git commit  -m "feat: feature of drop down menu fixed in this Pull Req"_ otherwise, compiler wont compile this git
