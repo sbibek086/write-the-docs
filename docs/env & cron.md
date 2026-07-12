@@ -1,6 +1,6 @@
 ---
 layout: default
-title: .env
+title: .env n cron
 category: Programming
 tags: [Programming]
 
