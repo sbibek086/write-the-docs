@@ -5,6 +5,14 @@ category: Programming
 tags: [Programming]
 
 ---
+
+PRIMER, ignorable:
+
+<img width="994" height="752" alt="image" src="https://github.com/user-attachments/assets/2ac9f7f5-ce25-4461-bf0b-f45219385f85" />
+
+---
+MAIN MEAL below:
+
 recommendedReadInNextTab: this blog's Inconsistent Migration History.. post
 
 poetry le aafai poetry.lock ra .toml file (= setup.py+ requirement.txt ) banauchh. 
