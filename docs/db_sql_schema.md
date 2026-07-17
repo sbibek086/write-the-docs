@@ -13,8 +13,6 @@ If Db is library full of data. then DBMS is like all -knowing librarian.
 Db is collection of data while DBMS is management sys. 
 DBMS like pgAdmin is collection of programs which enables users to create/access/manipulate db. 
 
-<img width="645" height="500" alt="image" src="https://github.com/user-attachments/assets/30496514-efbf-43b2-bbab-1d4114f70e7f" />
-
 --- 
 ![image](https://github.com/user-attachments/assets/c573fe32-86b6-423f-80ce-0da46d504f05)
 
@@ -29,17 +27,8 @@ _for eg, he gives course authentication api. course ma uthentication kina chahiy
 now, API ko endpoint banayera usle fE lai dinx ta ki response ma course ka json parameter haru fE and ultimately UI le pauchh_ 
 
 ---
-![image](https://github.com/sbibek086/write-the-docs/assets/11883023/f0a79b56-e363-46da-8c95-4f812e780554)
-
----
----
-IGNORE IGNORE THIS BELOW CuriousCat Stuffs - 
-
-_Idiot vivek! Why would I want to go BACKWARDS to DINOSAUR SQL-query-lingos like a loser, whole point of Django's models.py is so that I dont have to deal with it_
-
-![db](https://github.com/user-attachments/assets/dfcff701-d907-4378-9368-795b9ba64bd5)
 ![image](https://github.com/user-attachments/assets/1cd14445-d0c4-4875-8e4e-b41e22d76ca9)
-![image](https://github.com/user-attachments/assets/79c716e6-38ea-4671-8b13-2c681be1d515)
+
 ---
 schema is just table metadata - thia note was prepared while on DataScience pursuits, which I left now. I am all-Django-no
 
