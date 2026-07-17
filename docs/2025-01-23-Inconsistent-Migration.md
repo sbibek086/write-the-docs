@@ -21,8 +21,6 @@ done by enter of command: python manage.py makemigrations n migrate
 
 <img width="522" height="368" alt="image" src="https://github.com/user-attachments/assets/376cca5d-8f74-41ea-91c1-0a0dfe8ec26c" />
 
-![image](https://github.com/user-attachments/assets/19c90cad-b3cc-43cf-823f-250790bec9b7)
-
 ---
 Btw, 
 a)postgres:15 is docker container
