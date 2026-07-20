@@ -1,19 +1,15 @@
 ---
 layout: default
-title: tarkari- RoadmapAhead n tech
+title: ~
 category: Programming
 tags: [Programming]
 
 ---
 
-This RoadMapAhead post written on Feb 9, 2026
+This RoadMapAhead post 
+<img width="1260" height="848" alt="image" src="https://github.com/user-attachments/assets/ace24d0a-33c8-47fe-aeef-9fcc103bcd6c" />
 
-<img width="1590" height="1081" alt="image" src="https://github.com/user-attachments/assets/5d589c71-8b71-4c0f-9c55-fd723e7a3267" />
-
-So, this means, when user clicks on 'Update n Place order', it should open NepalPay portal.
-
-
-<img width="1122" height="960" alt="image" src="https://github.com/user-attachments/assets/083bc99f-b601-4047-98b3-3d925c54d8ca" />
+<img width="649" height="253" alt="image" src="https://github.com/user-attachments/assets/9b22d878-daef-4f06-8006-45a69ebf9399" />
 
 DistributionSys
 <img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/0533bc83-1536-4bbe-82c4-d63756ce6a2d" />
