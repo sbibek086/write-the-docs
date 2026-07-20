@@ -29,6 +29,7 @@ now, below is models.py from same Authentication folder:
 
 Since now we have this below bug:  
 <img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/1a98dd0b-036e-451c-a363-648f118cf510" />
+
 {It is clear now that models.py Notification is NOT being triggered}
 
 So, I asked:
