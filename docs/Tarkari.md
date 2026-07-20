@@ -7,9 +7,7 @@ tags: [Programming]
 ---
 
 This RoadMapAhead post 
-<img width="1260" height="848" alt="image" src="https://github.com/user-attachments/assets/ace24d0a-33c8-47fe-aeef-9fcc103bcd6c" />
-
-<img width="649" height="253" alt="image" src="https://github.com/user-attachments/assets/9b22d878-daef-4f06-8006-45a69ebf9399" />
+<img width="1260" height="848" alt="image" src="https://github.com/user-attachments/assets/551a8245-651e-4787-a120-ca0022aa9125" />
 
 DistributionSys
 <img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/0533bc83-1536-4bbe-82c4-d63756ce6a2d" />
@@ -29,8 +27,8 @@ now, below is models.py from same Authentication folder:
 
 <img width="558" height="483" alt="image" src="https://github.com/user-attachments/assets/2e424384-20bd-46e0-81da-85a627d65e22" />
 
-Since now we have this bug:  
-<img width="1248" height="543" alt="image" src="https://github.com/user-attachments/assets/34dde055-01ec-4dd8-b638-171799956bb5" />
+Since now we have this below bug:  
+<img width="518" height="249" alt="image" src="https://github.com/user-attachments/assets/1a98dd0b-036e-451c-a363-648f118cf510" />
 {It is clear now that models.py Notification is NOT being triggered}
 
 So, I asked:
