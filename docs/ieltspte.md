@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ~
 category: Programming
 tags: [Programming]
@@ -29,7 +29,7 @@ https://drive.google.com/drive/folders/1vzXvkjqiOBtJ_1_FGVts6NzKGFVdbYyp?usp=sha
 
 What you will find inside Premium Folder 
 
-at ONLY at Rs. 3500 discounted price(from normal price- Rs 5000) for limited time.  
+at only Rs. 3500 discounted price(from normal price- Rs 5000) for limited time.  
 
   1-Critical Thinking drill questions video
 
@@ -51,8 +51,9 @@ at ONLY at Rs. 3500 discounted price(from normal price- Rs 5000) for limited tim
   
   LEARN. PLAN. SUCCEED
 
+📱 , whatsapp - 9808816252
+
 ❤️❤️ एकै पटक मा एक्जाम कटाउनुस् ||  फेक गुरुको हातमा आफ्नो भविष्य चौपट नगर्नुस् ❤️❤️ 
 
-📱 , whatsapp - 9808816252
 
 
