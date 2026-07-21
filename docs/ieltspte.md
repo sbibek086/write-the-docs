@@ -14,18 +14,14 @@ Get expert guidance on your IELTS PTE journey without stepping out!
 
 💻🏠
 
-Freemium Materials:
-
-https://drive.google.com/drive/folders/1P3NWJHpZqhaK94eU_MUkZGlsPBaq6xKq?usp=sharing
+freemium materials link: [here](https://drive.google.com/drive/folders/1P3NWJHpZqhaK94eU_MUkZGlsPBaq6xKq?usp=sharing)
 
 Check more of sample discourses in: [here](https://www.tiktok.com/@pteieltsguru/video/7646446373922983188)
 
 <img width="807" height="531" alt="image" src="https://github.com/user-attachments/assets/7daef9ad-321c-4a60-bf27-2d39e3e7c31f" />
 
 ---
-Get access to >> Premium Folder:
-
-https://drive.google.com/drive/folders/1vzXvkjqiOBtJ_1_FGVts6NzKGFVdbYyp?usp=sharing
+Get access to >> Premium Folder: [here](https://drive.google.com/drive/folders/1vzXvkjqiOBtJ_1_FGVts6NzKGFVdbYyp?usp=sharing)
 
 What you will find inside Premium Folder 
 
