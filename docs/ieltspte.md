@@ -53,6 +53,6 @@ at ONLY at Rs. 3500 discounted price(from normal price- Rs 5000) for limited tim
 
 ❤️❤️ एकै पटक मा एक्जाम कटाउनुस् ||  फेक गुरुको हातमा आफ्नो भविष्य चौपट नगर्नुस् ❤️❤️ 
 
-📱 , whatsapp - 9808016252
+📱 , whatsapp - 9808816252
 
 
