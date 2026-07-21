@@ -6,7 +6,7 @@ tags: [Programming]
 
 ---
 
-<img width="750" height="1125" alt="image" src="https://github.com/user-attachments/assets/a90c38bb-6859-4afa-b55a-bab74fd04572"/>
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/a90c38bb-6859-4afa-b55a-bab74fd04572"/>
 
 🎓✨ IELTS PTE Preparation 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐂𝐨𝐦𝐟𝐨𝐫𝐭 𝐨𝐟 𝐘𝐨𝐮𝐫 𝐇𝐨𝐦𝐞 ✨🎓
 
@@ -18,7 +18,7 @@ freemium materials link: [here](https://drive.google.com/drive/folders/1P3NWJHpZ
 
 Check more of sample discourses in: [here](https://www.tiktok.com/@pteieltsguru/video/7646446373922983188)
 
-<img width="807" height="531" alt="image" src="https://github.com/user-attachments/assets/7daef9ad-321c-4a60-bf27-2d39e3e7c31f" />
+<img width="500" height="329" alt="image" src="https://github.com/user-attachments/assets/7daef9ad-321c-4a60-bf27-2d39e3e7c31f" />
 
 ---
 Get access to >> Premium Folder: [here](https://drive.google.com/drive/folders/1vzXvkjqiOBtJ_1_FGVts6NzKGFVdbYyp?usp=sharing)
