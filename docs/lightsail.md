@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lightsail (dns, hooks etc in Agriii.git,pemFile)
+title: lightsail (hooks etc in Agriii.git, pemFile)
 category: Programming
 tags: [Programming]
 
