@@ -34,7 +34,7 @@ C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codes
 
 D) [Gemini:](https://gemini.google.com/app)
 <img width="1360" height="775" alt="image" src="https://github.com/user-attachments/assets/3bdf7e7e-afc7-4c77-8c23-e2a3991e4d05" />
-<img width="856" height="765" alt="image" src="https://github.com/user-attachments/assets/87ff9575-1d7f-440a-b07c-ee860c96c994" />
+<img width="856" height="596" alt="image" src="https://github.com/user-attachments/assets/ed3c431d-c802-4a29-9b96-c89726f8d439" />
 <img width="743" height="2345" alt="image" src="https://github.com/user-attachments/assets/90030430-82bf-442c-a888-e02b751347c7" />
 
 E) DeepSeek
