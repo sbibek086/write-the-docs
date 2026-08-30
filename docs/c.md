@@ -15,7 +15,6 @@ Primer: Understanding Link
 
 After eth took over contracts w auto-enforcing smart contract where code itself is escrow of trust, next is oracle to combine w smart contract
 ![image](https://github.com/user-attachments/assets/fd2579b2-94ba-4ee1-a256-a078474361f4)
-![image](https://github.com/user-attachments/assets/ccc84b36-c54d-4369-9a50-5fa88f362a4f)
 
 ---
 Topic: 
