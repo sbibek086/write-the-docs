@@ -10,8 +10,14 @@ tags: [Life]
 
 <img width="598" height="90" alt="image" src="https://github.com/user-attachments/assets/48fee7dd-de18-406c-8f4c-0a2465bc1b7f" />
 
+---
+satranjGu ta Morphy le 21 yr mai xode thyo;loser shits anyway
+
+<img width="465" height="480" alt="ezgif-683374c2a353253c" src="https://github.com/user-attachments/assets/22a6e4b2-4af3-4953-9304-44a05d99d8eb" />
+
 <img width="934" height="744" alt="image" src="https://github.com/user-attachments/assets/ff389837-1d5d-4c36-bf17-0b8732434c46" />
 
+---
 ![RockME](https://github.com/user-attachments/assets/9002b6a7-3039-44df-8957-9a393ffdde52)
 
 <img width="525" height="146" alt="image" src="https://github.com/user-attachments/assets/349d4d49-5fa1-4027-ac80-ee5929839f11" />
@@ -69,11 +75,7 @@ I found some interesting piece below:
 
 ![image](https://github.com/user-attachments/assets/54173006-4938-41e4-8c80-8244595f63cf)
 
-![image](https://github.com/user-attachments/assets/e2515bf4-32b6-446d-9913-45c59e1703ef)
-
-![image](https://github.com/user-attachments/assets/bae32b61-7f08-4440-afba-8cf09261e3b7)
- 
-![image](https://github.com/user-attachments/assets/43c87766-8493-4517-92cc-7bf99c503bbe)
+<img width="671" height="522" alt="image" src="https://github.com/user-attachments/assets/93dc40be-ebf4-4c51-821c-1f4b6fd537a1" />
 
 ---
 mistake w BJ dai. I overpitched. Then there was this moment when I was cashing out w BIkash dai, I should have tehn cashed out but I pur hold on ok, I have to wait for sometime n then m raadi ko xora sanga fase.
@@ -157,11 +159,11 @@ Eg any stupid idea can illusion as great if that video has 40k views with 100 id
 
 For example, how could I not see Cosmos ecofytem 1BC proof of stake was better model than Polkadot ICMP proof of stake model.
 
-Does that mean Pathadet is shit. No
+Does that mean Polkadot is shit. No
 
-Does that mean Cosmas will min market over Polkadot. Ves
+Does that mean Cosmos will min market over Polkadot. Ves
 
-and I was digging out Palkastarter, trying to squeeze water out of dry stune and setleg all my brains to Donnie bags words and ended up buying KILT at exchange pumped initiat price
+and I was digging out Polkastarter, trying to squeeze water out of dry stune and setleg all my brains to Donnie bags words and ended up buying KILT at exchange pumped initiat price
 
 while water fountain scas plenty in Cosmos
 
