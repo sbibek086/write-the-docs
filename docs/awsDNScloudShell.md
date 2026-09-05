@@ -22,6 +22,5 @@ in lightsail server,
 -DONT F O R G E T to del attached volumes of ec2 instance and also its static ip, so there was ridiculous bills even after instance stopping.
 
 ----
-aws-CloudShell
 
-<img width="843" height="108" alt="image" src="https://github.com/user-attachments/assets/6b173cc7-12db-44ef-bb73-8fb430500a98" />
+<img width="732" height="1062" alt="image" src="https://github.com/user-attachments/assets/5135e57c-a75e-4c8a-bf3b-c013602b3b78" />
