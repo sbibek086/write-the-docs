@@ -11,10 +11,10 @@ Before coming up on actual topic:
 ![image](https://github.com/user-attachments/assets/1e1b4242-1ff4-4c6d-a592-29ed1be94e41)
 
 ---
-Primer: Understanding Link
+Link
 
 After eth took over contracts w auto-enforcing smart contract where code itself is escrow of trust, next is oracle to combine w smart contract
-![image](https://github.com/user-attachments/assets/fd2579b2-94ba-4ee1-a256-a078474361f4)
+<img width="1125" height="1455" alt="image" src="https://github.com/user-attachments/assets/bd7a753e-b95c-4124-9b37-853ab0b15bbd" />
 
 ---
 Topic: 
