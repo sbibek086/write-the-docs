@@ -7,9 +7,7 @@ tags: [Programming]
 ---
 
 1. DNS etc
-<img width="569" height="698" alt="image" src="https://github.com/user-attachments/assets/9a54a2ec-fa0c-4cb8-9b70-1de7f67a93a3" />
-
-<img width="907" height="566" alt="image" src="https://github.com/user-attachments/assets/5f0b9c72-350c-4d97-ad51-d7a74c046e47" />
+<img width="907" height="1276" alt="image" src="https://github.com/user-attachments/assets/3afef58a-fab9-475c-b84b-270c2f3aaf07" />
 
 ---
 2. inside Agriii.git (hooks, etc)
