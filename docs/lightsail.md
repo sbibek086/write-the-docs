@@ -9,6 +9,10 @@ tags: [Programming]
 1. DNS etc
 <img width="907" height="1276" alt="image" src="https://github.com/user-attachments/assets/3afef58a-fab9-475c-b84b-270c2f3aaf07" />
 
+to make https open:
+
+<img width="533" height="510" alt="image" src="https://github.com/user-attachments/assets/b5ebc3d9-63b4-4b0d-a42c-5aebd47863d5" />
+
 ---
 2. inside Agriii.git (hooks, etc)
 <img width="1283" height="1323" alt="image" src="https://github.com/user-attachments/assets/4def8e32-d90f-4d92-b474-c08cafe1ee3b" />
