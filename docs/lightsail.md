@@ -13,7 +13,7 @@ tags: [Programming]
 
 to make https open:
 
-<img width="533" height="510" alt="image" src="https://github.com/user-attachments/assets/b5ebc3d9-63b4-4b0d-a42c-5aebd47863d5" />
+<img width="1168" height="1124" alt="image" src="https://github.com/user-attachments/assets/1ae7100f-cd5b-4aee-925b-c676291af325" />
 
 ---
 2. inside Agriii.git (hooks, etc)
