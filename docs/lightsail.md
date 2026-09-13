@@ -7,7 +7,9 @@ tags: [Programming]
 ---
 
 1. DNS etc
-<img width="907" height="1276" alt="image" src="https://github.com/user-attachments/assets/3afef58a-fab9-475c-b84b-270c2f3aaf07" />
+
+<img width="690" height="652" alt="NGINX" src="https://github.com/user-attachments/assets/a7fb9276-f340-4fad-a325-ce9ab0904c7c" />
+<img width="907" height="613" alt="NGINX2" src="https://github.com/user-attachments/assets/fb604f78-6be0-468d-a66f-facbabdfa931" />
 
 to make https open:
 
