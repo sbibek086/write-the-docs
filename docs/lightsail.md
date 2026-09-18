@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lightsail (hooks etc in Agriii.git, pemFile)
+title: ~
 category: Programming
 tags: [Programming]
 
@@ -8,9 +8,9 @@ tags: [Programming]
 
 1. DNS etc
 
-<img width="690" height="652" alt="image" src="https://github.com/user-attachments/assets/e7260667-7147-47bc-9bd8-394532c898ac" />
+<img width="1180" height="951" alt="image" src="https://github.com/user-attachments/assets/85ab0a2d-a8b3-416c-8839-3e263e3c829b" />
 
-<img width="907" height="613" alt="NGINX2" src="https://github.com/user-attachments/assets/fb604f78-6be0-468d-a66f-facbabdfa931" />
+<img width="907" height="563" alt="image" src="https://github.com/user-attachments/assets/8e4d7ae2-bf18-49c9-8f81-aa021150a286" />
 
 to make https open:
 
