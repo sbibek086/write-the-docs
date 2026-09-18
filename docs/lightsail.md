@@ -8,13 +8,16 @@ tags: [Programming]
 
 1. DNS etc
 
-<img width="1180" height="951" alt="image" src="https://github.com/user-attachments/assets/85ab0a2d-a8b3-416c-8839-3e263e3c829b" />
+<img width="1180" height="951" alt="image" src="https://github.com/user-attachments/assets/702f58f8-1a68-4c01-a4ec-bdec1ca216e3" />
 
 <img width="907" height="563" alt="image" src="https://github.com/user-attachments/assets/8e4d7ae2-bf18-49c9-8f81-aa021150a286" />
 
 to make https open:
 
 <img width="1168" height="1124" alt="image" src="https://github.com/user-attachments/assets/1ae7100f-cd5b-4aee-925b-c676291af325" />
+
+1b. Poetry bata dyangai package haru tana;
+<img width="485" height="691" alt="image" src="https://github.com/user-attachments/assets/bd9ae31b-1fab-4bbb-95cf-65e9e615de91" />
 
 ---
 2. inside Agriii.git (hooks, etc)
