@@ -13,15 +13,14 @@ tags: [Programming]
 <img width="907" height="563" alt="image" src="https://github.com/user-attachments/assets/8e4d7ae2-bf18-49c9-8f81-aa021150a286" />
 
 to make https open:
-
-<img width="1168" height="1124" alt="image" src="https://github.com/user-attachments/assets/1ae7100f-cd5b-4aee-925b-c676291af325" />
+<img width="887" height="669" alt="image" src="https://github.com/user-attachments/assets/fc7b06ba-c1fa-4b1f-b1e7-1cb424e4d676" />
 
 1b. Poetry bata dyangai package haru tana;
 <img width="485" height="691" alt="image" src="https://github.com/user-attachments/assets/bd9ae31b-1fab-4bbb-95cf-65e9e615de91" />
 
 ---
 2. inside Agriii.git (hooks, etc)
-<img width="1283" height="1323" alt="image" src="https://github.com/user-attachments/assets/4def8e32-d90f-4d92-b474-c08cafe1ee3b" />
+<img width="1283" height="655" alt="image" src="https://github.com/user-attachments/assets/4c941b01-ea2f-4b95-9ca3-dc90ad7dc801" />
 
 ----
 3. Dbeaver's Db is localDb NOT lightsailDb:
