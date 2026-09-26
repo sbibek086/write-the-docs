@@ -20,7 +20,7 @@ to make https open:
 
 ---
 2. inside Agriii.git (hooks, etc)
-<img width="1283" height="655" alt="image" src="https://github.com/user-attachments/assets/4c941b01-ea2f-4b95-9ca3-dc90ad7dc801" />
+<img width="1210" height="636" alt="image" src="https://github.com/user-attachments/assets/dd6734fd-6fe8-492d-b107-08d6f1a33a6d" />
 
 ----
 3. Dbeaver's Db is localDb NOT lightsailDb:
