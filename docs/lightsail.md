@@ -13,7 +13,7 @@ tags: [Programming]
 <img width="907" height="563" alt="image" src="https://github.com/user-attachments/assets/8e4d7ae2-bf18-49c9-8f81-aa021150a286" />
 
 to make https open:
-<img width="887" height="669" alt="image" src="https://github.com/user-attachments/assets/fc7b06ba-c1fa-4b1f-b1e7-1cb424e4d676" />
+<img width="887" height="669" alt="image" src="https://github.com/user-attachments/assets/7153d856-7d1d-42c3-87a2-8a5ba0ab8990" />
 
 1b. Poetry bata dyangai package haru tana;
 <img width="485" height="691" alt="image" src="https://github.com/user-attachments/assets/bd9ae31b-1fab-4bbb-95cf-65e9e615de91" />
