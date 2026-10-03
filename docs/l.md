@@ -11,10 +11,6 @@ tags: [Life]
 <img width="598" height="90" alt="image" src="https://github.com/user-attachments/assets/48fee7dd-de18-406c-8f4c-0a2465bc1b7f" />
 
 ---
-satranjGu ta Morphy le 21 yr mai xode thyo;loser shits anyway
-
-<img width="465" height="480" alt="ezgif-683374c2a353253c" src="https://github.com/user-attachments/assets/22a6e4b2-4af3-4953-9304-44a05d99d8eb" />
-
 <img width="934" height="744" alt="image" src="https://github.com/user-attachments/assets/ff389837-1d5d-4c36-bf17-0b8732434c46" />
 
 ---
