@@ -40,7 +40,7 @@ Then, <img width="548" height="577" alt="image" src="https://github.com/user-att
 ---
 In case needed, here is full history of inside aws ec2 till now
 
-<img width="1160" height="1407" alt="image" src="https://github.com/user-attachments/assets/4269ebaa-a619-458c-b1c1-84f5c78ba614" />
+<img width="1047" height="719" alt="image" src="https://github.com/user-attachments/assets/fbaab6f1-43b3-41f6-ba01-5f8ba419fb62" />
 
 ---
 PLease ignore below-nothing-todo-with-above-context, just saving Up for myself:
