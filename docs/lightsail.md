@@ -28,6 +28,10 @@ to make https open:
 Then whats my lightsailDb ->> watch DontDel-PostLightSailsDebaverDbIsNotOfLightSail thread inside my Claude.ai
 
 ----
+4. Fixtures are not static and media files, damnIt!
+<img width="721" height="475" alt="image" src="https://github.com/user-attachments/assets/dcd73144-0c01-49a9-aff8-7762dd88248a" />
+
+---
 Ignore this below First-time-setup- scenarios
 
 Creating lightsail instance for first time
@@ -39,7 +43,7 @@ yo mathi ko gardaa: <img width="994" height="691" alt="image" src="https://githu
 ---
 tyo pem file le ssh connect gardaa aako problem:
 
-Due to secretKeys in this img, this img is in github.com/sbibek086/sbibek086.io/Tarkari Ko tyoPemFileLeSshConnectGardaAakoProblem issue
+<img width="1026" height="420" alt="image" src="https://github.com/user-attachments/assets/03d7c377-50a5-4249-ba7f-adb58129b68c" />
 
 ---
 unNecessary instanceFees EvenAfterDel bata bacha:
