@@ -9,8 +9,10 @@ tags: [Programming]
 This RoadMapAhead post 
 <img width="1260" height="848" alt="image" src="https://github.com/user-attachments/assets/551a8245-651e-4787-a120-ca0022aa9125" />
 
-DistributionSys
-<img width="700" height="372" alt="image" src="https://github.com/user-attachments/assets/0533bc83-1536-4bbe-82c4-d63756ce6a2d" />
+---
+Amazon jasto centralized ma, one warehouse le Logistics partner marfat entire country/world delivery gare pani inventoray storage chahi central nai hunx vane 
+Hyperlocal model (Pathao) le chahi many small local vendors(shops, farmers) w their own inventory/service hunxa jun Pathao ma sign-up garee aafno utpadan rakhxan; jaa Bharatpur ko kisan le Ktm ko krisak/driver dekhdainan aafno dash ma.
+BUT this headache now not mine as I will integrate Upaya 
 
 ---
 DONT WORRY ABOUT BELOW NOW:
