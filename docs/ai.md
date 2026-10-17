@@ -32,8 +32,8 @@ B) my-KING-Claude
 
 C) [forget KiloAI utube PayForFokat ad, do this](https://github.com/simonw/codespaces-llm)
 
-D) [Gemini:](https://gemini.google.com/app)
-<img width="1360" height="775" alt="image" src="https://github.com/user-attachments/assets/3bdf7e7e-afc7-4c77-8c23-e2a3991e4d05" />
+D)  can take pdf, csv, screenshot of Chart, UI-in-Figma etc, GEMINI can summarize trends, highlight inconsistencies, calculate metrics, compare categories, reformat table, build charts. Gemini prompts: Turn a week of meeting notes into project roadmap. OR Review a PRD +feedback + design mockups, then propose design paths. OR Examine logs + screenshots + code to outline debugging steps.
+
 <img width="856" height="596" alt="image" src="https://github.com/user-attachments/assets/ed3c431d-c802-4a29-9b96-c89726f8d439" />
 <img width="743" height="2345" alt="image" src="https://github.com/user-attachments/assets/90030430-82bf-442c-a888-e02b751347c7" />
 
