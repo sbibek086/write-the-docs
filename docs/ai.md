@@ -21,10 +21,10 @@ _n btw vivek, open one terabox so that my gdrive'ss 15GB is purely for my baby c
 
 b) I uploaded msword file and then said, "Please remove blank line after each text line" while in converting pdf layout to my msword's landscape 2-columns msword. it accordingly removed and give me in raw text format to copy-paste.
 
-B) my-KING-Claude
-[claude workflow link, from which I built](https://claude.ai/share/5f6b8007-0508-4591-92d3-3c8cf802e6d3)
+B) CLAUDE CODE installed in my ubuntu 
+<img width="968" height="710" alt="image" src="https://github.com/user-attachments/assets/dc8c9009-7ad4-424a-a163-b8154ebe9cfe" />
 
-<img width="893" height="657" alt="image" src="https://github.com/user-attachments/assets/371af780-ce27-4f18-8f8f-606210493779" />
+<img width="999" height="738" alt="image" src="https://github.com/user-attachments/assets/19c1b3b2-a9d0-42d5-ad04-e7e4032d8ba5" />
 
 <img width="640" height="912" alt="image" src="https://github.com/user-attachments/assets/1c834a7f-26cc-41b8-82bd-606c56224de9" />
 
@@ -61,8 +61,3 @@ Eureka moment of whole console.google.com (- Google's aws equivalent) DISCOVERY
 
 ----
 <img width="1227" height="583" alt="image" src="https://github.com/user-attachments/assets/21ad9dc5-1be4-4012-9d28-c184f3f4c22c" />
-
-G) chad CLAUDE prj dir style:
-
-<img width="968" height="710" alt="image" src="https://github.com/user-attachments/assets/dc8c9009-7ad4-424a-a163-b8154ebe9cfe" />
-
