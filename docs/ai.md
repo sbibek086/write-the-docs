@@ -61,3 +61,8 @@ Eureka moment of whole console.google.com (- Google's aws equivalent) DISCOVERY
 
 ----
 <img width="1227" height="583" alt="image" src="https://github.com/user-attachments/assets/21ad9dc5-1be4-4012-9d28-c184f3f4c22c" />
+
+G) chad CLAUDE prj dir style:
+
+<img width="968" height="710" alt="image" src="https://github.com/user-attachments/assets/dc8c9009-7ad4-424a-a163-b8154ebe9cfe" />
+
